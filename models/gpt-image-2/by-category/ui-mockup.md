@@ -1,4 +1,4 @@
-# UI Mockup (11)
+# UI Mockup (22)
 
 ## 916 Coser头像截图
 
@@ -190,5 +190,253 @@ Screenshot of a YouTube video showing someone who time-traveled to the Middle Ag
 背景充满了丰富多彩的创意设计板、作品集布局、排版海报、UI 模型、网格构成
 
 居中构图、优雅的间距、优质的 UI 设计、柔和的灯光、微妙的深度、产品登陆页面、8k、超干净
+```
+
+## Create a landing page for a ramen shop named KURIGAWA using ...
+
+- author: DStudioproject
+- source: https://x.com/D_studioproject/status/2047345174872044022
+- preview: assets/gpt-image-2-x-discussions/kurigawa-ramen-landing-page-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a landing page for a ramen shop named KURIGAWA using this image as a reference style. Make the colors slightly warmer than the reference image.
+```
+
+## GPT Image 2 UI Mockup Prompt: A hyper-realistic UI/UX mockup...
+
+- author: Zara
+- source: https://x.com/ZaraIrahh/status/2047179669011616172
+- preview: assets/gpt-image-2-x-discussions/laptop-ui-ux-mockup-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT Image 2 UI Mockup Prompt:
+A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
+```
+
+## {"type":"e-commerce skincare product page mockup","brand":{"...
+
+- author: Raúl | Productividad & IA
+- source: https://x.com/Raul_IA_Prod/status/2047028367841804582#reversed-0
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-luxury-skincare-product-page-mockup-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"e-commerce skincare product page mockup","brand":{"name":"GLOW.","style":"minimal luxury skincare branding"},"product":{"name":"{argument name=\"product name\" default=\"Hyaluronic Acid Serum\"}","category":"serum","price":"{argument name=\"price\" default=\"$36.00\"}","rating":{"stars":5,"score":"4.8","reviews":"(1200 reviews)"},"badge":"BESTSELLER","description":"A lightweight, fast-absorbing serum that delivers intense hydration, visibly plumps, and helps smooth the look of fine lines.","size":"30ml / 1 fl oz","payment_note":"Pay in 4 interest-free payments of $9.00 with afterpay","benefits":["Deep Hydration","Plumps + Smooths","Fragrance Free"],"shipping_note":"Free shipping on orders over $50"},"visual":{"primary_packshot":"clear glass dropper bottle with white cap and white label, black minimalist text, placed on a warm beige surface with a small beige stone sphere on the left and a large round marble disc on the right, soft studio shadows, clean premium skincare ad lighting","gallery_thumbnails":{"count":4,"items":["front product bottle on beige set","serum texture droplets on beige background","open bottle with serum dropper above neck","soft lifestyle skin-toned close-up blur"]}},"layout":{"background":"light gray studio backdrop","canvas":"wide desktop website mockup with a mobile version shown to the right","sections":[{"title":"desktop product page","position":"left","count":12,"labels":["top shipping bar","brand header with navigation","breadcrumb","thumbnail gallery","main product image","bestseller badge","product title","rating and reviews","price and payment note","size selector","quantity stepper","add to cart and buy it now buttons"]},{"title":"feature icons row","position":"bottom-left under main image","count":3,"labels":["Deep Hydration","Plumps + Smooths","Fragrance Free"]},{"title":"mobile product page preview","position":"right","count":11,"labels":["top shipping bar","mobile header with menu and cart","breadcrumb","main product image","carousel dots","bestseller badge","product title","rating and reviews","price and payment note","quantity stepper","add to cart and buy it now buttons"]}],"desktop_header":{"announcement":"Free shipping on orders over $50","nav_items":["SHOP","BESTSELLERS","SKINCARE QUIZ","ABOUT","JOURNAL"],"icons":["search","account","cart with item count 2"]},"breadcrumb":["Home","Shop","Serums","Hyaluronic Acid Serum"],"mobile_header":{"announcement":"Free shipping on orders over $50","icons":["menu","cart with item count 2"]}},"style":{"aesthetic":"clean modern Shopify-style product page","color_palette":["white","soft beige","light gray","black","warm stone"],"typography":"elegant serif product title paired with minimalist sans-serif UI text","render_quality":"ultra-clean, crisp, realistic, premium e-commerce design, high resolution, ad-ready"}}
+```
+
+## Create a polished Japanese landing page hero image for a fic...
+
+- author: 岡野タケシ弁護士【アトム法律グループ】
+- source: https://x.com/takeshibengo/status/2047061602315460747#reversed-1
+- preview: assets/gpt-image-2-x-discussions/product-marketing-elegant-japanese-divorce-law-lp-hero-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a polished Japanese landing page hero image for a fictional divorce-law firm, designed like a high-conversion listing ad LP. Use a soft, elegant, feminine legal-brand aesthetic with a white background, blush pink accents, light gray dividers, and subtle botanical line art. The layout is a single wide desktop web hero split into two main columns: text-heavy content on the left and a lifestyle photo on the right. In the upper left, place the law firm logo and name: a delicate scripted monogram “D” with leaf ornament, followed by the Japanese office name and small English subtitle, shown as {argument name="firm name" default="法律事務所D"} and “LAW OFFICE D”. At the top right, include 2 rounded contact boxes: the first is a white phone box with a small phone icon and “24h”, short Japanese support text above, and the large phone number {argument name="phone number" default="0120-456-789"}; the second is a pink email consultation button with an envelope icon and Japanese text indicating 24-hour reception. The main headline on the left is a large Japanese serif/mincho-style statement in 3 lines: “もう一人で悩まないで。” then “新しい一歩を、” in pink, then “一緒に考えます。” mixing black and pink emphasis. Below it, add a short supporting paragraph in Japanese about supporting clients with divorce-related worries and helping find the best solution, with one phrase highlighted in pink. On the right side, show a bright, airy photo of a Japanese woman in her 30s with short dark brown hair, wearing a loose white top, seated indoors on a sofa by a window, resting her face lightly on one hand and looking thoughtful; her face is obscured by a large rectangular blur block for privacy. Near her shoulder, place a pale pink circular badge with Japanese text saying that many female lawyers are on staff and consultations can be made with peace of mind. Across the lower middle, place 4 evenly spaced rounded white feature cards with thin borders and pink line icons. Card 1 shows a speech-bubble icon and text for “初回相談 60分無料” with a smaller line saying online consultation is also available. Card 2 shows a heart-in-hands icon and text about handling children’s issues carefully, with a smaller line mentioning custody and visitation. Card 3 shows stacked coins with a yen symbol and text about relieving anxiety over fees with a clear pricing structure, plus a smaller line about installment consultation. Card 4 shows a padlock icon and text about privacy protection and strict confidentiality, with a smaller line encouraging safe consultation. At the bottom, add a large curved pink-and-white call-to-action band spanning the width. On the left side of this band, include a circular phone icon, small Japanese text encouraging casual consultation and 24/365 reception, then the large repeated phone number {argument name="phone number" default="0120-456-789"}, and beneath it smaller reception hours text. On the right side of the band, place a large pink rounded email button with envelope icon and Japanese text saying email consultation is available 24 hours. Along the very bottom, place 3 slim footer-style trust points separated horizontally: one about focusing on divorce consultation for women, one about consultations from family and friends also welcome, and one about nationwide and online consultations. Use refined Japanese typography, spacious layout, soft shadows, premium legal-advertising design, and realistic web-LP composition. Keep all visible text in Japanese except the small English subtitle “LAW OFFICE D”.
+```
+
+## Create a clean, premium Japanese landing page hero image for...
+
+- author: 岡野タケシ弁護士【アトム法律グループ】
+- source: https://x.com/takeshibengo/status/2047061602315460747#reversed-2
+- preview: assets/gpt-image-2-x-discussions/product-marketing-japanese-inheritance-tax-lp-hero-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a clean, premium Japanese landing page hero image for a fictional tax accountant office specializing in inheritance tax consultation. The design should look like a modern listing-ad LP first view, wide desktop format, with a soft ivory and warm white background, muted sage green and gold accent colors, elegant serif Japanese typography for the headline, and a calm trustworthy atmosphere. On the left upper area, place a refined circular logo with a thin gold ring, a large serif letter C, and a small botanical line illustration, followed by the office name 税理士事務所 {argument name="office name" default="C"} and the English subtitle TAX ACCOUNTANT OFFICE {argument name="office name" default="C"}. In the top right, add a rounded white contact bar split into 2 blocks: a phone block with a green circular phone icon, the small text 初回相談無料・土日祝も対応, and the large number {argument name="phone number" default="0120-987-654"}; and a mail block with a gold circular mail icon and the text メールでのお問い合わせ 24時間受付中. The main headline on the left should be large Japanese text reading 相続の不安に、安心という答えを。, with the key phrase 安心という答えを。 in sage green. Beneath it, add a supporting sentence in smaller Japanese text: 相続税の申告・節税対策を、経験豊富な税理士がご家族の想いに寄り添い、丁寧にサポートします。 Below that, place 3 rounded rectangular feature cards in a row with pale backgrounds and green line icons: card 1 shows a document icon and the text 相続税申告実績 1,000件以上 with a tiny note ※累計実績; card 2 shows a bar chart icon and the text 節税対策のご提案で 税負担を軽減 with a tiny note ※状況により効果は異なります; card 3 shows a group icon and the text 初回相談 無料 with a tiny note 安心の明朗会計. On the right half, show a bright consultation scene photo-style image: 3 Japanese adults around a desk in a sunlit office with greenery in the background, consisting of 1 male advisor in a navy suit seen from behind on the right, and 2 clients facing him, a middle-aged man in a light beige jacket and a woman in a white blouse. Place an open laptop on the table. Their expressions should feel calm and attentive. Overlay a pale circular badge near the lower right of the photo with delicate leaf decoration and the text 安心の 相続専門サポート わかりやすいご説明ではじめての方も安心. Across the lower middle, add a slim consultation invitation line reading 相続に関するお悩み、まずはお気軽にご相談ください, framed by diagonal slash marks. Under it, place 4 rounded category tabs in a row: 相続税の申告, 生前対策・節税, 遺産分割サポート, 二次相続対策. At the bottom right, add a large green rounded contact CTA area split into 2 main columns: the left column with a white phone icon, the small text お電話でのお問い合わせ（フリーダイヤル）, the large number {argument name="phone number" default="0120-987-654"}, and the small line 受付時間 9:00〜18:00（土日祝対応可）; the right column with a white mail icon, the text メールでのお問い合わせ 24時間受付中, and a rounded white button reading ご相談はこちらから. Along the very bottom, create a white reassurance strip with 3 horizontally arranged items separated by thin vertical dividers: 1) shield icon and 秘密厳守・プライバシー保護を徹底, 2) clipboard icon and 明朗会計・事前お見積りで安心, 3) handshake icon and 相続の専門家がワンストップで対応. Use subtle shadows, rounded corners, soft natural light, polished commercial web design, and a highly believable Japanese legal-tax service advertisement aesthetic.
+```
+
+## A Japanese listing-ad style landing page hero banner for a f...
+
+- author: 岡野タケシ弁護士【アトム法律グループ】
+- source: https://x.com/takeshibengo/status/2047061602315460747#reversed-3
+- preview: assets/gpt-image-2-x-discussions/social-media-post-japanese-legal-services-lp-banner-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A Japanese listing-ad style landing page hero banner for a fictional law office and tax accountant office, designed like a bold web advertisement with four equal vertical panels across the top and a strong call-to-action area across the bottom. The top row contains exactly 4 service panels, each with a colored header bar, a photo-realistic stock-photo image, and a colored caption bar at the bottom. Panel 1 is red and labeled 「刑事事件」 at the top, showing a close-up of two hands gripping dark prison bars against a black background; the bottom red caption reads 「逮捕・訴訟に即対応！」 in large bold white Japanese text. Panel 2 is blue and labeled 「交通事故」 at the top, showing a realistic rear-end car crash with two damaged dark-colored sedans on a city street in daylight; the bottom blue caption reads 「慰謝料・示談もお任せ！」 in large bold white Japanese text. Panel 3 is green and labeled 「相続税」 at the top, showing an elderly couple seated at a table consulting with a suited professional, with papers and a small house model visible; the bottom green caption reads 「税相続対策をしっかりサポート！」 in large bold white Japanese text. Panel 4 is orange and labeled 「離婚問題」 at the top, showing a distressed woman sitting indoors with her head resting on one hand; the bottom orange caption reads 「慰謝料・親権の悩みを解決！」 in large bold white Japanese text. Make the four panels touch edge-to-edge with clean white dividers, each panel occupying the same width, and use highly saturated primary colors with glossy ad-design styling. Beneath the four panels, create a cream or light beige background footer area. On the left side, place a smaller black subheadline in Japanese: 「法律相談・税務相談なら」. Centered below it, place the large main office name in metallic gold gradient bold Japanese lettering with a slight bevel effect: 「{argument name="office name" default="〇〇法律事務所・税理士事務所"}」. Add thin black horizontal divider lines above and below the main office name. On the lower right, place a large glossy red rounded rectangular button with a bright gradient and white bold Japanese text reading 「{argument name="button text" default="無料相談受付中！"}」. The overall style should feel like a Japanese legal and tax services LP main visual from a listing ad: corporate, urgent, trustworthy, commercial, photo-based, clean grid layout, bold typography, high contrast, and realistic brochure-quality compositing.
+```
+
+## Create a clean, modern Japanese webinar thumbnail in a wide ...
+
+- author: KAWAI
+- source: https://x.com/kawai_design/status/2046786073452568588#reversed-0
+- preview: assets/gpt-image-2-x-discussions/youtube-thumbnail-japanese-ai-design-webinar-thumbnail-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a clean, modern Japanese webinar thumbnail in a wide 16:9 layout with a corporate tech-design aesthetic. Use a very light gray background with subtle diagonal translucent panels and bold electric-blue geometric accents, including 3 angular blue-and-white ribbon shapes on the right side behind the speaker. The composition is split into 2 main horizontal sections: a large hero area on top and an information bar across the bottom. In the top-left hero area, place a large bold sans-serif Japanese headline in vivid blue on 2 lines reading {argument name="headline text" default="AI×デザインで\n新事業を創出"}. Beneath it, add a dark-blue rectangular banner with centered white bold text reading {argument name="subheadline text" default="〜社員AI活用率90%超・デザイン費削減達成する方法〜"}. On the right half, show a sharply lit half-body portrait of {argument name="speaker name" default="川合 卓也"}, an East Asian man in his 30s with short black hair, wearing a navy blazer over a white crew-neck shirt, arms folded, facing slightly left toward the headline. His face is intentionally obscured by a square skin-tone blur block centered over the face. Next to his torso, place a white rectangular name card with 2 lines of small black Japanese text above a larger bold black name: {argument name="speaker title" default="株式会社SHIFT AI\nデザイン部長/講師"} and {argument name="speaker name" default="川合 卓也"}. Across the bottom, create a white info bar with thin blue vertical dividers and 4 visual components from left to right: 1) a blue gradient angular K logo with the brand text KAWAI DESIGN in black uppercase sans-serif, 2) the date in large blue text reading 2026/2/9, 3) a blue filled circle containing the white Japanese weekday 月 followed by the time 21:30〜22:30 in large blue text, 4) a blue outlined laptop-and-chat icon followed by the blue text オンライン. Keep typography bold and highly legible, with strong hierarchy, generous spacing, precise alignment, minimal clutter, and a polished webinar promotional design suitable for a business landing page or social media thumbnail.
+```
+
+## {   "type": "live stream UI mockup",   "subject": {     "des...
+
+- author: 神经病不想好转
+- source: https://x.com/sjbbxhz/status/2045684734714380687#reversed-0
+- preview: assets/gpt-image-2-x-discussions/e-commerce-live-stream-ui-mockup-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{
+  "type": "live stream UI mockup",
+  "subject": {
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic",
+    "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car"
+  },
+  "ui_overlay": {
+    "top_header": {
+      "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button",
+      "rank_badge": "gold coin icon with '全站第1名'",
+      "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button",
+      "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag"
+    },
+    "mid_left_gifts": {
+      "count": 2,
+      "items": [
+        "avatar '科技爱好者', '送小心心', heart icon x 1314",
+        "avatar '星辰大海', '送火箭', rocket icon x 666"
+      ]
+    },
+    "bottom_left_chat": {
+      "system_message": "level 37 badge '宇宙漫游者 加入了直播间'",
+      "message_count": 7,
+      "messages": [
+        "小火箭: 马斯克！未来可期！🚀",
+        "future: 特斯拉Model 2什么时候出？",
+        "星空梦想家: SpaceX今年能上火星吗？",
+        "AI探索者: Neuralink进展如何？",
+        "帅气的网友: 马总好！",
+        "Mars: 第一次来你的直播，超激动！",
+        "用户123: 讲讲AI吧，会取代人类吗？"
+      ]
+    },
+    "bottom_right_product_card": {
+      "hot_tag": "orange '热卖 x 1888'",
+      "image": "Tesla Cybertruck",
+      "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}",
+      "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}",
+      "button": "red '抢' button",
+      "floating_animation": "translucent hearts floating up the right edge"
+    },
+    "bottom_bar": {
+      "input_field": "'说点什么...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
+    }
+  }
+}
+```
+
+## modern SaaS website homepage, figma style, clean navigation ...
+
+- author: 秋风_irwin
+- source: https://x.com/qiufenghyf/status/2044982293497090128
+- preview: assets/gpt-image-2-x-discussions/modern-saas-homepage-design-boards-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+modern SaaS website homepage, figma style, clean navigation bar, hero section with floating prompt input UI, rounded card, soft shadow, minimal design
+
+background filled with colorful creative design boards, portfolio layouts, typography posters, UI mockups, grid composition
+
+centered composition, elegant spacing, premium UI design, soft lighting, subtle depth, product landing page, 8k, ultra clean
+```
+
+## {   "type": "UI/UX landing page mockup",   "theme": "dark mo...
+
+- author: 开发者Hailey
+- source: https://x.com/IndieDevHailey/status/2044974254769463312#reversed-0
+- preview: assets/gpt-image-2-x-discussions/product-marketing-dark-mode-marketing-case-study-ui-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{
+  "type": "UI/UX landing page mockup",
+  "theme": "dark mode, sleek modern aesthetic, glassmorphism, {argument name=\"primary accent color\" default=\"neon purple and blue\"} glowing accents",
+  "header": {
+    "logo": "{argument name=\"brand name\" default=\"goViralX\"}",
+    "top_right_tag": "VIRAL CAMPAIGN CASE STUDY"
+  },
+  "layout": {
+    "sections": [
+      {
+        "name": "Hero",
+        "headline": "{argument name=\"hero headline\" default=\"How We Created 10M+ Viral Impact\"}",
+        "subheadline": "3天引爆全网, 助力品牌实现指数级增长",
+        "stats_row": {
+          "count": 4,
+          "labels": ["总播放量", "互动率", "转化咨询", "执行周期"],
+          "values": ["{argument name=\"main statistic\" default=\"10,240,000+\"}", "18.7%", "3,200+", "72小时"]
+        },
+        "visual": "cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay"
+      },
+      {
+        "name": "Strategy",
+        "title": "Our 3-Day Execution Strategy",
+        "layout_type": "vertical timeline",
+        "steps_count": 3,
+        "elements_per_step": ["timeline node", "title", "bullet points", "video thumbnail with play button", "description box"]
+      },
+      {
+        "name": "Performance",
+        "title": "Data-Driven Performance",
+        "left_column": {
+          "stat_cards_count": 4,
+          "values": ["10M+", "43%", "28,000+", "3,200+"]
+        },
+        "right_column": {
+          "charts_count": 2,
+          "chart_1": "line graph showing 7-day growth peaking at Day 3",
+          "chart_2": "horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)"
+        }
+      },
+      {
+        "name": "Keys to Success",
+        "title": "The 3 Keys to Viral Success",
+        "cards_count": 3,
+        "card_elements": ["glowing icon (fire, target, antenna)", "title", "description", "VIEW DETAIL link"]
+      },
+      {
+        "name": "Social Proof",
+        "title": "TRUSTED BY CREATORS & BRANDS",
+        "left_column": {
+          "logos_count": 8,
+          "grid": "2x4",
+          "brands": ["SHEIN", "SHOPLINE", "Blueglass", "instacart", "lemon8", "mi", "CIDER", "bellroy"]
+        },
+        "right_column": {
+          "testimonial_cards_count": 2,
+          "elements": ["quote", "author title (SaaS Founder, Growth Manager)"]
+        }
+      },
+      {
+        "name": "Call to Action",
+        "title": "READY TO GO VIRAL?",
+        "interactive_elements": ["text input field", "glowing button with text '{argument name=\"call to action text\" default=\"获取专属增长方案 ->\"}'"],
+        "visual": "3D render of a rocket ship taking off with purple and blue flames"
+      }
+    ]
+  }
+}
+```
+
+## Minimal SaaS Launch Hero
+
+- preview: assets/generated/minimal-saas-hero.png
+- lang: en
+- upstream: AzhuTech/awesome-gpt-image-2-prompts
+
+```
+Generate a polished SaaS launch hero image showing a floating analytics dashboard UI over a calm off-white background. The dashboard should use restrained black, sage green, and coral accents. Include realistic text placeholders: 'Revenue', 'Retention', 'Forecast', and 'Weekly active users'. Make the UI crisp and legible, with soft shadows and a product-led startup aesthetic. No people, no decorative blobs, no unreadable fake text.
 ```
 

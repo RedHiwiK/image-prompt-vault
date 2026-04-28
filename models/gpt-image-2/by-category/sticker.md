@@ -1,4 +1,4 @@
-# stickers (1)
+# Sticker (1)
 
 ## Developer Sticker Sheet
 

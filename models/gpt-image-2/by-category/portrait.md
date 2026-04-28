@@ -1,4 +1,17 @@
-# Portrait (68)
+# Portrait (97)
+
+## Using this prompt, you can generate high-quality images. Prompt Example: "Portrait by GPT
+
+- author: プロンプトキュレーションMagazine @payto_mypain
+- source: https://x.com/payto_mypain/status/2047465907333799989
+- preview: https://pbs.twimg.com/media/HGoPZKPagAAFbMP?format=jpg&name=medium
+- lang: en
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+Using this prompt, you can generate high-quality images. Prompt Example: "Portrait by GPT Image 2 ---prompt--- 9:16 vertical — Japanese Fuji film style" 184 likes via @BubbleBrain
+```
 
 ## 35mm 模拟警察时尚人像
 
@@ -1097,5 +1110,449 @@ Sweet-cool atmospheric beauty, soft alluring look, tall and slender figure  Scen
 
 ```
 9:16 竖图，韩系偶像私密人像，男友视角。柔和 black mist、奶油色调、微微过曝与暖窗光；宽松白衬衫与短裤，近距离手持感，像被偶然拍到的亲密瞬间。
+```
+
+## portrait of a young woman with short curly black hair and fa...
+
+- author: 𝗦𝗮𝗻𝗶𝗮
+- source: https://x.com/saniaspeaks_/status/2048431408318705733
+- preview: assets/gpt-image-2-x-discussions/safety-goggles-motion-blur-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+portrait of a young woman with short curly black hair and fair skin, wearing transparent safety goggles and a blue ribbed turtleneck sweater, seated in front of a solid azure blue background, double-exposure motion blur effect to the left side of the face, subtle soft reflections on the glasses, cold ambient lighting, high sharpness on facial features with dreamlike blur trail overlaying second face, fashion editorial studio setup, icy color palette, futuristic retro mood.
+```
+
+## GPT Image 2 on ChatGPT app. Prompt: A cinematic side-profile...
+
+- author: Aijaz
+- source: https://x.com/iamsofiaijaz/status/2047882171336253928
+- preview: assets/gpt-image-2-x-discussions/cyberpunk-sci-fi-profile-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT Image 2 on ChatGPT app.
+Prompt:
+A cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps, celestial navigation diagrams, grids, and holographic UI elements. Fiery particle effects and ember-like energy swirl around him, creating a cosmic, high-tech atmosphere. Dark color palette with strong contrast, dramatic lighting, ultra-detailed, sharp focus, 8K, cyberpunk aesthetic, cinematic composition, depth of field.
+```
+
+## A high-fashion cinematic portrait of a young woman with a th...
+
+- author: Saul Goodman
+- source: https://x.com/Goodmanprotocol/status/2047537816532549643
+- preview: assets/gpt-image-2-x-discussions/architectural-blueprint-maple-fashion-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A high-fashion cinematic portrait of a young woman with a thoughtful expression, looking slightly upward. The image is a deconstructed multimedia collage: her face is overlaid with faint, intricate architectural blueprints, geometric grid lines, and technical schematics. The composition features an explosive, splattered edge effect with charcoal and white paint strokes. Scattered hyper-realistic orange autumn maple leaves drift around her neck and hair.She wears a thick, textured brown knit scarf. High-contrast lighting, 8k resolution, ultra-sharp focus on the eyes, featuring hyper-realistic skin textures, muted earth-tone color palette with pops of vibrant orange, editorial photography style.
+```
+
+## Create a hairstyle analysis chart using this portrait. Show ...
+
+- author: MrDejie
+- source: https://x.com/mrdejie/status/2047533921332818228
+- preview: assets/gpt-image-2-x-discussions/hairstyle-analysis-chart-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a hairstyle analysis chart using this portrait. Show side-by-side hairstyle comparisons to highlight which hairstyles suit the subject best. Make it visual first, with only short labels and no paragraphs.
+```
+
+## An ultra-realistic cinematic portrait of a woman from a phot...
+
+- author: Harboris
+- source: https://x.com/harboriis/status/2047505577627263251
+- preview: assets/gpt-image-2-x-discussions/miniature-self-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+An ultra-realistic cinematic portrait of a woman from a photo, fully preserving her facial features, natural skin texture, realistic hair strands, and simple everyday clothing. The woman holds a small 3D miniature of herself in the palm of her hand. She looks at the miniature with obvious surprise and slight pleasure, with raised eyebrows, a soft smile, and expressive eyes. Her facial expression appears spontaneous and authentic. The miniature version is very similar to this woman in facial structure, hairstyle, and clothing, but is rendered in a smooth, high-quality 3D cartoon style. The miniature features a disproportionately large cartoon head and an exaggerated, playful expression. Both characters are dressed in the same casual attire—a patterned sweater with accurate color scheme and fabric texture. The difference in scale is obvious and visually playful. The lighting is professional cinematic, with clear object separation, soft highlights on the skin, and subtle contour lighting around both figures. Ultra-detailed textures for a real person. Clean, realistic 3D textures for the miniature. Balanced realism.
+```
+
+## Classic Bathtime Portrait of a Chicken in a Miniature Clawfo...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2047370565497856013
+- preview: assets/gpt-image-2-x-discussions/anime-chicken-katana-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Classic Bathtime Portrait of a Chicken in a Miniature Clawfoot Tub
+
+An anime-style chicken mid-leap with a tiny katana in its wing, slashing through drifting sakura petals. The background is a blurred pastel forest of blooming cherry blossoms. The chicken wears a mint-green ninja scarf fluttering behind, and the light glows with soft pink and gold.
+```
+
+## make a coloring book page with themes of [SUBJECTS],  portra...
+
+- author: Kris Kashtanova
+- source: https://x.com/icreatelife/status/2047342664442392640
+- preview: assets/gpt-image-2-x-discussions/coloring-book-page-template-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+make a coloring book page with themes of [SUBJECTS],  portrait Mode
+
+Any themes you'd want me to try next? Curious to hear your ideas
+```
+
+## A dreamy vertical spring portrait photo of a young woman sta...
+
+- author: かなまる
+- source: https://x.com/uniyume/status/2047116213462171750#reversed-0
+- preview: assets/gpt-image-2-x-discussions/dreamy-nemophila-date-portrait-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A dreamy vertical spring portrait photo of a young woman standing in profile in a vast field of tiny blue nemophila flowers under a bright blue sky with soft white clouds. She wears a fitted ribbed knit dress in {argument name="dress color" default="pale sky blue"} with elbow-length sleeves, and her long straight brown hair is blowing dramatically to the right in the wind. Frame her from about mid-thigh upward, slightly off-center to the right, with the flower field filling the background and a small rope fence with wooden posts visible along the lower right edge beside a gravel path. Use soft natural morning sunlight, airy high-key exposure, gentle pastel tones, shallow depth of field, subtle lens bloom, and a romantic social-media snapshot aesthetic. Add a few large out-of-focus white flower petals drifting across the foreground. Overlay handwritten white Japanese text directly on the image: at the upper left, "{argument name="greeting text" default="おはよう"}" with a small doodled cloud beside it; below that, the date "{argument name="date text" default="2026.04.22"}"; across the lower middle-right, "{argument name="main note text" default="嫁と ネモフィラデート✌︎"}"; and beneath it, "{argument name="sub note text" default="に使っていいよっ♡"}". Keep the handwriting casual, playful, and slightly uneven like a marker pen on a photo.
+```
+
+## A centered studio portrait of a fluffy {argument name="cat b...
+
+- author: 폴로 AI
+- source: https://x.com/polloai_kr/status/2047164497916539290#reversed-0
+- preview: assets/gpt-image-2-x-discussions/studio-portrait-of-a-fluffy-blue-eyed-kitten-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A centered studio portrait of a fluffy {argument name="cat breed" default="ragdoll kitten"} sitting upright and facing directly toward the camera against a seamless pure white background. The kitten has 2 visible ears, 2 vivid {argument name="eye color" default="blue"} eyes, a small pink nose, long white whiskers, and a soft symmetrical expression that feels gentle and curious. Its coat is predominantly white with very light silver-gray shading on the face, ears, sides, and tail, with a plush long-haired texture and a full chest ruff. The ears are darker gray at the tips, the face has subtle gray mask markings around both eyes, and the tail is thick, fluffy, and curled around to the front on the left side of the body. Show the full body from head to paws in a clean front-facing seated pose with 2 front paws visible and close together. Use soft high-key lighting, minimal shadows, ultra-detailed fur, sharp focus on the face, realistic pet photography, centered composition, and a calm minimal aesthetic.
+```
+
+## {"type":"character design blueprint sheet","style":"technica...
+
+- author: Cheetah
+- source: https://x.com/Cheetah_x0/status/2047079352345440535#reversed-0
+- preview: assets/gpt-image-2-x-discussions/anime-character-blueprint-sheet-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"character design blueprint sheet","style":"technical concept art, black blueprint background with faint square grid, thin white line art, minimalist monochrome drafting aesthetic","subject":{"category":"anime-inspired male character head turnaround","name":"{argument name=\"character name\" default=\"MALE_01\"}","gender_presentation":"male","age_appearance":"young adult","hair":{"color":"{argument name=\"hair color\" default=\"black\"}","style":"short spiky layered hair with sharp jagged strands, dense volume at the crown, tapered sides and back"},"eyes":{"color":"{argument name=\"eye color\" default=\"brown\"}"},"accessories":{"earrings":"small studs in both ears"},"clothing":{"top":"high-collar structured jacket, open slightly at the front, clean angular seams"},"tattoos":["cross on right cheek","floral tattoo climbing the left side of the neck"]},"layout":{"orientation":"portrait sheet","sections":[{"title":"front view main portrait","position":"left large panel","count":1,"details":"large head-and-shoulders front view with neck tattoo visible above the raised collar, ears visible, dimension line showing width 160 and vertical height 220"},{"title":"01 | SIDE VIEW","position":"upper right panel","count":1,"details":"right-facing side profile, collar visible, width measurement 100"},{"title":"02 | BACK VIEW","position":"middle right panel","count":1,"details":"back of head and upper shoulders, centerline shown, width measurement 160"},{"title":"03 | NECK TATTOO DETAIL","position":"bottom center-left inset","count":1,"details":"close-up inset of the floral neck tattoo beside the jawline and collar"},{"title":"NOTES:","position":"bottom right","count":4,"labels":["HAIR: SPIKED, BLACK","EYES: BROWN","TATTOOS: CROSS (RIGHT CHEEK) FLORAL (LEFT NECK)","EARRINGS: BOTH EARS"]}],"header":{"top_left":["SUBJECT: {argument name=\"subject code\" default=\"MALE_01\"}","CLASS: CHARACTER DESIGN","STATUS: APPROVED"],"top_right":["DATE: {argument name=\"date\" default=\"05/20/2024\"}","SCALE: 1:1"]},"legend":{"bottom_left":["UNIT: mm","OUTLINE","CONSTRUCTION","CENTERLINE"]}},"composition":"clean drafting-page layout with thin panel borders, measurement arrows, center guides, and blueprint annotation typography; all text in crisp white uppercase sans-serif","color_palette":{"background":"black","lines":"white","grid":"dark gray","accents":"none"}}
+```
+
+## A hyper-detailed anime-style fisheye peephole portrait of a ...
+
+- author: 人中の便・星
+- source: https://x.com/hoshi122221/status/2046961083219656747#reversed-0
+- preview: assets/gpt-image-2-x-discussions/anime-girl-through-a-peephole-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A hyper-detailed anime-style fisheye peephole portrait of a young woman leaning in extremely close to the lens in a narrow dim apartment hallway at night. The entire image is framed by the dark circular rim of a door peephole, creating heavy barrel distortion and an intimate, slightly unsettling perspective. She bends forward with both hands resting on her knees, face tilted up toward the viewer, filling most of the frame with one enormous visible eye and a sly, knowing half-smile. Her hair is {argument name="hair color" default="vivid cobalt blue"}, long and slightly tousled with layered bangs covering part of her face, and a black ribbon bow tied at the back. She wears 2 visible star accessories: a metallic star hair clip near her bangs and a small star pin on her blue jacket. Her visible eye is luminous blue with a star-shaped highlight in the iris, rendered with glossy, intricate detail; the other eye is mostly hidden in shadow and hair, half-lidded. She wears a shiny blue bomber-style jacket over a dark top, a delicate necklace with a small cross or star-like pendant, and a dangling chain accessory at her side. Her legs are bare, and she wears dark ankle boots. The setting is a cramped worn corridor with concrete flooring, aged walls, a fluorescent ceiling light, a doorframe, and a small wall-mounted utility box or intercom in the background. Use moody cinematic lighting with cool blue-purple tones, deep shadows, subtle specular highlights, and a slightly eerie but beautiful atmosphere. Highly polished digital illustration, ultra-detailed eyes, soft skin shading, crisp fabric folds, reflective surfaces, dramatic perspective, centered composition, vertical portrait format.
+```
+
+## A candid smartphone mirror selfie in a moody upscale restroo...
+
+- author: Keskin
+- source: https://x.com/craftian_keskin/status/2047046373401301055#reversed-0
+- preview: assets/gpt-image-2-x-discussions/flash-mirror-selfie-in-red-restroom-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A candid smartphone mirror selfie in a moody upscale restroom with deep {argument name="wall color" default="crimson red"} textured walls and a large round mirror with a thin black frame dominating the composition. A {argument name="subject" default="young woman"} with long {argument name="hair color" default="dark brown"} wavy hair stands slightly off-center, leaning her torso forward and to the side in a relaxed confident pose, one hand holding the phone in front of her face and the other braced on a dark stone or marble countertop. She wears a fitted black off-shoulder long-sleeve top with a sweetheart neckline and high-waisted charcoal or black jeans, with a black shoulder bag tucked under one arm. The phone flash is extremely bright, fully obscuring the face and creating a sharp starburst plus 1 strong horizontal blue-white lens flare streak across the image, with subtle bloom and realistic smartphone exposure clipping. Behind her is a dark wooden paneled door centered in the reflection. The room includes 2 tall cylindrical wall sconces with warm glowing bulbs, one on each side near the mirror edges, 1 small gold-toned light switch plate on the left wall, 1 curved brushed-metal faucet visible at the bottom center, and 2 small candle holders or votive lights at the lower right edge. Style is authentic phone-camera photography, slightly grainy, warm low-light ambience, realistic reflections, minor sensor noise, natural shadows, intimate nightlife restroom aesthetic, vertical portrait framing.
+```
+
+## Using the provided reference image, isolate the same person’...
+
+- author: Víctor M. López Cano
+- source: https://x.com/vmlcano/status/2047048555622244582#reversed-3
+- preview: assets/gpt-image-2-x-discussions/floating-3d-head-in-blue-sky-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Using the provided reference image, isolate the same person’s head and recreate it as a centered floating 3D toy-like portrait with a glossy plastic finish. Remove the train interior, table, bottle, book, sweater, headphones, and body so only the head remains visible, cropped around the full head and ears. Add gold-framed glasses as a new accessory. Place the head against a bright saturated blue sky with soft white cartoon-like clouds, using a clean minimal composition, even daylight, and a playful surreal studio look.
+```
+
+## {argument name="aspect ratio" default="9:16"} vertical compo...
+
+- author: 知仰竹
+- source: https://x.com/zhiyangzhu22222/status/2046952985562062888
+- preview: assets/gpt-image-2-x-discussions/high-end-cinematic-fashion-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{argument name="aspect ratio" default="9:16"} vertical composition, solo female artistic portrait, young East Asian girl, refined features, soft facial lines, natural transparent skin, retaining real texture, quiet and high-end aura, with a touch of detachment and narrative feel. Studio style fused with natural light, soft side lighting, delicate highlights on the face, gentle shadows, overall transparent and non-glaring light, with a slight black mist filter effect, subtle haziness, slight glow, strong sense of airiness. Minimalist and clean background, cream gray, off-white, light khaki, or misty warm gray walls, leaving large areas of negative space, overall clean and breathable composition. Model sitting on the ground or a low platform, one leg naturally bent, one leg relaxed and extended, body slightly leaning forward or tilted, asymmetrical shoulders, head gently tilted, natural and relaxed posture, not over-posed. Expression is calm and restrained, soft gaze, slightly detached, with a touch of thoughtfulness, lips naturally parted or slightly closed, lazy, quiet, and delicate state. Hairstyle is naturally fluffy long hair, slightly messy loose strands, soft hair, with a sense of air and layering, as if just styled but retaining a natural casualness. Makeup is high-end light makeup, Korean-style clear base, soft matte skin glow, natural highlights on the bridge of the nose and cheeks, clean eyebrow shape, elegant but spirited eye makeup, long eyelashes, lip color in low-saturation rose bean paste or milk tea nude pink. Outfit in {argument name="clothing style" default="minimalist high-end style"}: cream-white tight ribbed knit tank top, paired with a loose white shirt or soft knit cardigan, bottom is high-waisted skirt or minimalist shorts, fabric is soft and fits the body without overexposure, presenting natural body lines and artistic feel. The image emphasizes delicate texture, soft tones, a combination of light French and Korean magazine vibes, real photographic feel, cinematic skin tone, rich details, clear layers, restrained composition, high-end aesthetics, fashion editorial portrait, soft cinematic portrait, delicate texture, ultra-high detail, realistic, elegant, exquisite, high-end fashion photography, subtle sexiness, simple composition.
+```
+
+## A minimalist fantasy character portrait centered on a plain ...
+
+- author: Ethan
+- source: https://x.com/ethanhaveron/status/2046975968355512829#reversed-1
+- preview: assets/gpt-image-2-x-discussions/hooded-fantasy-figure-with-obscured-face-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A minimalist fantasy character portrait centered on a plain light gray background, showing a bust-length hooded figure in black and white ink illustration style. The character wears a deep, heavy {argument name="cloak color" default="black"} hood and scarf-like cowl that fully wraps the head and neck, with rich folds and dramatic shadow. The face area is obscured by 1 featureless rectangular blur or censored block, soft-edged and vertically oriented, placed where the face would be under the hood. On the character’s right shoulder there is 1 worn medieval pauldron made of light metal with visible scratches, cracks, rivets, and dark edging, attached with 1 leather strap and buckle crossing the chest. Render the entire figure in high-contrast monochrome with dense stippling, engraving-like texture, gritty fantasy RPG concept art energy, no visible eyes or skin, no additional props, no scene elements, lots of negative space, and a clean centered composition.
+```
+
+## A simple anime-style upper-body portrait of a futuristic you...
+
+- author: ふぁりー💚💛
+- source: https://x.com/506Farley/status/2047085107979419924#reversed-1
+- preview: assets/gpt-image-2-x-discussions/minimal-sci-fi-anime-girl-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A simple anime-style upper-body portrait of a futuristic young woman centered on a plain light gray background, drawn with loose sketchy linework and soft pastel coloring. She has long, flowing very pale pink-lilac hair that falls past her shoulders, with thin wispy strands and a gentle glossy look. Her face is completely hidden by a large centered square blur/mosaic block in muted gray-lavender. She wears a large white beret-like cap with a dark navy inner band and 2 angular dark navy side attachments, one on each side, accented with small cyan details. Add a sleek sci-fi earpiece on the visible side of her head with translucent cyan glowing elements. Her outfit is a fitted sleeveless white high-neck bodysuit with 2 bright cyan vertical panels on the front, thin dark seam lines, and small angular dark navy armor-like accents near the chest and waist. One upper arm has a dark armband with 4 thin cyan-white stripes. Show her from about the chest to the top of the head, facing slightly to the viewer’s left, with a clean elegant silhouette. Use a minimalist illustration style, delicate hand-drawn strokes, subtle cel-shading, white, cyan, navy, and pale pink as the main palette, and no background objects or text.
+```
+
+## A surreal fashion portrait of a mysterious cowboy figure cen...
+
+- author: Allar Haltsonen
+- source: https://x.com/AllarHaltsonen/status/2047047885598986462#reversed-0
+- preview: assets/gpt-image-2-x-discussions/product-marketing-surreal-cowboy-fashion-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A surreal fashion portrait of a mysterious cowboy figure centered in the frame, shot from the chest up against a vivid cobalt-blue daytime sky with a few soft white clouds. The person’s face is completely obscured by a tall vertical rectangular blur block running from the forehead past the nose and mouth, creating an anonymous censored identity effect. They wear a glittery red cowboy hat with a pale white crown, a black scarf or bandana wrapped around the neck and lower face, and a bold red western-style jacket or shirt covered in white horse illustrations and floral-patterned motifs. Layer the neck and chest with heavy maximalist jewelry: 1 oversized long pearl strand hanging low, at least 4 shorter pearl necklaces stacked at the collar, and 1 ornate gold statement necklace with coin-like dangling elements. Place 2 pale pink horse heads behind the figure’s shoulders, one on the left and one on the right, facing slightly outward like surreal companions or sculptural props. In the lower background, include 2 red sports cars partially visible, one on each side, blending into a red desert-like horizon. Use a dreamy retro-futurist western aesthetic with glossy textures, soft focus, slight chromatic aberration, and a lo-fi editorial look. Symmetrical composition, centered subject, saturated colors, strange luxurious mood, high-fashion surrealism, cinematic portrait photography.
+```
+
+## Make a {argument name="format" default="mood board"} about {...
+
+- author: Kris Kashtanova
+- source: https://x.com/icreatelife/status/2047098533275209826
+- preview: assets/gpt-image-2-x-discussions/social-media-post-cinematic-ai-mood-board-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Make a {argument name="format" default="mood board"} about {argument name="subject" default="AI"}, {argument name="style" default="cinematic style"}, use nostalgic stuff like Polaroids 
+Portrait mode
+```
+
+## Using the provided reference image, turn the candid train sn...
+
+- author: Víctor M. López Cano
+- source: https://x.com/vmlcano/status/2047048555622244582#reversed-2
+- preview: assets/gpt-image-2-x-discussions/studio-portrait-from-train-photo-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Using the provided reference image, turn the candid train snapshot into a clean professional studio head-and-shoulders portrait of the same person. Remove the headphones, window reflection, table, thermos, book, and all train interior/background elements. Reframe from a casual off-center seated scene to a centered, front-facing crop with the subject looking straight at the camera against a plain muted blue-gray studio backdrop. Keep the same haircut, shirt-and-sweater outfit, and overall realistic photographic look, but relight it with soft even studio lighting and polished portrait retouching.
+```
+
+## A surreal studio portrait of a floating human head seen stra...
+
+- author: Freddy Montes
+- source: https://x.com/fmontes/status/2046946960720998553#reversed-2
+- preview: assets/gpt-image-2-x-discussions/surreal-floating-head-with-censor-block-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A surreal studio portrait of a floating human head seen straight-on, centered in the frame against a vivid saturated blue sky with soft fluffy white clouds. The face is entirely obscured by a large smooth rectangular censor block in the center, covering from forehead to chin and most of the cheeks, with a subtle gradient of warm tan to muted blue-gray. Only the outer features remain visible: a close-cropped buzz cut with tight dark speckled hair texture on top, 2 visible ears, and the lower rounded chin and jaw. The head wears colorful eyeglass temples wrapping around the sides only, with no visible front lenses because the center is blocked; the left temple is pale cream with a tiny red-and-gold decorative mark, and the right temple is bright red-orange. Add 2 small rounded nubs peeking above the censor block near the top edge, one yellow on the left and one off-white on the right, creating a quirky toy-like feel. Render it as a hyperreal yet slightly uncanny 3D illustration, smooth skin, soft daylight, minimal composition, shallow depth of field, clean whimsical pop-surreal aesthetic.
+```
+
+## 9:16 vertical — editorial portrait, single subject soft blac...
+
+- author: BubbleBrain
+- source: https://x.com/BubbleBrain/status/2046434670724907395
+- preview: assets/gpt-image-2-x-discussions/soft-black-mist-floor-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+9:16 vertical — editorial portrait, single subject
+soft black mist filter, subtle haze, gentle highlight bloom, muted tones
+minimal indoor space, clean background, slight texture
+young Korean woman, minimal makeup, natural skin texture
+outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements
+hair: slightly messy, natural volume
+pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted
+composition: subject slightly off-center, negative space present
+expression: calm, slightly distant, natural lips
+lighting: soft side light, gentle shadow falloff
+mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed
+quality: fine grain, slight softness, realistic look
+```
+
+## Create a bold Japanese YouTube thumbnail in a flashy anime-b...
+
+- author: みどるっち｜AIで人生アップデート
+- source: https://x.com/mido_lucci/status/2046546991006802057#reversed-1
+- preview: assets/gpt-image-2-x-discussions/youtube-thumbnail-japanese-x-monetization-thumbnail-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a bold Japanese YouTube thumbnail in a flashy anime-business style, 16:9 landscape, packed composition, high contrast, glossy text effects, neon green and gold color scheme, dramatic lighting, spark particles, lens flares, and intense depth of field. The scene shows a blurred workstation and social media analytics dashboard in the background, with rising line graphs and a visible revenue card reading "ポストアナリティクス" and "収益 ¥248,620". On the right side, place a half-body anime boy streamer with messy dark brown hair accented by vivid neon green streaks, wearing a black hoodie or black jacket, smiling confidently and pointing upward with one finger; leave his face area partially obscured by a large rectangular placeholder block in muted olive-brown so text or a custom portrait can be inserted later. Across the top, add a glossy green ribbon banner with gold trim and a beginner mark icon on the left, containing the text {argument name="headline text" default="初心者向け完全ガイド"}. In the center-left, create a giant metallic gold "10" with thick black outline and strong white highlights, followed by bold white-and-black Japanese text "日で". Below and overlapping the center, place an enormous glowing neon green letter "X" with electric edges and spark effects. To the right of the X and layered prominently in front, add huge 3D Japanese text in white and gold with heavy black outline and drop shadows reading {argument name="main claim text" default="収益化達成"}. On the left side near the main text, include 3 floating social platform-style icons: a black square icon with a white X logo, a blue speech bubble icon with a white heart, and a pink rounded square icon with a white user silhouette. In the bottom-left foreground, place a black coffee mug with a white X logo on a desk. Along the bottom edge, add 3 rounded white information boxes with green borders and subtle shadows, evenly spaced left to right, each topped with a green numbered circle: box 1 labeled "01" with a beginner mark icon and the text "X初心者でも 簡単収益化"; box 2 labeled "02" with a clock icon and the text "1日1時間の 作業でOK"; box 3 labeled "03" with a calendar icon showing "10" and the text "最短10日で 収益化条件達成". Make all typography extra large, embossed, and optimized for thumbnail readability, with thick outlines, strong perspective, and layered overlap. Overall mood: exciting, high-income promise, beginner-friendly, energetic Japanese social media monetization tutorial thumbnail.
+```
+
+## {   "type": "2x2 grid of Japanese digital advertisement bann...
+
+- author: まかねこ| AI×仮想通貨
+- source: https://x.com/makaneko_AI/status/2045764016858087720#reversed-0
+- preview: assets/gpt-image-2-x-discussions/social-media-post-4-panel-japanese-digital-ad-banner-grid-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{
+  "type": "2x2 grid of Japanese digital advertisement banners",
+  "layout": {
+    "structure": "4 equal quadrants",
+    "quadrants": [
+      {
+        "position": "top-left",
+        "theme": "Travel",
+        "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.",
+        "elements": ["red hibiscus flower in bottom left corner"],
+        "text_labels": [
+          "今年こそ、解き放て。",
+          "{argument name=\"travel destination\" default=\"沖縄旅行\"}",
+          "3日間の癒やし旅",
+          "航空券＋ホテル",
+          "39,800円〜",
+          "絶景、グルメ、体験 ぜんぶ叶う!"
+        ],
+        "icons": {
+          "count": 3,
+          "descriptions": ["airplane", "hotel building", "car"]
+        }
+      },
+      {
+        "position": "top-right",
+        "theme": "Skincare",
+        "subject": "Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.",
+        "elements": [
+          "soft pink gradient background",
+          "dynamic water splash effects",
+          "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'"
+        ],
+        "text_labels": [
+          "毛穴・くすみ卒業！",
+          "透明感あふれる",
+          "水光肌へ",
+          "新感覚スキンケア",
+          "初回限定 78%OFF",
+          "{argument name=\"discount price\" default=\"1,980円\"}"
+        ],
+        "badges": {
+          "count": 3,
+          "style": "gold circular",
+          "labels": ["毛穴ケア", "高保湿", "ハリ・ツヤ"]
+        }
+      },
+      {
+        "position": "bottom-left",
+        "theme": "Gourmet Food",
+        "subject": "Thick, sliced, medium-rare steak sizzling on a dark grill plate.",
+        "elements": [
+          "garlic chips",
+          "rosemary sprig",
+          "dark background with smoke and glowing embers"
+        ],
+        "text_labels": [
+          "とろける旨さ！",
+          "{argument name=\"food item\" default=\"黒毛和牛\"}",
+          "贅沢ステーキ",
+          "期間限定",
+          "特別価格",
+          "通常価格 8,980円",
+          "4,980円"
+        ],
+        "badges": {
+          "count": 1,
+          "style": "red circular",
+          "labels": ["A4 A5等級"]
+        }
+      },
+      {
+        "position": "bottom-right",
+        "theme": "Online Education",
+        "subject": "Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.",
+        "elements": ["bright indoor lighting", "desk environment"],
+        "text_labels": [
+          "スキマ時間で",
+          "{argument name=\"education goal\" default=\"最短合格！\"}",
+          "オンライン資格講座",
+          "スマホで完結",
+          "効率学習で差がつく！",
+          "今だけ！ 受講料 20%OFF"
+        ],
+        "badges": {
+          "count": 1,
+          "style": "blue circular",
+          "labels": ["受講者数 10万人 突破！"]
+        },
+        "icons": {
+          "count": 2,
+          "descriptions": ["smartphone", "open book"]
+        }
+      }
+    ]
+  }
+}
+```
+
+## 1. Open Chat GPT 2. Upload your image 3. Paste Prompt Genera...
+
+- author: Balogun Ibrahim
+- source: https://x.com/iam_miharbi/status/2045151354679665101
+- preview: assets/gpt-image-2-x-discussions/cinematic-minimal-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+1. Open Chat GPT
+2. Upload your image
+3. Paste Prompt
+Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+```
+
+## Golden Hour Beauty Portrait
+
+- preview: assets/generated/beauty-golden-hour-portrait.png
+- lang: en
+- upstream: AzhuTech/awesome-gpt-image-2-prompts
+
+```
+Create a tasteful editorial beauty portrait of an adult woman in her late 20s standing in a windswept coastal field at golden hour. Natural makeup, luminous skin texture, linen ivory blouse, hair moving softly, 85mm portrait lens feel, warm backlight, gentle lens flare, shallow depth of field, premium fashion magazine photography, non-sexual, no text.
+```
+
+## Neon Beauty Editorial
+
+- preview: assets/generated/neon-beauty-editorial.png
+- lang: en
+- upstream: AzhuTech/awesome-gpt-image-2-prompts
+
+```
+Create a high-fashion beauty editorial portrait of an adult woman with glossy black bob hair in a dark studio. Use magenta neon key light, cyan rim light, glass prism reflections across the background, metallic silver eye makeup, glossy black jacket, direct confident gaze, 70mm lens feel, crisp skin detail, non-sexual, no text.
+```
+
+## Rainy Window Portrait
+
+- preview: assets/generated/rainy-window-portrait.png
+- lang: en
+- upstream: AzhuTech/awesome-gpt-image-2-prompts
+
+```
+Create an intimate editorial portrait of an adult woman sitting beside a large rainy apartment window at blue hour. Oversized charcoal sweater, natural skin texture, soft reflective window light, blurred city bokeh outside, quiet thoughtful expression, 50mm lens feel, muted blue-grey palette, premium lifestyle photography, non-sexual, no text.
+```
+
+## Vintage Film Model
+
+- preview: assets/generated/vintage-film-model.png
+- lang: en
+- upstream: AzhuTech/awesome-gpt-image-2-prompts
+
+```
+Create a tasteful 1970s-inspired film portrait of an adult fashion model leaning beside a sunlit hotel balcony. Cream silk scarf, oversized sunglasses held in hand, warm faded color, visible 35mm film grain, soft overexposed highlights, Mediterranean architecture in the background, elegant travel editorial mood, non-sexual, no text.
 ```
 

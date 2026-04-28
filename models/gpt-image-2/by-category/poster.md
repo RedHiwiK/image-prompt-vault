@@ -1,4 +1,4 @@
-# Poster (52)
+# Poster (77)
 
 ## A Journey Through Time: The Astronaut in 20 Art Styles
 
@@ -1302,5 +1302,429 @@ GPT Image V2 画 SCI 图不是不会画，而是你不能只给它一个“主�
 
 ```
 意大利阿马尔菲海岸复古旅行海报插图的现代铅笔插图，全景沿海悬崖路场景，经典的 1960 年代白色汽车沿着弯曲的海滨路行驶，深蓝色的地中海与小帆船，色彩缤纷的柔和山坡村庄，明亮的蓝天与柔软的云彩，柠檬树枝与充满活力的黄色柠檬构成前景，温暖的夏日阳光，大胆鲜艳的色彩，复古 1950 年代旅行海报风格，电影构图，高细节，丝网印刷纹理，图形插图。手绘风格，插图具有宽松的笔画和明确的轮廓。高对比度调色板，保持背景和元素之间的色彩和谐。当代和装饰美学。
+```
+
+## GPT Image 2 Test / Poster Layout ロゴ配置や全体のレイアウトを含めた、告知ポスター形式の...
+
+- author: HISA_SOUNDS // LAB
+- source: https://x.com/HISA_SOUNDS/status/2048662299787804723
+- preview: assets/gpt-image-2-x-discussions/poster-layout-test-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT Image 2 Test / Poster Layout
+ロゴ配置や全体のレイアウトを含めた、告知ポスター形式のテスト出力。
+『恋色ハレーション』をテーマに、最新モデルの総合的な表現力を検証。
+参照画像渡してリリース告知ポスター作ってでこの出力
+#HISA_SOUNDS #恋色ハレーション #GPTImage2 #ポスターデザイン
+```
+
+## Create a collectible epic narrative graduation poster based ...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/american-graduation-silhouette-poster-1.png
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a collectible epic narrative graduation poster based on my portrait reference. Use a massive elegant side-profile silhouette of my face as the outer contour, noble and cinematic. Inside the silhouette, organically grow a complete American international student graduation world: a classic American campus lawn at golden hour, graduates in caps and gowns walking under large oak trees, red-brick academic buildings, neoclassical columns, a library dome, wide staircases, lecture halls glowing at night, dorm room windows, football field lights far away, a road trip highway fading into the horizon, thesis notes, textbooks, a laptop, coffee cups, a graduation cap, campus newspaper fragments, and symbolic details of freedom, ambition, homesickness, reinvention, and the beginning of adulthood. The image should feel like a premium silhouette-filled narrative synthesis, not a normal photo collage. It should have a double exposure feeling but more cinematic, painterly, and emotionally epic. Blend prestige movie poster composition with dreamy watercolor illustration, soft air perspective, glowing dust, gentle fog, paper grain, dry brush edges, large clean negative space, elegant restrained layout, quiet grandeur, sacred nostalgia, poetic coming-of-age atmosphere. Color palette: golden hour amber, deep academic navy, ivory paper, red brick, soft forest green, warm sepia, subtle sky blue. The mood should feel expansive, hopeful, cinematic, emotional, and deeply personal. If typography appears, use English only. Suggested title: “THE CAMPUS THAT MADE ME BRAVE”. Small subtitle: “American Graduation Memory”. Use elegant minimal English typography, premium editorial poster style. Avoid clutter, avoid hard collage, avoid generic fantasy background, avoid random landmarks, avoid overused American flag imagery, avoid exact university logos, avoid cheap graduation stock-photo feeling, avoid distorted hands, avoid extra faces, avoid text errors.
+```
+
+## Create a collectible epic narrative graduation poster based ...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/london-graduation-silhouette-poster-1.png
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a collectible epic narrative graduation poster based on my portrait reference. Use a giant refined side-profile silhouette of my face as the outer contour, calm and iconic. Inside the silhouette, organically form a complete London international student graduation world: an old university courtyard after rain, graduates in gowns crossing cobblestone streets, Gothic arches, stone libraries, red double-decker buses passing in the distance, the River Thames as a silver memory line, Big Ben silhouette, Tower Bridge, soft London fog, autumn leaves, black umbrellas, warm windows of study rooms, handwritten essays, old books, a graduation cap, train tickets, coffee cups, and small symbolic details of loneliness, ambition, friendship, and becoming independent abroad. The internal world must be strongly tied to London and graduation, instantly recognizable but elegant, not touristy or overcrowded. The image should not be a simple collage; it should be a high-end silhouette-contour-filled narrative composition, with double exposure associations, cinematic poster structure, and dreamy watercolor illustration texture. Use soft atmospheric perspective, misty transitions, paper grain, dry brush edges, delicate ink bleeding, restrained negative space, quiet monumental composition, poetic nostalgia, sacred coming-of-age feeling, and a sense of legendary personal history. Color palette: London fog gray, muted navy, antique gold, warm window amber, stone beige, rainy blue, subtle burgundy accents. The mood should feel literary, melancholic, noble, academic, and timeless. If typography appears, use English only. Suggested title: “WHEN THE CITY TAUGHT ME TO BEGIN”. Small subtitle: “London Graduation Memory”. Use minimal premium serif typography, understated and cinematic. Avoid messy collage, avoid cheap fantasy, avoid random castles, avoid exaggerated tourist postcard style, avoid exact university logos, avoid overfilled background, avoid text mistakes, avoid distorted architecture, avoid low-quality AI poster aesthetics.
+```
+
+## Create a collectible epic narrative graduation poster based ...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/singapore-graduation-silhouette-poster-1.png
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a collectible epic narrative graduation poster based on my portrait reference. Use a huge side-profile silhouette of my face as the outer contour, elegant and recognizable, not a normal portrait. Inside the silhouette, organically grow a complete Singapore international student graduation world: a tropical futuristic campus, students in graduation gowns walking through rain-washed pathways, subtle references to NUS / NTU-style modern campus architecture without using exact logos, Marina Bay skyline in the distance, Supertree Grove silhouettes, soft orchids, Merlion-inspired water symbolism, MRT lines like glowing memory threads, warm monsoon air, palm leaves, glass buildings, library lights, notebooks, thesis papers, a graduation cap, and small symbolic details of leaving home and beginning a new chapter. The composition should feel like a premium silhouette-filled narrative synthesis, not a collage. It should have a double-exposure feeling but more cinematic, poetic, and painterly. Blend movie poster design with dreamy watercolor illustration, soft atmospheric perspective, gentle mist transitions, paper grain, dry brush edges, slight white ink gaps, large areas of clean negative space, restrained luxury layout, quiet, grand, sacred, nostalgic, poetic, legendary. Color palette: humid tropical gold, soft emerald green, misty cyan, pearl white, deep navy shadows, warm sunset highlights. The overall feeling should be hopeful, intelligent, multicultural, tropical, futuristic, and emotionally restrained. If there is typography, use English only. Suggested title: “THE YEAR I BECAME THE WORLD”. Small subtitle: “Singapore Graduation Memory”. Minimal elegant serif or modern sans-serif typography, cinematic poster layout. Avoid clutter, avoid hard collage, avoid random fantasy elements, avoid cheap magical effects, avoid template background, avoid messy symbols, avoid exact university logos, avoid text errors, avoid extra faces, avoid distorted hands, avoid low-quality poster design.
+```
+
+## Create a bold, high-end commercial poster for a premium oran...
+
+- author: Zara
+- source: https://x.com/ZaraIrahh/status/2047543188626264483
+- preview: assets/gpt-image-2-x-discussions/premium-orange-juice-bottle-ad-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a bold, high-end commercial poster for a premium orange juice brand, shot in a hyper-realistic studio environment with a strong emphasis on freshness, precision, and striking visual appeal.
+Hero Composition:
+A sleek transparent bottle filled with rich, vibrant orange juice stands at the center. The label is minimal, modern, and premium, featuring a clean orange graphic with refined typography. The bottle is topped with a matte black cap, enhanced by subtle highlights and realistic reflections.
+Action & Story:
+Two hands wearing matte black gloves interact with the product:
+One hand firmly grips the bottle from the top
+The other slices through a thick, juicy orange using a sharp stainless steel knife
+The cut is captured mid-action, showcasing the juicy pulp and fresh citrus texture. A few orange slices are placed at the base, slightly scattered to create a natural yet styled composition.
+Lighting & Mood:
+Background: deep, rich green gradient with cinematic falloff
+Surface: dark matte table with soft, controlled reflections
+Lighting: dramatic studio setup
+Strong key light from one side for depth
+Soft fill light for balance
+Crisp highlights on the bottle and knife
+Deep, clean shadows for contrast
+Typography Layout:
+
+Top corner:
+Clean, modern brand name (e.g., “VITRA”, “FRESCO”, or “NATURO”) in white
+Bottom section:
+Small line: “Not your average juice”
+
+Large bold headline: “PURE ORANGE. NO COMPROMISE.”
+Typography should feel modern, bold, and premium with a strong visual hierarchy. Use a rich orange tone for the headline to complement the juice.
+
+Visual Style:
+
+High-end food advertising aesthetic
+
+Cinematic, bold, and contrast-driven
+
+Ultra-sharp details and textures
+
+Premium editorial look (like a global campaign)
+
+Clean yet powerful composition
+
+Output Requirements:
+
+4K resolution
+
+Photorealistic, advertisement-grade quality
+
+Sharp focus, rich contrast, high dynamic range
+```
+
+## You are a premium graphic designer with a human feel. Transf...
+
+- author: MrDejie
+- source: https://x.com/mrdejie/status/2047577513715740915
+- preview: assets/gpt-image-2-x-discussions/soccer-event-poster-redesign-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+You are a premium graphic designer with a human feel. Transform this boring poster and make it a bold and attractive poster for an upcoming soccer event.
+```
+
+## create a poster using this image...
+
+- author: Gizem Akdag
+- source: https://x.com/gizakdag/status/2047380830838829130
+- preview: assets/gpt-image-2-x-discussions/poster-from-reference-image-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+create a poster using this image
+```
+
+## A dramatic, ultra-polished Chinese corporate announcement po...
+
+- author: 是小衡呀
+- source: https://x.com/xcbnbcrypto/status/2047145057980203411#reversed-1
+- preview: assets/gpt-image-2-x-discussions/product-marketing-apple-style-ceo-announcement-poster-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A dramatic, ultra-polished Chinese corporate announcement poster in a premium Apple-style keynote aesthetic, vertical 4:5 composition, featuring a confident middle-aged East Asian man from the waist up standing outdoors in front of a futuristic glass-ring campus building at dusk, with a huge glowing white Apple logo behind him on the right side. He wears a minimalist black button-up shirt over a dark undershirt, with a calm, authoritative posture and luxury-brand presentation lighting. The sky is a deep blue-to-gray gradient, and the overall color palette is dark navy, charcoal, silver, and warm soft white. At the very top center, place a small white Apple logo, with a thin horizontal divider line on each side and the Chinese text “Apple 新篇章 由此开启” beneath it in elegant sans-serif. In the top right corner, add large bold red Chinese text: “AI生成”. Across the upper-middle area, add a huge bold white Chinese headline: “{argument name="headline text" default="罗永浩 接任 Apple CEO"}”. Directly below it, add smaller spaced-out white Chinese subheadline text: “用 工 匠 精 神 ， 让 世 界 再 次 惊 叹”. On the left side of the subject’s chest area, place a quotation block with a large opening quotation mark and 2 lines of Chinese body text in dark navy: “{argument name="quote" default="我不是来改变 Apple，而是让 Apple 重拾改变世界的勇气。"}”, followed by a handwritten-style signature line and the name “罗永浩”. In the lower-middle area, overlay a dark translucent horizontal feature bar containing exactly 4 icon-and-text items, evenly spaced from left to right: 1) a hammer icon with the title “工匠精神” and subtitle “极致产品主义”, 2) a speech bubble icon with the title “用户至上” and subtitle “体验超越期待”, 3) a light bulb icon with the title “创新驱动” and subtitle “重新定义未来”, 4) a heart outline icon with the title “真诚沟通” and subtitle “打造人心的科技”. At the bottom center, add large white English text: “Think Different. Think Again.”, then below it smaller white Chinese text: “现在，交给罗永浩。” and a handwritten signature beneath. The subject should resemble {argument name="character name" default="罗永浩"}, with {argument name="hair style" default="short black hair, neatly combed"} and {argument name="outfit" default="minimalist black button-up shirt"}. Make the image photorealistic but slightly idealized like a premium launch campaign, with cinematic contrast, soft edge glow around the Apple logo, subtle reflections on the glass architecture, elegant typography hierarchy, and a highly believable luxury-tech advertisement finish.
+```
+
+## A candid indoor family snapshot styled like an early-2000s h...
+
+- author: 是小衡呀
+- source: https://x.com/xcbnbcrypto/status/2047145057980203411#reversed-2
+- preview: assets/gpt-image-2-x-discussions/social-media-post-nostalgic-2003-family-living-room-photo-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A candid indoor family snapshot styled like an early-2000s home photo from mainland China, shot on a consumer digital camera with slightly soft focus, muted colors, mild noise, and an on-camera date stamp in the bottom right reading {argument name="date stamp" default="2003.12.28"}. The scene shows a modest living room with three people whose faces are intentionally blurred: in the left foreground, an adult woman in a lavender-pink knit sweater sits on the edge of a bed or sofa, turned slightly toward the camera; in the center background, an adult man in dark clothes crouches in front of a wooden TV stand, adjusting a silver DVD or VCD player; in the right foreground, a small girl wearing a light pink sweater and dark pants kneels on a richly patterned red carpet while holding a colorful toy vehicle. Behind them is a bulky silver CRT television displaying gray static noise, covered with a lace cloth on top. The wall behind the TV is filled with lived-in details: a large red Chinese character poster reading “福” above a hanging calendar, several framed family photos, and small pinned pictures. On the far right is a tall black shelving unit with neatly stacked VHS tapes or media cases, books, and a potted plant on top with trailing green leaves. On the far left edge, part of a bed or couch with pale bedding and a red cushion is visible. Add large bold red Chinese text in the top left corner reading {argument name="headline text" default="AI生成"}. Compose it as an unposed, believable family moment with authentic domestic clutter, nostalgic realism, natural room lighting, and the unmistakable look of an old personal photograph.
+```
+
+## A minimalist monochrome illustration of a Japanese samurai b...
+
+- author: Ethan
+- source: https://x.com/ethanhaveron/status/2046975968355512829#reversed-2
+- preview: assets/gpt-image-2-x-discussions/censored-samurai-engraving-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A minimalist monochrome illustration of a Japanese samurai bust in three-quarter profile facing right, centered on a plain light gray background. Render the armor and helmet as a vintage engraved woodcut or etching with dense black ink, high contrast, stippling, hatching, and scratchboard-like texture. The kabuto helmet has two tall curved crest horns and layered side guards, with detailed lamellar shoulder armor and robe folds visible below the neck. The figure is cropped at the upper torso and isolated with ample empty space around it. Place 1 solid vertical black rectangular censor bar over the face area, obscuring the eyes, nose, and most facial features. Keep the overall composition stark, graphic, and poster-like, with no additional objects, no text, and no color besides black and pale gray.
+```
+
+## A clean screenshot-like image showing a dark charcoal rounde...
+
+- author: 朱百宁
+- source: https://x.com/zhubaining001/status/2046954876815671740#reversed-0
+- preview: assets/gpt-image-2-x-discussions/chinese-prompt-sheet-for-gpt-image-2-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A clean screenshot-like image showing a dark charcoal rounded-rectangle panel filled with dense simplified Chinese prompt text in white sans-serif font, presented as a text document or note on a flat dark background. The composition is a single full-frame panel with generous padding and subtle shadow, like a modern UI card. At the top is a sentence describing the creation of a high-end technology magazine double-page spread poster, with the English title in quotation marks: “GPT IMAGE 2: From Ideas to Images”. Below it are multiple left-aligned paragraphs of Chinese text with consistent line spacing, describing layout ratio, modern editorial design style, and a detailed two-page composition. In the middle section, there is a numbered list with exactly 6 items labeled 1 through 6, each item naming a module in English inside quotation marks followed by Chinese explanations. The 6 module names are exactly: “Photorealism”, “Readable Text”, “Product Mockup”, “Character Consistency”, “Storyboard”, and “World Knowledge”. Under item 2, include 5 separate quoted multilingual text lines as subitems, exactly these: “IDEAS → IMAGES”, “想法 → 图像”, “アイデア → 画像”, “아이디어 → 이미지”, and “فكرة → صورة”. Later in the text, add a section specifying the main title and subtitle as clearly readable quoted English lines: “GPT IMAGE 2” and “From Ideas to Images”. Near the lower portion, add another Chinese line introducing a small caption at the bottom right, followed by the exact quoted English caption: “Typography • Photorealism • Layout • Consistency • Multilingual Text”. At the bottom, include a final Chinese paragraph about visual style requirements such as premium ad feel, Apple-style product photography, Swiss graphic design, soft natural light, refined materials, clear layout, ample whitespace, and avoiding low-quality textures, blurry text, gibberish, or deformed fingers. The text should appear crisp and fully legible, with realistic screen-capture fidelity, high contrast, subtle anti-aliased edges, no illustrations, no icons, no photos, no extra interface chrome beyond the single dark card, and an overall polished editorial-tech presentation.
+```
+
+## A dramatic vertical Japanese stage-play poster in luxurious ...
+
+- author: そらとひかり
+- source: https://x.com/noctiluce_sora/status/2047036229028635042#reversed-1
+- preview: assets/gpt-image-2-x-discussions/dark-fantasy-stage-poster-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A dramatic vertical Japanese stage-play poster in luxurious dark fantasy anime style, featuring a single androgynous young actor in a half-body portrait against a nighttime city skyline with glowing high-rise windows and soft bokeh lights. The character has long straight hair in deep black with vivid teal-turquoise inner glow and streaks, glossy highlights, and strands flowing across the shoulders. They wear an elegant black high-collared costume with subtle brocade texture, a fitted dark coat, black leather gloves, and a jewel-like diamond-shaped turquoise pendant at the throat set in ornate gold. One gloved hand is raised near the collar in a poised theatrical gesture. The mood is mysterious, romantic, and slightly gothic, with cinematic rim lighting from behind, strong contrast, gold sparkles, and luminous accents in the hair and costume. Use a refined magazine-quality key visual composition with decorative gold filigree corners and a premium theatrical poster layout. Leave space for Japanese typography integrated into the design: at upper right, small text "夜空に輝く、唯一の星。", then "主演俳優" and the actor name "{argument name="character name" default="夜乃 宙"}" with small romanization "SORA YORUNO" beneath; along the left side, a vertical quote reading "この役に、すべてを捧げる。闇さえ、愛に変えてみせよう。"; near center-lower, small text "幻想ロマン・ステージ" above the large glowing gold title "{argument name="title text" default="夜の檻に囚われた光"}" with a small subtitle beneath "—それでも、君を愛した。"; include a dark teal rose motif and thorny circular ornament near the title. At the bottom left, add the date block "2025 6.20 FRI - 6.29 SUN" and venue "天穹シアター". At the bottom right, add a bordered ticket box with "チケット一般発売 5.10 SAT 10:00~". Center bottom credits in Japanese: "原作・脚本 霧月 澪", "演出 七海 翼", "音楽 深月 奏". Along the very bottom, add the tagline "—光か、闇か——。愛が、運命を選ぶ。—". Color palette: midnight blue, black, teal, cyan glow, and antique gold. Emphasize polished poster typography, layered depth, elegant fantasy drama branding, and a consistent face and atmosphere suitable for a theatrical promotional campaign.
+```
+
+## Create a clean Japanese lifestyle advertisement poster for a...
+
+- author: 角煮星丸
+- source: https://x.com/_3912657840/status/2046910269880930396#reversed-0
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-japanese-auto-laundry-folder-ad-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a clean Japanese lifestyle advertisement poster for a futuristic compact home appliance that automatically folds laundry. Use a bright, airy, minimalist Scandinavian-style living room in the background with soft daylight, white walls, a light wood table, a sofa, and green plants near a window, all softly blurred to keep focus on the product. The main product is a sleek white rectangular machine with rounded corners on a tabletop, shown in a 3/4 front view, with its front door tray folded down and a neatly folded white T-shirt sliding outward from the machine. Add a faint digital display on the top front panel showing “04” and subtle modern control icons. Place a small stack of exactly 4 folded garments in the foreground at lower left: 3 white shirts and 1 pale blue shirt at the bottom. Use a premium consumer-electronics ad style, photorealistic product rendering, soft shadows, high-key lighting, gentle blue-gray accents, and a clean composition with lots of white space. At the top left, add very large blue Japanese headline text reading {argument name="headline text" default="置くだけ、4秒。"}. Beneath it, add a smaller dark gray Japanese subheadline reading {argument name="subheadline text" default="毎日の“たたむ”をゼロに。"}. On the left side below the subheadline, place 3 rounded rectangular feature badges stacked vertically, each with a blue outline icon and Japanese text: 1) a T-shirt icon with "Tシャツ・タオル対応", 2) a cube icon with "コンパクト設計", 3) a family icon with "家族みんなで使える". Along the bottom center, add exactly 4 minimalist blue line icons with labels separated evenly: 1) stopwatch icon with "最短４秒", 2) T-shirt outline icon with "サイズぴったり", 3) folded towel icon with "省スペース", 4) hand snap icon with "誰でも簡単". At the bottom left, add the product branding in a modern sans-serif layout: {argument name="product name" default="Foldy Home 20"} with smaller Japanese text below reading {argument name="product category" default="全自動服たたみ機"}. At the bottom right, display a large blue price reading {argument name="price" default="￥19,800"} with smaller gray text "（税込）". Include a subtle "Pollo.ai" watermark in the top-right corner. Vertical poster format, crisp commercial layout, realistic Japanese home-appliance catalog aesthetic.
+```
+
+## {"type":"split-screen e-commerce advertisement poster","styl...
+
+- author: NOVA
+- source: https://x.com/TechWith_Nova/status/2046843423563665594#reversed-0
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-split-screen-product-ad-poster-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"split-screen e-commerce advertisement poster","style":"premium photorealistic retail marketing graphic, high contrast, polished commercial lighting, clean bold typography, modern direct-response ad design","canvas":{"aspect_ratio":"4:3","background":"black outer border with rounded-corner poster"},"layout":{"orientation":"vertical split","sections":[{"title":"left product ad","position":"left half","count":1,"product":"backpack","headline_lines_count":2,"cta_count":1,"footer_count":1},{"title":"right product ad","position":"right half","count":1,"product":"smartwatch","headline_lines_count":2,"cta_count":1,"footer_count":1}],"divider":"hard vertical split down the center"},"text":{"left":{"eyebrow":"{argument name=\"left eyebrow text\" default=\"URBAN\"}","headline":"{argument name=\"left headline text\" default=\"ADVENTURE READY\"}","features":"GENUINE LEATHER • 15\" LAPTOP SLEEVE • WATER RESISTANT","button":"SHOP NOW","footer":"FREE SHIPPING • LIMITED STOCK"},"right":{"headline":"{argument name=\"right headline text\" default=\"TRACK EVERY BEAT\"}","features":"HEART RATE • GPS • 14-DAY BATTERY","button":"SHOP NOW","footer":"FREE SHIPPING • LIMITED STOCK"}},"left_panel":{"scene":"rustic indoor setting with warm natural sunlight entering from the side","background_details_count":3,"background_details":["aged wall or wooden interior surface","window opening with soft greenery visible outside","dusty textured ground floor"],"product":{"type":"{argument name=\"left product\" default=\"brown leather backpack\"}","position":"lower left-center standing upright on the ground","material":"rich polished leather","color":"deep brown","details_count":5,"details":["top carry handle","double zipper top opening","large front zip pocket","side pocket visible on the left","structured rectangular silhouette"]},"supporting_props_count":2,"supporting_props":["a pair of dark sunglasses","a small brown notebook placed near the backpack"],"lighting":"warm cinematic sunlight from upper left creating soft highlights and earthy shadows","button_style":"white rectangular button centered near lower middle of the left panel with black uppercase text"},"right_panel":{"scene":"dark studio product shot with cool moody spotlight","background":"deep navy-to-black gradient","product":{"type":"round black smartwatch","position":"centered vertically and horizontally in right half","details_count":5,"details":["circular black face","glowing white-purple heart icon in the center of the screen","dark metal case","two side buttons visible on the right edge","fine mesh metal strap"]},"surface":"smooth studio floor with a soft circular shadow beneath the watch","lighting":"cool spotlight from above and slightly behind, creating rim light and dramatic shadow","button_style":"white rectangular button centered near lower middle of the right panel with black uppercase text"},"typography":{"font":"bold condensed sans-serif uppercase","color":"white","alignment":"centered within each panel","feature_line_style":"smaller uppercase subheadline with bullet separators"}}
+```
+
+## A highly detailed, colorful where’s-Waldo-style illustration...
+
+- author: Tweets con fecha de caducidad
+- source: https://x.com/blogpocket/status/2047045079576023518#reversed-0
+- preview: assets/gpt-image-2-x-discussions/find-the-cigar-man-in-madrid-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A highly detailed, colorful where’s-Waldo-style illustration of a crowded public square in {argument name="city" default="Madrid"}, viewed from street level in bright daytime under a blue sky with scattered clouds. The scene is packed with dozens of pedestrians, tourists, vendors, children, musicians, and street life, drawn in an intricate hand-inked and digitally painted editorial cartoon style with crisp outlines, textured stone pavement, lively expressions, and dense visual storytelling. The location is Puerta del Sol, clearly recognizable by 4 key landmarks: the red diamond-shaped Sol metro sign on the left, the Tío Pepe rooftop sign in the mid-left background, the equestrian-free central bear-and-tree statue in the middle distance, and the Real Casa de Correos clock building dominating the right background with Spanish flags on the balcony. At the top left, add a pinned torn-paper poster with the Spanish text {argument name="headline text" default="¿Dónde está \"El Hombre del Puro\"?"} and a second line reading {argument name="subtitle text" default="Encuéntralo en Madrid"}; next to it, pin a small portrait photo of the target man, wearing a dark fedora and dark coat, smoking a cigar, like a clue card. Fill the square with a festive, bustling crowd scene including 2 flamenco dancers in red dresses on the right, 1 guitarist playing near center-right, 1 bicyclist riding through the foreground center-right, 1 street cleaner in an orange-and-green municipal uniform near the center foreground, 1 churros stand at bottom left with a blackboard sign reading “CHURROS CON CHOCOLATE”, 1 lottery kiosk on the left with “Loterías y Apuestas del Estado”, 1 postcard/news kiosk on the right with a sign reading “¡HOLA! DESDE MADRID”, 1 hat display stall on the far right with many stacked hats, 1 gold-painted living statue performer near the center-left, 1 soap-bubble performer creating translucent bubbles, many pigeons scattered across the foreground, and 2 small dogs near the lower center. Include families with backpacks, children crouching by pigeons, tourists taking photos, people holding maps, shoppers, and street spectators in varied summer clothing. The hidden target, {argument name="target character" default="El Hombre del Puro"}, should be subtly embedded somewhere within the crowd rather than centered, visually matching the clue portrait with dark hat, dark clothing, and cigar, making him difficult but possible to find. Use a dense composition, playful search-and-find energy, warm Mediterranean colors, and rich urban detail throughout.
+```
+
+## Create a highly detailed, colorful isometric festival poster...
+
+- author: Umberto León Domínguez 🧠 🤖
+- source: https://x.com/umbertoleon/status/2046997710264209420#reversed-0
+- preview: assets/gpt-image-2-x-discussions/latin-american-tech-festival-poster-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a highly detailed, colorful isometric festival poster illustration of a bustling Latin American technology fair in an open urban plaza, packed with dozens of people networking, coding, presenting, eating, recording media, and attending talks. The overall style should feel like a premium editorial cityscape poster: vibrant, dense, optimistic, playful, and full of readable signage, with crisp linework, painterly textures, warm sunlight, and a celebratory startup-community atmosphere. The main headline on the large stage at upper left reads {argument name="headline text" default="LATAM TECH FEST"}, with a subheading in Spanish reading "Aprender para transformar". On the stage, show a live conference with blue lighting, a presenter, and a seated audience; include 4 vertical icon panels on the stage area labeled "Educación", "Tecnología", "Innovación", and "Futuro", plus 3 glowing topic icons on the back wall labeled "Código", "Comunidad", and "Impacto". Build the plaza as a dense multi-zone event map with exactly 24 clearly labeled signs or booths distributed across the scene: "Keep Coding Keep Growing", "YO APRENDÍ EN LÍNEA", "Remote Work Zone", "ENGLISH UPGRADE YOUR FUTURE", "STARTUPS BUILD THE FUTURE", "DESIGN THINKING", "HACKATHON 24 HORAS DE IDEAS", "Café con código", "AREPAS CON TODO", "Hechas con código y ♥", "Inspiración", "Networking", "Aprendizaje", "Café", "Baños", "SOMOS LATINOAMÉRICA", "AI LAB", "DATA PEOPLE", "DEVS QUE IMPACTAN", "MARKETING GROWTH & COMMUNITY", "PRODUCT BUILD WHAT MATTERS", "FINTECH EL FUTURO DEL DINERO", "FOUNDER MODE", and "DEMO DAY LAUNCH · SCALE". In the center of the plaza, place a circular fountain with a large green geometric logo sculpture as the visual anchor. Surround it with tables, laptops, whiteboards, crowds, planters, and benches. Include a colorful hillside neighborhood in the background with mountains, palm trees, power lines, and exactly 2 red cable cars crossing the sky; also add exactly 1 small drone flying overhead. On the upper right building, place a large brand sign reading {argument name="brand name" default="Platzi"} and a green billboard that says "NUNCA PARES DE APRENDER". Populate the lower and middle foreground with many micro-scenes: a podcast booth labeled "PODCAST ON AIR", a neon "LIVE STREAM" corner, a startup workspace with people using laptops, a hackathon judging table, a founder pitch area, a fintech board with charts, and a coffee stand with espresso equipment and menu boards. Add 6 animal or mascot details across the scene: 1 orange cat lounging near the left worktables, 1 capybara at the lower left, 1 multicolor llama piñata in the lower center-left, 1 yellow rubber duck near the center-bottom, 1 small green robot near the bottom center-right, and 1 tiny turtle near the bottom beside a coin. Also place exactly 4 vehicle elements: 2 green scooters at the lower left, 1 decorated taco truck at the lower right with the sign "TACOS AL PASTOR", and 1 wheelchair user moving through the crowd. Include extra props that reinforce tech culture: whiteboards with sticky notes, a board titled "Traction" with an upward graph and bullet points "Users", "Revenue", "Retention", "Love", a board titled "CAP TABLE" with percentage rows, a Bitcoin-style coin on the ground, microphones, cameras, cables, monitors, smartphones, and branded green merchandise. Clothing should be modern casual startup attire with hoodies, jackets, backpacks, jeans, sneakers, and conference badges, featuring a diverse mix of ages and Latin American identities. Use rich greens, teals, oranges, purples, and warm neutrals, with lush plants and vines integrated into architecture. Make every corner busy and discoverable, like a Where's-Waldo-style tech ecosystem celebration, but keep the composition readable and inviting.
+```
+
+## Generate a hand-drawn style promotional poster introducing {...
+
+- author: PytestL
+- source: https://x.com/PytestL/status/2047100576002138113
+- preview: assets/gpt-image-2-x-discussions/product-marketing-hand-drawn-hermes-agent-poster-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Generate a hand-drawn style promotional poster introducing {argument name="subject" default="hermes agent"}
+```
+
+## A story about a cute rubber duck boy named "{argument name="...
+
+- author: 藍澤 ミライ
+- source: https://x.com/mirai_ai2050/status/2046944941583270341
+- preview: assets/gpt-image-2-x-discussions/rubber-duck-adventure-movie-poster-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A story about a cute rubber duck boy named "{argument name="character name" default="RUHiA"}" who goes on a great adventure toward Japan and meets a Japanese woman named "{argument name="woman's name" default="Mirai"}". Make it look like a live-action movie poster.
+```
+
+## Create an epic poster showcasing the most iconic moments of ...
+
+- author: dreamy digital arts
+- source: https://x.com/dreamydigiarts/status/2046837522475712741
+- preview: assets/gpt-image-2-x-discussions/sportsperson-career-cinematic-poster-set-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create an epic poster showcasing the most iconic moments of (sportsperson name) career. epic, cinematic, lens flare
+```
+
+## Create a Science fiction movie poster...
+
+- author: underwood
+- source: https://x.com/underwoodxie96/status/2046514205529088501
+- preview: assets/gpt-image-2-x-discussions/science-fiction-movie-poster-echoes-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a Science fiction movie poster
+```
+
+## A Japanese theatrical romance movie poster in a tall smartph...
+
+- author: studioあぽろん
+- source: https://x.com/ai_studioapollo/status/2046582942303174916#reversed-0
+- preview: assets/gpt-image-2-x-discussions/youtube-thumbnail-anime-romance-movie-poster-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A Japanese theatrical romance movie poster in a tall smartphone-style vertical layout with rounded corners, designed like a polished anime key visual. The main image shows a beautiful teenage billboard girl heroine standing on an outdoor balcony at dusk, turning back over her shoulder to look at the viewer with a soft, wistful expression. She has very long silver-white twin-tail hair tied with dark ribbons, pale skin, and large pink-violet eyes. She wears a delicate white frilled blouse with voluminous sleeves and a dark high-waisted dress or corset-like skirt, creating an elegant, slightly gothic school-romance look. The atmosphere is dreamy and emotional, filled with glowing bokeh lights, drifting petals or snow-like sparkles, sunset pink and lavender light, and a luminous cityscape in the blurred background. Use rich cinematic anime rendering, ultra-detailed hair strands, soft rim light, glossy eyes, and a bittersweet first-love mood. Add Japanese poster typography integrated into the composition: a large vertical pink poetic tagline on the right, a vertical white tagline on the left, a very large main title near the lower left reading {argument name="title text" default="看板娘"}, and a smaller subtitle beside it reading {argument name="subtitle text" default="君と紡ぐ恋物語"}. Include 5 small rectangular film-strip preview stills aligned across the lower middle, each showing the same heroine in different emotional close-ups. Add dense credits, festival-style laurels, and small release information at the top and bottom in Japanese, with the overall feel of a premium romance anime film poster advertising a tragic, beautiful love story. Use a pastel palette of mauve, blush pink, violet, pearl white, and midnight navy, with soft bloom, shallow depth of field, and elegant poster composition.
+```
+
+## A mecha girl mid-teens, pale skin smudged with soot and salt...
+
+- author: いにしえ@AI Director & Creator｜Will Oldgram
+- source: https://x.com/old_pgmrs_will/status/2046144801071079612
+- preview: assets/gpt-image-2-x-discussions/mecha-girl-derelict-sea-city-key-visual-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
+```
+
+## Lego poster showing every president of the USA by year....
+
+- author: 𝗔𝗿𝗲𝘀🦇
+- source: https://x.com/AresClips_/status/2044425906911912162
+- preview: assets/gpt-image-2-x-discussions/lego-poster-every-us-president-by-year-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Lego poster showing every president of the USA by year.
+```
+
+## Generate a high-quality vertical "science popularization enc...
+
+- author: pfanis
+- source: https://x.com/pfanis/status/2046413660147314714
+- preview: https://pbs.twimg.com/media/HGZSJzFbEAAc0IO.jpg
+- lang: en
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+Generate a high-quality vertical "science popularization encyclopedia image" based on [Theme].  
+
+ This image is not an ordinary poster, nor is it purely an illustration; it's a modular science information graphic that combines "atlas-like feel, encyclopedic feel, information structure, and collectible appeal." The overall style references a blend of advanced natural history atlases, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics.  Please include in the image: - A clear and beautiful main visual of the theme - Several magnified close-up details of partial features - Multiple rounded modular information sections - Clear title hierarchy and key labels - Concise yet rich encyclopedic content - Visualized ratings, key point summaries, or Top 5 modules  Content sections should automatically adapt based on the theme, prioritizing selection and reasonable combination from these directions: Basic profile, classification info, appearance features, habits/ecology, formation mechanism/structure composition, growth or usage conditions, care or maintenance tips, risks and precautions, suitable people or application scenarios, pros and cons comparison, quick rating card.  Visual requirements: Light, clean background; soft color palette; subtle shadows; refined small icons; rounded info boxes; neat typography; high information density without clutter; excellent reading experience. The overall design must feel like a genuine science encyclopedia card that can be published, read, collected, and produced in series—not like an ad graphic.  Please don't make it into an ordinary commercial promotional poster. Emphasize the features of "knowledge organization + modular info + atlas-style presentation.
+```
+
+## 请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。  唯一输入变量只有： 【主题】：__中国历史上的皇帝排名...
+
+- author: A9Quant
+- source: https://x.com/A9Quant/status/2046228485841334559
+- preview: https://pbs.twimg.com/media/HGWoYypbYAE7oiM.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。
+
+唯一输入变量只有：
+【主题】：__中国历史上的皇帝排名_         
+
+要求 AI 根据这个主题，自动推导并统一设计以下全部视觉系统，不需要我额外指定：
+- 核心主体（可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象）
+- 底部支撑结构
+- 上方悬浮符号或精神象征
+- 场景包裹元素
+- 隐喻系统
+- 色彩层级
+- 材质对比
+- 光影逻辑
+- 标题、副标题、辅助文案
+- 品牌感与高级感表达方式
+
+最终画面必须是：
+一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。
+
+【总风格】
+超写实 3D 商业 CGI 渲染，融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”，不能杂乱，不能像拼贴，不能像普通电商海报。
+
+【自动推导规则】
+AI 必须依据【主题】自动决定最合适的：
+1. 核心视觉隐喻
+2. 主体类型与姿态
+3. 支撑结构形式
+4. 悬浮元素形式
+5. 场景外壳与空间氛围
+6. 主色、辅色、强调色
+7. 材质组合
+8. 文字气质与版式风格
+
+例如：
+- 如果主题偏权力、秩序、资本、统治，则自动偏向王座、冠冕、机械、神殿、红幕、金属、权力结构
+- 如果主题偏科技、AI、芯片、未来，则自动偏向机械结构、能量核心、光束、深色金属、全息感
+- 如果主题偏奢侈品、高定、稀缺、收藏，则自动偏向珠宝、镜面材质、黑金体系、展台、博物馆式布光
+- 如果主题偏人物、IP、角色，则自动以人物为主视觉核心，并自动匹配对应世界观与象征系统
+- 如果主题偏城市、文明、史诗、命运，则自动转化为宏大叙事型空间结构与仪式感场景
+
+【构图规则】
+- 绝对高级感
+- 强烈中心秩序，整体统一
+- 允许中轴对称或接近中轴的史诗级构图
+- 视觉重力明确，从上到下形成清晰的层级落点
+- 边缘负空间干净、克制、有呼吸感
+- 不允许无意义装饰，不允许风格污染，不允许多个系统互相打架
+
+【视觉质量】
+- 超高细节
+- 体积光清晰
+- 材质真实
+- 反射、折射、阴影、雾气、景深自然
+- 每个元素都像经过工业级视觉总监审美控制
+- 整体达到高端品牌 campaign key visual / luxury invitation poster / conceptual editorial poster 水准
+
+【排版系统】
+- 整体为 90% 视觉，10% 文字
+- AI 根据【主题】自动生成最匹配的主标题和副标题
+- 标题必须简洁、锋利、有气势
+- 文案分布在安全负空间内，不压主体
+- 若主题适合中文，则优先生成中文标题；若主题更适合英文，则自动生成英文标题；也可中英结合，但必须统一高级
+- 文字必须尽量少而准，不要堆字
+
+【署名要求】
+在画面底部角落自然加入作者署名：
+@a9quant
+署名要小，但清晰、精致、高级，不喧宾夺主，像顶级视觉作品中的正式作者落款。
+
+【输出要求】
+输出为单张统一构图海报。
+自动根据【主题】完成全部视觉决策。
+画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。
+最大细节密度，超清，电影级，印刷级，高端成片质感。
 ```
 

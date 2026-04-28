@@ -1,4 +1,4 @@
-# Copy-paste Library (7)
+# Copy-Paste Library (7)
 
 ## Billboard with exact text
 

@@ -1,4 +1,66 @@
-# Infographic (27)
+# Infographic (53)
+
+## Decoding Ancient Chinese Naval Warfare: A Tactical Infographic
+
+- author: @GeekCatX
+- source: https://promptgather.io/prompts/gpt-image-2
+- preview: https://pbs.twimg.com/media/HGfyp0obkAEtjXX.jpg
+- lang: zh
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+COMPOSITION: [选择一个: 主从卫星布局 / 45度等轴测全景]. Information gravity flows in a logical tactical sequence.  
+BOUNDARIES: Professional editorial layout with clean margins; negative space serves as “tactical breathing room” to separate different combat phases.  
+MODULE TOPOLOGY: [N] distinct information modules depicting different scales (e.g., individual weapon detail vs. macro formation).
+
+[DIMENSIONALITY & GRAPHIC PHYSICS]  
+STYLE: Fusion of Traditional Chinese Gongbi (meticulous line-art) and modern military tactical blueprints (like “Osprey Publishing” style).  
+LINE LANGUAGE: 0.8pt sharp technical outlines / 0.3pt faint background grid lines / 2pt bold borders for the main title seal.  
+SURFACE EFFECTS: Realistic material rendering — wood grain on ballistas, metallic sheen on lamellar armor, and subtle ink-wash shading for terrain.
+
+[TYPOGRAPHY ECOSYSTEM — ADAPTIVE DENSITY]  
+TYPOGRAPHY DENSITY: Map-dominant (65% visual / 35% text).  
+T1 MACRO HEADER: Massive, ultra-bold Traditional Songti characters for the main title “[主题中文名]”. MUST be strictly pure Chinese Hanzi with an ink-pressed texture.  
+T2 MODULE HEADERS: Kaiti font enclosed in dark rectangular “military rank” badges, labeling different tactical zones.  
+T3 BODY TEXT: Clean, medium-weight Heiti (sans-serif) for weapon specifications and tactical roles. Every character must be razor-sharp.  
+T4 ANNOTATIONS: Micro-text with ultra-crisp technical lines pointing directly to components (e.g., trigger mechanism, fletching, armor joints).
+
+[NARRATIVE FLOW]  
+NARRATIVE MODE: [选择一个: 流程顺序型 / 核心辐射型].   
+VISUAL ENTRY POINT: The most significant tactical unit (e.g., the command chariot or the primary siege engine).  
+PATH MECHANISM: Numerical sequence (1, 2, 3…) or bold cinnabar-red arrows guiding the viewer through the battle logic.
+
+[ICONOGRAPHY & METAPHOR]  
+ICON STYLE: Highly detailed historical pictograms for units (infantry, cavalry, archers).  
+CORE METAPHOR: Military order as a precise clockwork mechanism.  
+CONSISTENCY: All symbols must adhere to the [时期/王朝, 如: Tang Dynasty] military aesthetic.
+
+[MODULE STRUCTURE — SUGGESTED BLOCKS]  
+[MOD 1: CENTER-PIECE] — The primary [Weapons/Formation] with an exploded-view detail showing internal mechanics.  
+[MOD 2: TACTICAL MAP] — Top-down schematic showing unit movement and line-of-fire.  
+[MOD 3: SOLDIER EQUIPMENT] — Close-up side-by-side comparison of offensive vs. defensive gear.  
+[MOD 4: LOGISTICS/STATISTICS] — Small icon-based charts showing range, weight, or troop density.
+
+[FINAL EXECUTION LOCK]  
+Render as a single, ultra-detailed educational plate. All visual systems must be internally consistent with a professional museum archive aesthetic. Every pixel must serve the purpose of clarifying complex military history.  
+Resolution target: Maximum information density, print-ready encyclopedia quality.
+
+主题：中国古代兵器图鉴 3:4 4k文字清晰可读
+```
+
+## Minimalist Recipe Breakdown: Creamy Garlic Mushroom Pasta
+
+- author: @egeberkina
+- source: https://promptgather.io/prompts/gpt-image-2
+- preview: https://pbs.twimg.com/media/HGdbaEeWgAAVPW6.jpg
+- lang: en
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
+```
 
 ## 100 Technology Topics Grid
 
@@ -479,5 +541,487 @@ It's 10 AM in Los Angeles, 11 AM in Denver, 12 PM in Chicago, 1 PM in New York, 
 
 ```
 一张简洁的正方形社论漫画，采用扁平矢量风格，带有柔和的阴影和粗轮廓，背景为浅灰色。场景是一场关于价格虚高且无效补剂的讽刺性医疗咨询。左上角是一个巨大的三行西班牙语粗体无衬线标题：“Suplementos”（深青色）、“costosos”（橙色）和“que no funcionan”（深青色），标题下方配有一个小的橙色闪光装饰和一条橙色下划线。右上角添加深青色的社交账号和网址：“@elnutridice” 和 “elnutridice.com”。在最左侧边缘，放置一行垂直的橙色署名：“Imagen creada en: ia.elnutridice.com”。前景中，展示一张木桌，桌上堆满了成捆的绿色现金，许多散乱的钞票在角色周围飞舞。右侧，一名沾沾自喜的男医生身穿青色手术服，外罩白色实验袍，坐在桌后，一只手拿着厚厚的一叠钱，另一只手随意地做着手势。他的脸被一个矩形模糊块故意遮挡。他的实验袍上有一个徽章或补丁，写着“SALUD Y COMISIONES”。他面前的桌上放着一个深青色的名牌，上面有一个美元符号和西班牙语文字“TU SALUD, MI NEGOCIO”。他身后的墙上挂着一张写有“CERTIFICADO DE COMISIONES”的证书，旁边的小架子上摆放着 3 件物品：2 个青色活页夹和 1 盆小盆栽。左侧，一名留着深棕色长发、身穿青色长袖衬衫的女患者面对医生坐着，一只手因沮丧而举起。她的脸同样被一个矩形模糊块遮挡。在她上方添加一个对话气泡，写着：“Doc, ese suplemento carísimo que me mandó no me sirvió para nada.” 在医生上方添加一个对话气泡，写着：“A mí sí me sirvió.” 在桌子的左下角，放置一个贴有“SUPLEMENTO PREMIUM”标签的补剂瓶，并标有橙色价格标记“$$$$”。旁边放着一个剪贴板，上面有一张处方单，显示一个大大的“Rx”和文字“SUPLEMENTO PREMIUM”。图像中总共包含 2 盆小盆栽：1 盆在地面或桌子左下方，1 盆在后方的架子上。采用幽默、批判性的社交媒体信息图风格，构图平衡，排版清晰，易读性高，并具有精致的现代矢量插画美感。
+```
+
+## Create a one-page hand-drawn educational infographic.  Style...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2047493663580659734
+- preview: assets/gpt-image-2-x-discussions/hand-drawn-educational-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a one-page hand-drawn educational infographic.
+
+Style:
+Warm cream paper background (#F5F0E8), clean sketchnote style with slight hand-drawn wobble. No realistic elements. Looks like a high-quality slide summary.
+
+Color:
+Use pastel rounded cards for sections:
+light blue #A8D8EA, mint #B5E5CF, lavender #D5C6E0, peach #F4C7AB.
+Use coral red #E8655A for highlights (keywords, key data, checkmarks).
+Main text and outlines in black, annotations in warm gray #6B6B6B.
+
+Design:
+Visual-first. Use icons, doodles, simple diagrams instead of text.
+Clear structure at a glance (flow, comparison, grouped cards, etc.).
+Separate sections with rounded boxes, bubbles, or dashed frames.
+Connect sections with hand-drawn wavy arrows + short labels.
+
+Typography:
+Centered bold hand-drawn title on top.
+Inside sections: bold keywords + small gray labels (2–5 words).
+
+Details:
+Slightly imperfect color fill (not fully inside outlines).
+Add small doodles (stars, arrows, underlines).
+Keep plenty of whitespace, clean layout.
+
+Footer:
+Add one bold centered takeaway sentence at the bottom.
+
+Content:
+<insert your content here>
+```
+
+## Create a clean, symmetrical Chinese feng shui infographic po...
+
+- author: Ryo
+- source: https://x.com/siantgirl/status/2047221852066742758#reversed-0
+- preview: assets/gpt-image-2-x-discussions/2026-nine-palaces-flying-star-chart-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a clean, symmetrical Chinese feng shui infographic poster in a traditional almanac style on a warm light beige background. The main title at the top is large dark red Chinese calligraphy text reading {argument name="headline text" default="2026年九宫飞星图"}, with a smaller subtitle beneath in black reading {argument name="subtitle text" default="（丙午年）"}. Add a decorative compass rose in the upper left corner labeled with the four cardinal directions in Chinese: 南 at top, 北 at bottom, 东 at left, 西 at right. Center the composition around a 3x3 grid of 9 bordered square panels with thin ornamental Chinese-style corners, evenly spaced and perfectly aligned. Each square contains a large colored number, a Chinese star name, one line beginning with 吉星 or 凶星, and an illustrative symbolic object. Top row has 3 panels: top-left labeled 东南 with a purple-framed panel for number 9 and text 九紫右弼星, plus 吉星: 喜庆、姻缘、贵人, illustrated with purple balloons, a gift box, and a small firework burst; top-center labeled 正南 with an orange-framed panel for number 5 and text 五黄廉贞星, plus 凶星: 灾祸、意外、疾病, illustrated with a gold gourd and ancient Chinese coins tied with a red tassel; top-right labeled 西南 with a gold-framed panel for number 7 and text 七赤破军星, plus 凶星: 破财、口舌、盗贼, illustrated with a brass bell and a silver sword. Middle row has 3 panels: middle-left aligned with 正东 in large vertical side text, a green-framed panel for number 8 and text 八白左辅星, plus 吉星: 财运、置业、积蓄, illustrated with a bonsai-like money tree and gold ingots; middle-center labeled 中宫 in a blue capsule tag overlapping the top edge of the center square, a blue-framed panel for number 1 and text 一白贪狼星, plus 吉星: 人缘、感情、智慧, illustrated with a crystal ball on a wooden stand; middle-right aligned with 正西 in large vertical side text, a green-framed panel for number 3 and text 三碧禄存星, plus 凶星: 是非、口舌、争执, illustrated with bamboo and a small stacked rock fountain. Bottom row has 3 panels: bottom-left labeled 东北 with a green-framed panel for number 4 and text 四绿文曲星, plus 吉星: 学业、文昌、考试, illustrated with an open book, brush pen, and ink stone with bamboo leaves behind; bottom-center labeled 正北 with a gold-framed panel for number 6 and text 六白武曲星, plus 吉星: 权力、贵人、偏财, illustrated with a golden guardian lion statue on a pedestal holding a ball; bottom-right labeled 西北 with a gray-framed panel for number 2 and text 二黑巨门星, plus 凶星: 病痛、伤害、阻滞, illustrated with a stone pagoda and a small incense burner. Use exactly 6 outer direction labels around the grid: 东南, 正南, 西南 above the top row, and 东北, 正北, 西北 below the bottom row, each inside rounded capsules matching the panel colors. Add exactly 2 large vertical side direction labels outside the grid: 正东 on the left side and 正西 on the right side. At the bottom center, add a pill-shaped legend with 2 segments: a red segment reading 吉星: 1、4、6、8、9 and a dark gray segment reading 凶星: 2、3、5、7. Include faint pale cloud motifs behind some objects for traditional atmosphere. Style is crisp vector-infographic with soft watercolor-like object rendering, high readability, balanced spacing, and an elegant Chinese metaphysical chart aesthetic.
+```
+
+## A premium fast-food commercial product photograph of a gourm...
+
+- author: 𝐌
+- source: https://x.com/Strength04_X/status/2046851786297037305
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-gourmet-burger-commercial-photography-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A premium fast-food commercial product photograph of a gourmet cheeseburger centered against a warm golden-yellow seamless studio background. The burger features a glossy sesame seed bun, fresh lettuce, tomato slices, onion rings, melted cheese, a juicy grilled beef patty, and rich sauce. Soft studio lighting, subtle shadows, mouthwatering texture, sharp focus, ultra realistic food advertisement photography, clean composition, 8K. Create a hyper-realistic exploded vertical infographic composition of a gourmet cheeseburger. At the top, a glossy sesame seed bun top with crisp texture. Below it, fresh green lettuce leaves, tomato slices, onion rings, melted cheese, a juicy grilled beef patty, a sauce layer, and a soft bun base. All ingredients are evenly spaced and perfectly aligned vertically. Warm yellow seamless studio background, soft commercial food lighting, subtle realistic shadows under each floating element, ultra-sharp focus, DSLR macro food photography, premium fast-food ad aesthetic, 8K. Add clean infographic text labels with thin pointer lines pointing to each element using these exact labels: “Bun Top” “Lettuce” “Tomato” “Onion” “Cheese” “Patty” “Sauce” “Bun Base”
+```
+
+## {"type":"Chinese aesthetic infographic poster","topic":"{arg...
+
+- author: 李岳
+- source: https://x.com/liyue_ai/status/2046824148304048381#reversed-2
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-new-chinese-aesthetics-style-chart-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"Chinese aesthetic infographic poster","topic":"{argument name=\"headline text\" default=\"新中式美学风格图谱\"}","style":"elegant new Chinese style, refined editorial infographic, luxury cultural branding board","canvas":{"orientation":"portrait","background":"warm ivory paper texture with very subtle grain","palette":["ivory","ink black","dark forest green","muted jade","gold","terracotta red","soft beige"]},"header":{"title":"新中式美学风格图谱","subtitle":"商业传播类·东方美学的现代表达","decorations":{"left":"ink-style bamboo branch with a thin vertical label reading 现代演绎 and small hanging ornament","right":"large muted red sun disc, 2 flying cranes, thin cloud-line motifs, small red seal stamp"}},"layout":{"structure":"6 rounded-rectangle cards arranged in 2 rows by 3 columns","card_count":6,"sections":[{"title":"01 国潮品牌风","position":"top-left","count":1,"labels":["GUOCHAO BRAND STYLE"],"keywords":["国潮","青年","潮流","文化"],"image":"arched product mockup with 3 items: one shopping bag with crane-and-mountain illustration, one rectangular product box with matching pattern, one takeaway cup; soft studio lighting","caption":"融合传统文化与潮流设计，传递年轻化的东方品牌态度。"},{"title":"02 东方奢侈风","position":"top-center","count":1,"labels":["ORIENTAL LUXURY STYLE"],"keywords":["高端","奢华","质感","东方"],"image":"arched luxury perfume ad with 1 dark glass bottle centered against a black and deep green background, gold mountain line art, reflective surface, vertical Chinese text 东隐奢香","caption":"以东方美学为底蕴，呈现高端、精致、含蓄的品牌气质。"},{"title":"03 新中式电商风","position":"top-right","count":1,"labels":["NEW CHINESE E-COMMERCE STYLE"],"keywords":["电商","产品","视觉","促销"],"image":"arched e-commerce product card with 1 white teapot on a wooden stand, bamboo and moon-gate backdrop, promotional layout showing price ¥298 and small shopping cart icon","caption":"将东方美学融入产品视觉，打造具有转化力的电商美学体验。"},{"title":"04 东方幻想风","position":"bottom-left","count":1,"labels":["ORIENTAL FANTASY STYLE"],"keywords":["幻想","神话","创意","想象"],"image":"arched fantasy illustration with 1 large full moon, 1 traditional palace, swirling clouds and water, 2 white cranes, blossoms, dramatic teal-and-gold atmosphere","caption":"以东方神话与想象为灵感，创造富有故事感的视觉体验。"},{"title":"05 节气文化风","position":"bottom-center","count":4,"labels":["春分","夏至","秋分","冬至"],"keywords":["节气","时令","文化","情感"],"image":"4 narrow vertical seasonal panels showing plum blossoms for spring, lotus for summer, maple leaves for autumn, snowy branches and mountains for winter","caption":"结合二十四节气与传统文化，传递时间之美与东方生活智慧。"},{"title":"06 非遗视觉风","position":"bottom-right","count":1,"labels":["INTANGIBLE HERITAGE STYLE"],"keywords":["非遗","传统","工艺","传承"],"image":"arched heritage-themed display with 2 craft objects: one ornate floral porcelain vase and one folding fan, dark circular backdrop with gold decorative lines and bold Chinese text 匠心传承","caption":"以非遗工艺与传统艺术为核心，展现东方文化的传承与匠心。"}],"footer":{"text":"东方美学·现代演绎","seal":"small red square seal centered at bottom"}},"typography":{"title_font":"large Songti-style Chinese serif","body_font":"clean serif with small English subtitles","numbers":"prominent two-digit section numbers 01 to 06 in dark green"},"rendering":"clean print-ready poster, balanced spacing, premium editorial design, high legibility, soft shadows, polished composition"}
+```
+
+## An educational infographic themed "Life of {argument name="f...
+
+- author: 知识猫图解
+- source: https://x.com/GeekCatX/status/2046986329347838441
+- preview: assets/gpt-image-2-x-discussions/food-lifecycle-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+An educational infographic themed "Life of {argument name="food name" default="Garlic"}."
+
+The image must feature "a single complete food item" (such as a potato / a bunch of bananas / a head of garlic), using horizontal slicing to show the changes of the same food at different time stages, rather than a collage of multiple different items.
+
+The main food body maintains structural continuity and consistent shape, presenting different levels of maturity in different slice areas (like time being sliced open).
+
+The image is in vertical 3:4 ratio, with the main subject centered and horizontally expanded, evenly divided into 4-6 segments:
+
+From left to right: Immature → Mature → Overripe → Spoiled
+
+Each segment reflects real changes:
+
+Color changes (green → yellow → black, etc.)
+Texture changes (plump → softened → shriveled → decayed)
+Feature changes (sprouting, weeping, mold, etc.)
+
+Each stage is accompanied by text descriptions:
+
+Stage name
+Appearance characteristics
+Internal changes (sugar/starch/moisture changes)
+Consumption suggestions (recommended/suitable for cooking/inedible)
+
+Design style:
+
+Minimalist light background (beige)
+Highly realistic photography style
+Clear dividing lines (sense of time slicing)
+Chinese educational layout, Little Red Book style
+Appropriate use of icons like ⚠️✔️
+
+Title at the top: "Life of {argument name="food name" default="Garlic"}"
+
+Key requirement: It must be presented as "slices of the same food item changing over time," not a collage of independent individuals.
+```
+
+## Create a hand-drawn style infographic card in a 9:16 vertica...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2046762567805387100
+- preview: assets/gpt-image-2-x-discussions/hand-drawn-feynman-infographic-card-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a warm, organic look, with a beige or off-white background featuring subtle paper texture, conveying a friendly and handcrafted aesthetic.
+
+At the top of the card, use a large, expressive brush-stroke lettering style (similar to bold brush calligraphy in English) with strong contrast-primarily in red and black-to highlight the title and draw immediate attention. All text on the card should be written in a flowing hand-painted script style, maintaining an artistic rhythm while ensuring legibility.
+
+Organize the layout into 2 to 4 clearly defined sections, each containing short, concise phrases that express the key ideas. The handwritten script should feel dynamic and natural, enhancing the overall visual harmony.
+
+Add small, simple, and engaging hand-drawn illustrations or symbolic icons-such as characters, objects, or conceptual symbols-to reinforce the message and enhance visual interest. Maintain balanced composition and adequate breathing room, ensuring the design remains clean, readable, and visually appealing.
+Theme: {topic}
+
+---
+
+topic: “If you can't explain it simply, you don't understand it well enough.” - Feynman
+```
+
+## Create a hand-drawn style infographic card with a 9:16 verti...
+
+- author: 阿兰AI
+- source: https://x.com/alanlovelq/status/2046984469048066237
+- preview: assets/gpt-image-2-x-discussions/hand-drawn-infographic-card-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a hand-drawn style infographic card with a 9:16 vertical ratio. The card has a clear theme, the background is beige or off-white with paper texture, and the overall design reflects a simple and friendly hand-drawn aesthetic. At the top of the card, a large red and black contrasting brush cursive font highlights the title to attract the visual focus. The text content is all in Chinese cursive, and the overall layout is divided into 2 to 4 clear sections, each expressing core points with short and refined Chinese phrases. The font maintains the smooth rhythm of cursive script, which is both clear and readable and full of artistic atmosphere. Simple and interesting hand-drawn illustrations or icons, such as characters or symbolic signs, are dotted on the card to enhance visual appeal and trigger readers' thinking and resonance. Pay attention to visual balance in the overall layout, reserve enough blank space to ensure the image is concise and clear, easy to read and understand. The theme is: "{argument name="theme" default="Building an IP is long-term compound interest; stick to setting up your stall every day and keep doing it, there will definitely be results because 99% can't persist."} "
+```
+
+## {"type":"Japanese presentation slide","style":"minimal edito...
+
+- author: 司法書士試験講師│アンドロー・デザインワークショップ
+- source: https://x.com/aldw26/status/2047057858727158110#reversed-1
+- preview: assets/gpt-image-2-x-discussions/japanese-business-slide-on-e-application-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"Japanese presentation slide","style":"minimal editorial business infographic, bold typographic layout, high-contrast black white and yellow palette, clean grid, lots of negative space, sharp vector text and shapes","canvas":{"aspect_ratio":"16:9","background":"light gray"},"headline":{"text":"{argument name=\"headline text\" default=\"なぜ今、この通知か\"}","position":"upper center","font":"extra bold Japanese sans-serif","color":"black","size":"very large"},"subheadline":{"text":"電子申請は広がったが、フルオンライン化は進んでいない","position":"below headline","font":"bold Japanese sans-serif","color":"black","size":"medium"},"layout":{"sections":[{"title":"03","position":"small black tag near upper left of main content","count":1,"labels":["03"]},{"title":"main process row","position":"center","count":3,"labels":["現状","しかし","障壁"]},{"title":"bottom footer","position":"bottom full width","count":4,"labels":["司法書士等による特別委任方式","令和7年12月9日","法務省民二第1578号","No.03"]}],"decorations":{"left_edge":"oversized cropped vertical kanji typography in black running off the left side, showing parts of 現 and 状","right_edge":"vertical yellow bar on the far right with rotated black text 03 現状","top_right":"1 small black square","bottom_right":"4 by 5 grid of small black dots","top_left":"thin diagonal black line entering from the top left corner","divider_under_subheadline":"1 thin horizontal black line"}},"center_graphic":{"items":[{"kind":"stat box","count":1,"background":"black","text_lines":["現状","78%","電子申請の利用率"],"text_color":"white","position":"left of center"},{"kind":"arrow","count":2,"color":"black","positions":["between first and second box","between second and third box"]},{"kind":"statement box","count":1,"background":"very light gray","text_lines":["しかし","大半は特例方式","紙原本を別途提出出"],"text_color":"black","position":"center"},{"kind":"barrier box","count":1,"background":"bright yellow","text_lines":["障壁","電子署名が困難","登記義務者の協力が実務上困難"],"text_color":"black","position":"right of center"}]},"quote":{"count":1,"text":"{argument name=\"quote\" default=\"代金決済後に登記義務者へ電子署名を求めることは不動産取引の実務上困難\"}","position":"lower middle inside outlined rectangle with oversized opening and closing quotation marks","style":"bold Japanese sans-serif, black text, black border"},"colors":{"black":"#000000","white":"#FFFFFF","light_gray":"#F2F2F2","yellow":"#FFF200"},"rendering":"flat slide design, precise typography, presentation-ready corporate layout, Japanese text rendered cleanly and legibly"}
+```
+
+## Using REFERENCE_0 as the cast reference, transform the simpl...
+
+- author: Kohya Tech
+- source: https://x.com/kohya_tech/status/2047094394860474508#reversed-0
+- preview: assets/gpt-image-2-x-discussions/japanese-character-relationship-chart-poster-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Using REFERENCE_0 as the cast reference, transform the simple lineup into an ornate Japanese light-novel character relationship chart poster. Keep the same 10 named characters and reuse their existing portrait art as the base visuals, but redesign the layout into a polished infographic on a soft cream and pale-blue fantasy background with decorative borders, sparkles, roses, and a small European-style hotel building vignette in the upper left. Add a large Japanese title at the top, 「支配人はかりそめの顔」, with the subtitle 「キャラクター紹介＆相関図」, and place a dark badge in the upper right that says 「ネタバレ配慮版」. Put the heroine 一条 紬希 in the center as the main focus in a framed character card labeled 「主人公」, and place 秦野 啓司 in a large framed card on the right as the key counterpart. Arrange the remaining 8 characters around them in individual profile cards: 加賀坂 その葉, 川原 澪, 樫村, 紬希の母, ハルカ, 杏子, 美果, 桜子. Connect the characters with multiple colored arrows and relationship labels to visualize the network; include exactly 14 visible relationship labels: 「親友」, 「理解者」, 「本音を見抜く」, 「憧れ」, 「相談」, 「画策」, 「仲直り中」, 「直感的理解」, 「メンター」, 「実務支援」, 「保護者的存在」, 「後輩　ムードメーカー」, 「後輩　グループを支える」, 「後輩　明るさ・希望」. Also add the 8 central horizontal relationship callouts between 一条 紬希 and 秦野 啓司: 「偽溶み→公認」, 「ライバル」, 「秘密を共有」, 「対等な相棒」, 「気になる存在」, plus a pink central badge reading 「反発から信頼へ」, and 3 lower callouts: 「信頼」, 「協力を後押し」, 「二人の空気に気づく」. Include a gold-ribbon group label above the three lower girls that says 「ASTRALの仲間たち」. Add a bottom section with exactly 10 smaller summary cards, one for each character again, lined up across the width. On the far right, add 2 boxed sidebar sections titled 「作品のキーワード」 and 「関係の見どころ」; the first should contain 4 bullet items with icons, and the second should contain 4 bullet items with icons. Fill every card with dense Japanese profile text and role tags in a clean editorial style, as if for a promotional relationship guide included with a novel. Make the overall design elegant, readable, romantic-mystery themed, and magazine-quality.
+```
+
+## {"type":"Japanese presentation slide","style":"clean corpora...
+
+- author: 司法書士試験講師│アンドロー・デザインワークショップ
+- source: https://x.com/aldw26/status/2047057858727158110#reversed-2
+- preview: assets/gpt-image-2-x-discussions/japanese-corporate-scope-slide-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"Japanese presentation slide","style":"clean corporate infographic, minimal modern editorial layout, high contrast, light gray background with black, white, yellow, and medium gray accents, bold Japanese gothic sans-serif typography, precise grid alignment, print-like slide design","canvas":{"aspect_ratio":"16:9","background_color":"#ececec"},"headline":{"page_number":"05","title":"{argument name=\"headline text\" default=\"対象となる登記\"}","subtitle":"売買・贈与の所有権移転と、抵当権の設定・抹消","alignment":"center top"},"layout":{"sections":[{"title":"対象","position":"center-left main panel","count":2,"labels":["所有権の移転登記","抵当権の設定・抹消登記"],"panel_style":"white box with thin black border and yellow header bar"},{"title":"対象外","position":"center-right main panel","count":3,"labels":["登記名義人の住所等の変更登記","遺言書に基づく登記","上記以外の登記全般"],"panel_style":"light gray box with thin dark border and darker gray header bar"},{"title":"footer information","position":"bottom full width","count":4,"labels":["司法書士等による特別委任方式","令和7年12月9日","法務省民二第1578号","No.05"],"panel_style":"horizontal footer row separated by vertical divider lines"}],"decorative_elements":{"count":5,"items":["large cropped black Japanese characters running vertically along the far left edge","small black square near the top right corner","vertical yellow sidebar on the far right with rotated text '05 対象'","1 dotted grid cluster near the lower right with 18 visible black dots arranged in 3 rows by 6 columns","short horizontal black divider line beneath the subtitle"]}},"content_blocks":{"included_panel":{"items":[{"icon":"check mark","main":"所有権の移転登記","sub":"売買・贈与を原因とするもの（共有持分を含む）"},{"icon":"check mark","main":"抵当権の設定・抹消登記","sub":"根抵当権を含む"}]},"excluded_panel":{"items":[{"icon":"x mark","main":"登記名義人の住所等の変更登記","sub":"公務員作成情報が必要"},{"icon":"x mark","main":"遺言書に基づく登記","sub":"一定形式の情報が必要"},{"icon":"x mark","main":"上記以外の登記全般","sub":""}]},"note":{"text":"※対象範囲は運用状況を踏まえて今後検討","position":"below the two main panels, centered"}},"composition":"large centered title at top, subtitle below, two side-by-side information panels in the middle, small note under panels, footer rule and four-segment footer at the bottom, strong asymmetrical left-edge typographic crop for dynamic editorial feel","rendering":"flat vector slide graphic, crisp edges, no photographic texture, no people, no shadows except minimal panel definition"}
+```
+
+## Knowing everything you know about me,  make an infographic o...
+
+- author: Maple Was Here
+- source: https://x.com/maplewashere_/status/2047050505093030321
+- preview: assets/gpt-image-2-x-discussions/maple-personal-anime-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Knowing everything you know about me,  make an infographic of me. Make a cartoon anime style image. 
+
+Thanks for the prompt
+```
+
+## infographic poster of {argument name="player" default="Marad...
+
+- author: Lalo Zanoni
+- source: https://x.com/zanoni/status/2047044897740386333
+- preview: assets/gpt-image-2-x-discussions/maradona-boca-juniors-infographic-poster-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+infographic poster of {argument name="player" default="Maradona"} at {argument name="team" default="Boca"}
+```
+
+## Knowing everything you know about me,  make an infographic o...
+
+- author: Kris Kashtanova
+- source: https://x.com/icreatelife/status/2047042187683066100
+- preview: assets/gpt-image-2-x-discussions/personal-anime-infographic-template-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Knowing everything you know about me,  make an infographic of me. Make a cartoon anime style image. 
+
+I'd love to see what you got.
+```
+
+## Chinese infographic with clear layout, striking large titles...
+
+- author: Nice哥
+- source: https://x.com/YydsSmith/status/2046978890430890250
+- preview: assets/gpt-image-2-x-discussions/professional-automotive-technical-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Chinese infographic with clear layout, striking large titles, and organized parameter tables, maintaining readability for each module while allowing slight decoration. A 9:16 vertical high-end automotive technical breakdown infographic themed "{argument name="theme" default="Mazda Skyactiv Full Technical Analysis"}", with a black-gray dark background, strong tech feel, and professional car magazine cover-level visuals. In the center is a high-detail 3D perspective breakdown of a {argument name="car model" default="Mazda CX-5"} in Soul Red, showing engines, chassis, suspension, brakes, transmission, and interior in layers. Above is a bold title "{argument name="main title" default="Mazda Skyactiv: Most Detailed Breakdown"}" with brand elements. The layout features various Chinese description modules and parameter cards covering performance, power systems, and safety. The vehicle rendering is photographic-grade with extreme detail in mechanical parts. The style resembles automotive engineering posters or professional promotional infographics, high information density, 8K ultra-sharp, sharp and professional with cinematic lighting.
+```
+
+## A clean, square editorial cartoon in flat vector style with ...
+
+- author: Juan Camilo Mesa
+- source: https://x.com/ElNutriDice/status/2047023858578870545#reversed-0
+- preview: assets/gpt-image-2-x-discussions/satirical-expensive-supplements-cartoon-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A clean, square editorial cartoon in flat vector style with soft shading and bold outlines, on a light gray background. The scene is a satirical medical office consultation about overpriced supplements that do not work. At the top left, a huge three-line Spanish headline in bold sans-serif reads: “Suplementos” in dark teal, “costosos” in orange, and “que no funcionan” in dark teal, with a small orange sparkle accent and an orange underline swoosh beneath the headline. At the top right, add a social handle and website in dark teal: “@elnutridice” and “elnutridice.com”. Along the far left edge, place a vertical orange credit line that reads “Imagen creada en: ia.elnutridice.com”. In the foreground, show a wooden desk covered with large stacks of green cash, with many loose bills flying through the air around the characters. On the right, a smug male doctor in a white lab coat over teal scrubs sits behind the desk, holding a thick stack of money in one hand and gesturing casually with the other. His face is deliberately blurred or censored with a rectangular blur block. On his coat, a badge or patch reads “SALUD Y COMISIONES”. In front of him on the desk is a dark teal nameplate with a dollar symbol and the Spanish text “TU SALUD, MI NEGOCIO”. Behind him on the wall, include a framed certificate that reads “CERTIFICADO DE COMISIONES”, plus a small shelf with 3 visible items: 2 teal binders and 1 small potted plant. On the left, a female patient with long dark brown hair and a teal long-sleeve shirt sits facing the doctor, one hand raised in frustration. Her face is also blurred or censored with a rectangular blur block. Add a speech bubble above her saying: “Doc, ese suplemento carísimo que me mandó no me sirvió para nada.” Add a speech bubble above the doctor saying: “A mí sí me sirvió.” On the lower left corner of the desk, place a supplement bottle labeled “SUPLEMENTO PREMIUM” with an orange price mark “$$$$”. Next to it, place a clipboard with a prescription sheet showing a large “Rx” and the text “SUPLEMENTO PREMIUM”. Also include 2 small potted plants total in the image: 1 on the floor or lower left beside the desk and 1 on the rear shelf. Use a humorous, critical, social-media infographic tone, balanced composition, crisp typography, high readability, and polished modern vector illustration aesthetics.
+```
+
+## "Create the most detailed infographic ever made about how a ...
+
+- author: Rohan Paul
+- source: https://x.com/rohanpaul_ai/status/2047047274774331747
+- preview: assets/gpt-image-2-x-discussions/semiconductor-chip-manufacturing-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+"Create the most detailed infographic ever made about how a modern semiconductor chip is manufactured, from quartz sand to a finished 3nm-class processor."
+```
+
+## {"type":"Spanish AI business infographic","style":{"theme":"...
+
+- author: Adan Avelar Islas
+- source: https://x.com/adanvecindad/status/2046963727954501785#reversed-0
+- preview: assets/gpt-image-2-x-discussions/spanish-neon-ai-business-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"Spanish AI business infographic","style":{"theme":"futuristic neon cyber dashboard","background":"deep navy to black gradient with subtle glow and thin electric-blue panel outlines","lighting":"high-contrast luminous blue and green UI glow","rendering":"clean corporate infographic, crisp vector-like text, glossy digital panels"},"canvas":{"aspect_ratio":"16:9"},"headline":{"title":"{argument name=\"headline text\" default=\"El Poder de la Inteligencia Artificial en los Negocios\"}","subtitle":"Sistemas autonomos que reducen costos escalan operaciones y transforman la experiencia del cliente","accent_words":["transforman la experiencia del cliente"]},"branding":{"top_left_logo_text":"AI BUSINESS POWER","top_right_badge":"{argument name=\"tool name\" default=\"GPT Image 2\"}"},"layout":{"sections":[{"title":"El Problema y la Oportunidad","position":"left column","count":3,"items":[{"icon":"globe","value":"$13 Billones","description":"valor que la IA aportará a la economía global"},{"icon":"people","value":"50%","description":"trabajos automatizables para 2055"},{"icon":"donut chart","value":"74%","description":"El Gran Bloqueo, empresas que no superan fase prototipo"}]},{"title":"Servicios Core","position":"center column","count":3,"items":[{"icon":"robot chatbot","title":"Agentes de Ventas y Soporte 24/7","description":"chatbots WhatsApp y web, calificación de leads en tiempo real"},{"icon":"brain","title":"Sistemas RAG","description":"cerebros empresariales, respuestas exactas, sin alucinaciones"},{"icon":"lightning bolt","title":"RPA + Automatización de Flujos","description":"CRMs, extracción de documentos, creación de contenido con Skills AI"}]},{"title":"Resultados y ROI","position":"right column","count":4,"items":[{"icon":"clock","value":"100+","description":"horas/mes ahorradas en tareas administrativas","graphic":"upward green arrow chart"},{"icon":"gear","value":"90%","description":"menos carga de trabajo manual en flujos operativos","graphic":"upward green arrow chart"},{"icon":"bar chart","value":"Triplicar","description":"la facturación sin aumentar costos ni personal","graphic":"upward green arrow chart"},{"icon":"shield check","value":"Gobernanza SAFE-AI","description":"datos seguros, cumplimiento regulatorio","graphic":"upward green arrow chart"}]}],"top_right_panel":{"count":4,"items":[{"type":"dashboard screen","label":"AI DASHBOARD","details":"purple and blue line graph, circular AI interface, three stat boxes showing +89% eficiencia, -70% reducción, +98% clientes"},{"type":"presenter character","description":"stylized businesswoman in black outfit with glowing AI logo, dark hair in a bun, hoop earrings, pointing at the dashboard","face":"intentionally obscured or blurred"},{"type":"small widget","label":"AUTOMATIZACIONES","details":"circular progress chart showing 78%"},{"type":"small widget","label":"ACTIVIDAD EN TIEMPO REAL","details":"world map heat visualization in purple"}]},"bottom_banner":{"count":3,"items":[{"icon":"code brackets","text":"Construyendo con AI Coding:"},{"text":"Arquitecturas robustas, control de alucinaciones (Top-K/Temperature) y flujos deterministas."},{"text":"{argument name=\"closing slogan\" default=\"Adiós al Vibe Coding.\"}","icon":"rocket"}]},"centerpiece":"large bold title block on the upper left and a futuristic female AI consultant on the upper right integrated into a glowing analytics dashboard","color_palette":{"primary":"electric blue","secondary":"neon green","accent":"purple","text":"white"},"typography":{"title":"extra-bold geometric sans serif","body":"clean modern sans serif","numbers":"large bold high-contrast"},"composition":"rounded rectangular panels with luminous borders, evenly spaced grid, strong hierarchy, dark negative space, premium startup pitch deck aesthetic"}
+```
+
+## Design a clean, modern infographic explaining how AI image g...
+
+- author: LudovicCreator
+- source: https://x.com/LudovicCreator/status/2046642624317014144
+- preview: assets/gpt-image-2-x-discussions/ai-image-generation-process-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Design a clean, modern infographic explaining how AI image generation models work. Use a structured, step-by-step layout with clear sections and visual flow (top-to-bottom or left-to-right).
+
+Include these stages:
+1.Input Prompt - user enters a text description (show text box icon)
+2.Text Processing - AI interprets keywords and meaning (NLP concept)
+3.Latent Space / Encoding - convert text into numerical representation
+4.Image Generation Process - diffusion or generative model gradually creates an image from noise
+5.Refinement - model improves details step by step
+6.Output - high-quality generated image
+
+Use simple icons (brain, data nodes, noise-to-image transition, pixels, etc.) and arrows to show the process flow.
+
+Style: tech-focused, futuristic, minimal but visually engaging. Use gradients (blue, purple, neon tones), dark or light background. Include short captions (1-2 lines max per step), avoid clutter.
+
+Optional: add a small side section explaining Training Phase (datasets, learning patterns, neural networks).
+
+Make it visually balanced, easy to understand for beginners, and suitable for educational or social media use
+```
+
+## Please create a cartoon-style infographic based on the provi...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2046727976470090081
+- preview: assets/gpt-image-2-x-discussions/cartoon-style-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Please create a cartoon-style infographic based on the provided content, following these guidelines:  
+- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).  
+- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.  
+- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.  
+- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.  
+- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.  
+- Unless otherwise specified, use the same language as the provided content.  
+
+Please create the illustration based on the input provided.
+
+---
+
+{Your conent}
+```
+
+## Please create an infographic based on the input content, hig...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2046728763535167972
+- preview: assets/gpt-image-2-x-discussions/chalkboard-style-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Please create an infographic based on the input content, highlighting key themes and essential points:
+
+- Simplify information, emphasizing keywords and core concepts, leaving ample whitespace for clarity.
+
+- Include minimalistic cartoon elements, icons, or simple portraits of famous figures to enhance engagement and visual recall.
+
+- All text and images should strictly use colored chalk style without realistic illustrations.
+
+- Unless specifically requested, maintain the original language of the input content.
+
+- Use a horizontal layout (16:9) with a black chalkboard background and colorful chalk drawing style.
+
+Please create the illustration based on the input provided.
+
+---  
+
+{Your conent}
+```
+
+## {   "type": "evolutionary timeline infographic",   "instruct...
+
+- author: 知识猫图解
+- source: https://x.com/GeekCatX/status/2045792240044511277#reversed-1
+- preview: assets/gpt-image-2-x-discussions/3d-stone-staircase-evolution-infographic-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{
+  "type": "evolutionary timeline infographic",
+  "instruction": "Using REFERENCE_0 as a structural base, transform the flat vector design into a highly realistic 3D infographic. Replace the smooth ramps with distinct stone steps and upgrade all organisms to photorealistic 3D models.",
+  "style": {
+    "background": "{argument name=\"background style\" default=\"vintage textured parchment paper\"}",
+    "staircase": "{argument name=\"staircase material\" default=\"realistic textured stone blocks\"}",
+    "subjects": "{argument name=\"organism style\" default=\"highly detailed photorealistic 3D renders\"}"
+  },
+  "layout": {
+    "main_title": "{argument name=\"main title\" default=\"人类演化\"}",
+    "sections": [
+      {
+        "position": "left sidebar",
+        "count": 8,
+        "labels": ["L0: 单细胞生命", "L1: 多细胞生物", "L2: 动物界", "L3: 脊索动物", "L4: 上陆革命", "L5: 哺乳纲", "L6: 人科演化", "L7: 智人纪元"]
+      },
+      {
+        "position": "top right",
+        "title": "获得的功能 / 失去的功能",
+        "description": "Legend with plus and minus icons"
+      },
+      {
+        "position": "bottom center",
+        "title": "演化关键里程碑",
+        "count": 6,
+        "description": "Timeline with a silhouette graphic of 6 figures showing ape-to-human evolution"
+      }
+    ],
+    "centerpiece": {
+      "description": "Winding stone staircase with 25 numbered steps featuring specific organisms.",
+      "count": 25,
+      "notable_elements": [
+        "Step 07: Jellyfish",
+        "Step 09: Ammonite",
+        "Step 10: Trilobite",
+        "Step 24: Walking human",
+        "Step 25: {argument name=\"future evolution concept\" default=\"glowing cosmic silhouette with a question mark\"}"
+      ]
+    }
+  }
+}
+```
+
+## {   "type": "exploded view product diagram poster",   "subje...
+
+- author: wory＠ホッピング中
+- source: https://x.com/wory37303852/status/2045925660401795478#reversed-0
+- preview: assets/gpt-image-2-x-discussions/vr-headset-exploded-view-poster-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{
+  "type": "exploded view product diagram poster",
+  "subject": "VR headset",
+  "style": "clean high-tech 3D render, studio lighting, glowing accents",
+  "background": "{argument name=\"background color\" default=\"soft purple and blue gradient\"}",
+  "header": {
+    "logo": "∞ {argument name=\"product name\" default=\"Meta Quest 3\"}",
+    "subtitle": "{argument name=\"main catchphrase\" default=\"まったく新しい現実を、まったく新しい構造から。\"}"
+  },
+  "layout": {
+    "centerpiece": "vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Snapdragon® XR2 Gen 2\n圧倒的な処理性能でリアルタイムな体験を。",
+        "調整可能なIPD機構\n幅広いユーザーに快適なフィット感を。",
+        "精密設計されたヘッドストラップ\n快適さと安定性を追求したエルゴノミクス。"
+      ],
+      "right_side": [
+        "フェイスプレート\n洗練されたデザインと最適な重量バランス。",
+        "トラッキングカメラ\n高精度な位置トラッキングと環境認識を実現。",
+        "パンケーキレンズ\n薄型設計で広い視野角と鮮明な映像を提供。",
+        "高性能バッテリー\n長時間駆動を支える最適化された電源設計。",
+        "柔らかなフェイスインターフェース\n長時間でも快適な装着感を実現。"
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "{argument name=\"bottom headline\" default=\"体験は、構造から進化する。\"}",
+        "body": "一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。"
+      },
+      "right_logo": "∞ Meta"
+    }
+  }
+}
+```
+
+## Infographic which shows the progression of F1 Ferrari cars f...
+
+- author: David Hendrickson
+- source: https://x.com/TeksEdge/status/2040489463550529755
+- preview: assets/gpt-image-2-x-discussions/f1-ferrari-progression-infographic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Infographic which shows the progression of F1 Ferrari cars from old to latest new 2026 Ferrari Formula 1 car, the SF-26 (codenamed Project 678), which was officially revealed on January 23, 2026.
+```
+
+## Isometric Workflow Diagram
+
+- preview: assets/generated/isometric-workflow.png
+- lang: en
+- upstream: AzhuTech/awesome-gpt-image-2-prompts
+
+```
+Generate a clean isometric diagram explaining an AI image prompt workflow. Include five labeled stages: 'Idea', 'Prompt', 'Generate', 'Evaluate', 'Refine'. Use simple geometric workstations connected by thin lines. Make labels crisp and readable. Style: modern technical documentation, white background, dark graphite lines, small coral and teal accents, no clutter.
 ```
 

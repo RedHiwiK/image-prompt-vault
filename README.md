@@ -15,7 +15,8 @@ image-prompt-vault/
 │       ├── _stats.json       # counts per upstream / per category
 │       └── by-category/      # per-category .md files for browsing
 ├── scripts/
-│   └── merge.py              # one-shot aggregator, re-run anytime
+│   ├── merge.py              # aggregator: pulls from upstream repos, normalizes schema
+│   └── classify.py           # keyword-based auto-categorizer + by-category rebuilder
 └── NOTICE.md                 # attribution + takedown policy
 ```
 
@@ -40,8 +41,10 @@ image-prompt-vault/
 
 1. `mkdir models/<model-slug>`
 2. Add a `load_<source>()` function in `scripts/merge.py` for each upstream source for that model.
-3. Run `python3 scripts/merge.py`.
+3. Run `python3 scripts/merge.py && python3 scripts/classify.py`.
 4. Commit + push.
+
+The pipeline is **always** `merge.py → classify.py`. `merge.py` rebuilds the canonical dataset from upstream; `classify.py` infers categories for `Uncategorized` / `General` entries via keyword rules and regenerates `by-category/`. Both are idempotent.
 
 ## Current dataset (gpt-image-2)
 

@@ -1,4 +1,4 @@
-# Character (24)
+# Character (33)
 
 ## Battle on a Twig: The Armored Warrior's Charge
 
@@ -341,5 +341,137 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 ```
 一幅梦幻般的绘画风格动漫全身插画，描绘了一位年轻女性站在阳光明媚的咖啡馆入口外，画面着重表现了她面部朝向和视线的细节。她身体略微转向画面右侧，头部侧倾，仿佛正看向镜头外的街道。她的面部线条柔和简约，部分被明亮的光线遮蔽，五官精致，没有生硬的轮廓线。她留着一头带有温暖金色挑染的棕色长卷发，零散的发丝捕捉着阳光，一侧别着一个小发夹。她穿着一件宽松的米色长袖连体裤或短裙，腰部收紧，袖口轻盈飘逸，搭配白色堆堆袜、厚底小白鞋，以及一个带有细金链条的小白肩包。她双手捧着一杯插着黑色吸管的透明塑料冰咖啡，置于胸前。场景位于一家舒适的咖啡馆外，右侧是高大的玻璃门窗，可以看到两个写有“MOUNT TOKYO”字样的咖啡馆招牌，下方附有较小的文字“COFFEE, SANDWICH and more...”——其中一个是墙面安装的长方形招牌，另一个是左下方的黑色 A 型人行道立牌；A 型立牌底部还包含小字营业时间。左侧边缘放置着 1 张简单的木制长椅。整个场景充满了斑驳的阳光和浓密的树影，投射在墙壁、玻璃、地面、长椅和女性的衣物上，营造出闪烁的夏日氛围。采用柔和的水彩和水粉渲染风格，带有明亮过曝的高光，温暖的奶油色、金色和桃色调与冷蓝色的阴影相得益彰，笔触充满质感，玻璃反射出光泽，呈现出怀旧而轻盈的氛围。竖构图，全身可见，优雅的时尚插画构图，环境细节丰富，日本阳光洗礼下的咖啡馆街景。
+```
+
+## 16-Panel Anime Expression Grid
+
+- author: 卡尔的AI沃茨
+- source: https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew
+- preview: https://github.com/user-attachments/assets/27258fa9-086e-4dfa-b61e-d9ada90425b2
+- lang: en
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+Create a 16-panel expression grid of a silver-haired, blue-eyed anime girl. Her face shape, hairstyle, and clothing must remain highly consistent across all panels. The 16 expressions should include: happy, sad, angry, surprised, shy, speechless, evil grin, contemplative, curious, proud, wronged, disdainful, confused, scared, crying, and a heart expression.
+```
+
+## GTA 6 Style In-Game Footage
+
+- author: @WolfRiccardo
+- source: https://x.com/WolfRiccardo/status/2041187268711321735
+- preview: https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large
+- lang: en
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a stationary 4k monitor. (There's a slight blurriness in the image, as it feels like it was taken handheld). A wide, bright environment. Realistic details. The character is walking on the beach with / :dog.
+```
+
+## Official Character Reference Sheet
+
+- author: @MANISH1027512
+- source: https://x.com/MANISH1027512/status/2045013913901867334
+- preview: https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/official-character-reference-sheet.jpeg
+- lang: en
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+Based on this character and background, please create a character reference sheet similar to official setting materials.
+- Includes three-view drawings: front view, side view, and back view
+- Add variations of the character's facial expressions
+- Break down and display detailed parts of the clothing and equipment
+- Add a color palette
+- Include a brief explanation of the worldview setting
+- Overall, use an organized layout (white background, illustration style)
+```
+
+## how to generate AI photos that look 100% real with GPT-image...
+
+- author: Pau//
+- source: https://x.com/pavellaslov/status/2047182214304055339
+- preview: assets/gpt-image-2-x-discussions/json-prompt-recreation-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+how to generate AI photos that look 100% real with GPT-image-2:
+out of the box, GPT image-2 has a visible AI look without references.
+here’s how to fix that:
+go to Pinterest and grab any photo with the aesthetic you want
+upload it to Claude Opus and prompt:
+“analyze this photo and give me a detailed JSON prompt that recreates it. break down the color grading and every exact color in the photo”
+(use Opus, not Sonnet. Opus has stronger visual analysis and writes more detailed JSON)
+paste that JSON into ChatGPT
+upload your product image and prompt:
+“using this JSON as reference, generate a person holding my product”
+save that generated photo as your character reference
+attach it to every future generation for facial consistency
+you now have a consistent UGC model that works across any product
+the JSON controls the lighting and color grading. GPT image-2 handles the character. you control the product placement.
+the #1 tell on AI photos is flat colors and a grainy look. this method removes both.
+5 minutes to set up. unlimited variations after.
+```
+
+## Based on everything you know about me, make a character shee...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2046785225783431447
+- preview: assets/gpt-image-2-x-discussions/baoyu-shonen-anime-character-sheet-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Based on everything you know about me, make a character sheet of shonen-style anime character of me, name is 宝玉
+```
+
+## A highly detailed, whimsical anime cafe illustration in a ve...
+
+- author: AriteAL /ありてある
+- source: https://x.com/arite_al/status/2047088858601554248#reversed-0
+- preview: assets/gpt-image-2-x-discussions/chibi-rainbow-girl-in-fantasy-cafe-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A highly detailed, whimsical anime cafe illustration in a vertical composition, featuring a chibi girl standing at the center of a cozy fantasy coffee shop at sunrise. She has extremely long, voluminous hair that fades in a vivid rainbow gradient from deep blue at the top into cyan, green, yellow, orange, pink, and purple at the ends, large sparkling blue eyes, and a cheerful open-mouth smile. She wears oversized silver headphones with green four-leaf clover emblems on the earcups, a red leather jacket, a white T-shirt with a yellow smiley face, fitted blue jeans, and chunky white high-top sneakers with red laces. She holds a white mug decorated with a green clover in one hand and stands in a relaxed, friendly pose. Surrounding her is a warm, magical cafe interior made of polished dark wood, filled with hanging plants, shelves of jars and bottles, glowing crystals, teapots, mugs, and golden morning light streaming through tall arched windows. Outside the window is a dreamy European-style fantasy town with towers and rooftops under a pastel sunrise sky. Include exactly 2 small mascot characters: 1 round blue penguin-like barista on the left wearing a tiny vest and bow tie and serving clover mugs, and 1 small black bat-cat creature on the lower right with red eyes, little wings, and a red bow tie. Include exactly 3 visible menu or message boards/signs: 1 large hanging chalkboard at upper left reading “AriteAL Cafe Menu” with Japanese bullet items underneath, 1 speech bubble near the upper right of the girl with the Japanese text “おはよう。今日も、ひとくち目の幸せから。”, and 1 small black welcome board at lower right mentioning AriteAL Cafe in Japanese. In the foreground, show exactly 4 featured food and drink items on a round table: 1 thick slice of toast topped with a green clover garnish on a plate, 1 latte in a white clover cup with foam art, 1 tall rainbow parfait glass layered with colorful jelly or fruit, whipped cream, strawberries, berries, and crystal-like decorations, and 1 small glass jar of honey or syrup. Add clover motifs throughout the scene on cups, signage, and decor. Use saturated colors, glossy highlights, intricate linework, soft magical sparkles, golden-hour rim light, charming fantasy cafe atmosphere, and polished high-end anime illustration quality.
+```
+
+## Create a character design sheet for Hermes Agent, with key i...
+
+- author: Neo
+- source: https://x.com/NeoAIForecast/status/2046795552650936695
+- preview: assets/gpt-image-2-x-discussions/hermes-agent-character-design-sheet-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a character design sheet for Hermes Agent, with key info
+```
+
+## A simple anime-style upper-body character illustration on a ...
+
+- author: ふぁりー💚💛
+- source: https://x.com/506Farley/status/2047085107979419924#reversed-0
+- preview: assets/gpt-image-2-x-discussions/minimal-futuristic-anime-girl-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A simple anime-style upper-body character illustration on a plain light gray background, centered and facing slightly left in a calm three-quarter pose. The character is a young futuristic female android or virtual idol with {argument name="hair color" default="platinum blonde"} hair, styled with one thick braided bun over the left side of the head, long loose side strands, and smooth straight hair flowing past the shoulders. She wears a geometric sci-fi headset over the left ear with a glowing cyan rectangular panel and angular metallic frame. Her outfit is a sleek white bodysuit with black structural straps and trim, a tall black high-neck collar, and thin glowing cyan accent lines running vertically and diagonally across the chest and torso. She has detached white arm sleeves with black bands, including one small dark diamond-shaped ornament on the upper arm. Render the image as a clean, minimal sketchy illustration with delicate pencil-like linework, light cel shading, soft pastel colors, subtle cyan highlights, and a polished concept-art feel. Keep the composition cropped from the top of the head to below the chest, with lots of negative space and no props, no text, and no detailed background.
+```
+
+## {"type":"anime VTuber livestream overlay illustration","them...
+
+- author: はげあたま
+- source: https://x.com/hageatama/status/2046618179037024377#reversed-1
+- preview: assets/gpt-image-2-x-discussions/youtube-thumbnail-celestial-vtuber-livestream-overlay-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"anime VTuber livestream overlay illustration","theme":"celestial night sky, stars, constellations, deep sapphire and white, elegant magical idol aesthetic","subject":{"character":{"name":"{argument name=\"character name\" default=\"蒼空なつみ\"}","gender_presentation":"cute young anime woman","hair":{"color":"{argument name=\"hair color\" default=\"pale sky blue\"}","style":"very long wavy twin-tail-like loose hair with a small ahoge, soft bangs, star hair ornaments and ribbons"},"outfit":{"style":"ornate celestial idol dress","pieces":["white off-shoulder blouse with puffy sleeves","large navy blue chest bow with gold star ornament","navy corset-style bodice with gold trim and constellation motifs","star choker necklace","small tilted white mini hat with blue ribbon and gold star accessory"]},"pose":"seated at a streaming desk, centered, facing forward behind a microphone and keyboard","expression":"gentle, calm, welcoming"}},"environment":{"setting":"cozy fantasy streaming room at night with a large window showing a star-filled sky","background_elements":["hanging star garlands and crystal ornaments","shelves with bottles, books, hourglass, telescope-like objects, and celestial decor","moon and constellation imagery outside the window","two fluffy mascot-like cloud plushies with blue eyes"]},"props":{"desk_items":["1 large vintage-style microphone on a stand at left of center","1 decorative keyboard with star-themed keys","1 nameplate reading \"蒼空なつみ - SORA NATSUMI -\"","1 parfait glass dessert topped with a small white bunny figure","1 small cup or candle holder with a cloud mascot"]},"layout":{"format":"full livestream waiting/talking screen overlay","sections":[{"title":"LIVE","position":"top-left vertical banner","count":3,"labels":["LIVE","20:30","05/20 Tue"]},{"title":"COMMENTS","position":"left panel","count":14,"labels":["星見たこ：こんなっつー！ ✨","夜空ヨル：待機完了〜！今日はどんなお話かな？","しろくまアイス：こんなっつー！","天の川りゅうせい：今日も可愛い！大好き！","ふるーすたー：も ふ ぷ","月見うさぎ：楽しみ〜！！","ななせそら：こんなっつー！ ☁️✨","Stella：きちゃー！( *´ω｀)","彗星カケル：配信ありがとう〜！","みずいろねこ：こんなっつー！ 💙","星屑ひかり：今日のサムネもかわいい…！","夜更かしの民：こんなっつー！","ゆめみがち：待ってました！","ハル：今日の衣装も最高に似合ってるぞ〜！"]},{"title":"social tags","position":"below comments panel","count":2,"labels":["@sora_natsumi","#なつみんらいぶ"]},{"title":"goal panel","position":"bottom-left","count":4,"labels":["目標：チャンネル登録者数 100,000人！","現在","58,320 人","いつもありがとう！チャンネル登録高評価よろしくね☆"]},{"title":"supporters panel","position":"bottom-left small card beside goal panel","count":6,"labels":["☆今日の星屑さん（スパチャありがとう！）☆","星の旅人 さん ¥2,000","ふるーすたー さん ¥1,000","天の川りゅうせい さん ¥500","みずいろねこ さん ¥320","流れ星 さん ¥200"]},{"title":"Now Talking","position":"upper-right panel","count":3,"labels":["Now Talking","{argument name=\"talk topic text\" default=\"初見さん歓迎！雑談配信✨\"}","{argument name=\"subtitle text\" default=\"〜まったりお話ししよっ〜\"}"]},{"title":"SET LIST","position":"right-middle panel","count":5,"labels":["01. 星屑になれたら","02. プラネタリウム","03. 夜に駆ける","04. Stellar Stellar","05. 天体観測"]},{"title":"promo card","position":"bottom-right panel","count":3,"labels":["オリジナル曲","星空コンパス","MV公開中！"]}],"logo":{"position":"top-right corner","text":"蒼空なつみ SORA NATSUMI"}},"style":{"rendering":"high-detail polished anime illustration, luminous highlights, soft glow, crisp linework","composition":"symmetrical, dense decorative overlay, character centered with UI panels around her","lighting":"cool moonlit blue ambiance with sparkling gold accents","mood":"dreamy, magical, cozy, elegant"}}
 ```
 

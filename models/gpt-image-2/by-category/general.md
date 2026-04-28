@@ -1,17 +1,4 @@
-# General (170)
-
-## #AIart #AIイラスト GPT-image-2 test
-
-- author: IT navi @itnavi2022
-- source: https://x.com/itnavi2022/status/2044412394760507521
-- preview: https://pbs.twimg.com/media/HF81Rqjb0AE9Wg1?format=jpg&name=large
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Two girls with a fated grudge, anime illustration
-```
+# General (148)
 
 ## #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト
 
@@ -79,19 +66,6 @@ A subway station in USA, a momentary blur. The subway is in motion. In front of 
 一张清晰、扁平的数字俯视棋盘，居中于画面。棋盘为 8x8 方格，四周显示代数坐标：顶部和底部为 a 到 h 的字母，左侧和右侧为 8 到 1 的数字。使用深炭灰色作为外部背景和边框，棋盘格交替采用浅米色和柔和的灰褐色。渲染简洁的高对比度 2D 象棋图标，黑色棋子位于上方，白色棋子位于下方，呈现清晰的矢量风格，无木纹质感，无真实光影，无多余的界面元素。展示 1. e4 e5 开局后的准确位置：黑色大子位于 a8 车、b8 马、c8 象、d8 后、e8 王、f8 象、g8 马、h8 车；黑色兵位于 a7、b7、c7、d7、f7、g7、h7 和 e5；白色兵位于 a2、b2、c2、d2、f2、g2、h2 和 e4；白色大子位于 a1 车、b1 马、c1 象、d1 后、e1 王、f1 象、g1 马、h1 车。其余方格留空。保持构图绝对对称、具有教学意义且易于辨识，如同用于说明开局走法的数字象棋图。
 ```
 
-## A Moment Frozen in Time: 2008 House Party Snapshot
-
-- author: @GlitterPixely
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGdGVKQWEAA38_Q.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-A photorealistic candid photograph taken with flash at a crowded house party in 2008. The camera angle is slightly tilted, capturing a kitchen scene. In the foreground, a red plastic cup sits on a counter with a Sharpie-written name tag reading 'JASON' in messy capital letters. Behind it, a girl with side-swept bangs and a striped American Apparel tank top is laughing with her eyes closed, holding a flip phone up as if taking a photo of the photographer. On the fridge behind her, a printed paper reads 'NO BEER IN THE FREEZER!!! - Mom' in Arial font, taped with Scotch tape. A digital oven clock in the background shows '11:47' in green LED. The photo has harsh direct flash lighting, red-eye on one person in the background, slightly blown-out highlights, and the warm-yellow cast of a 2008 digital point-and-shoot. The bottom of the image has a subtle Facebook watermark from when it was re-uploaded in 2012. Every text element must be era-accurate and physically correct.
-```
-
 ## AI 人像对比侧边展示
 
 - author: Bin 哥 AI 跃迁
@@ -155,38 +129,6 @@ A stunning 18-year-old Chinese girl with a youthful, pure face and realistic ski
 
 ```
 A 22-year-old East Asian girl, round youthful face, large bright doe eyes with natural lashes, rosy cheeks, soft pink lip gloss, two-strand loose braids with baby hairs.
-```
-
-## Chronicles of Innovation: A Visual Journey Through Time
-
-- author: @Gdgtify
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGdaz7yWwAA8bG2.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Make a 15×15 grid starting with 1000 BC to 2026. In each section, show a unique invention diorama that changed the world at its time, no repeats. Use colors, background, & era relevant components
-```
-
-## Confident Elegance: A Young Man and His Mustang
-
-- author: @harboriis
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGkHCe5bgAA1EBU.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim skinny body, lean physique, narrow shoulders and waist, standing confidently in front of a blue 2017 Ford Mustang GT Convertible with a bold red soft top roof, captured from a high-angle aerial perspective exactly like a luxury driveway photoshoot. Keep face 100% identical to reference image with exact facial structure, natural skin texture, realistic pores, authentic expression, no beautification, no facial modification. Same modern textured side-swept quiff hairstyle with heavy natural volume on top, deep side flow, messy yet controlled texture, soft matte finish, visible natural hair strands, softly blended sides.
-
-The subject stands centered near the front bumper of the Mustang GT, hands inside hoodie pockets, relaxed shoulders, straight posture, slight head tilt upward toward camera, confident calm expression, wearing oversized premium black hoodie with realistic cotton texture, natural folds, hanging drawstrings, loose dark washed black denim jeans with soft wrinkles and stacked hems, clean white sneakers with realistic leather texture and sole details, black slim rectangular sunglasses.
-
-Car must be a detailed 2017 Ford Mustang GT Convertible, metallic electric blue paint, glossy reflections on hood, visible Mustang pony grille emblem, aggressive headlights, muscular hood sculpting, aerodynamic front bumper, black alloy wheels, premium red convertible fabric roof, realistic windshield reflections, detailed side mirrors, authentic tire tread, showroom-clean finish
-
-Scene set in an upscale villa driveway with light beige hexagonal stone pavement, curved border with fresh green grass on left side, tropical palm leaves entering frame from top corners, subtle luxury outdoor atmosphere. Soft natural daylight, diffused afternoon lighting, realistic shadows under car and body, soft reflections on paintwork, cinematic premium color grading, natural contrast, shallow depth separation while maintaining environment clarity. Shot on 35mm lens, vertical composition, full body framing, crisp details, hyper-realistic DSLR quality, zero Al look, natural skin rendering, realistic hair strands, fabric texture, stone surface texture, luxury lifestyle mood. stylish text "AmanZaid" at the bottom-left corner, signature style
 ```
 
 ## Create an image of your choice based on our deep collaboration since 3/30/23
@@ -303,24 +245,6 @@ Make it visually balanced, easy to understand for beginners, and suitable for ed
 EA FC 26 图标内马尔包。没有ps加。评级：96。LW。小内马尔PAC 94 SHO 91 PAS 93 DRI 96 DEF 44 PHY 74。
 ```
 
-## ECHO SKIN: The Future of Neural Visors Unveiled
-
-- author: @AllaAisling
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGeun0tWcAA2tEU.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-You are a premium sci-fi advertising director launching the ECHO SKIN NEURAL VISOR — a sleek, near-future AI visor worn across both eyes like a high-fashion accessory meets military optics.
-DEVICE:A slim, curved visor — titanium frame, smoked translucent lenses that glow electric teal when active. Sits across the face like luxury sunglasses but projects a full AI holographic HUD into the wearer's field of vision. One physical button on the right temple. Nothing else. Impossibly minimal.
-VISUAL STYLE:Deep black background, electric teal and pulse-white glow, cinematic studio lighting, floating holographic UI particles around the visor, ultra-premium biopunk aesthetic. Show the visor both worn on a face (hero) and floating alone as a product shot (secondary).
-LAYOUT: 9:16 vertical. Top: ECHO SKIN logo + tagline "See beyond reality." Middle: hero device shots. Bottom: 2×4 feature grid with icons and short claims.
-FEATURES TO HIGHLIGHT:Neural HUD · Holographic Projection · BioSync AI · VoiceCommand · QuantumMesh 6G · BioCrypt Security · 48hr Battery · Featherweight Titanium Frame
-OUTPUT: 6 identical visuals, text translated into English, Spanish, Traditional Chinese, Japanese, Korean, and French. Same device. Same layout. Language only changes.
-```
-
 ## GPT Image 2
 
 - author: Patrick @patrickassale
@@ -386,19 +310,6 @@ Create a fully labeled diagram of a human cell with at least 10 labeled elements
 A surrealist digital illustration style, using a low-angle upward shot perspective. The scene depicts a giant colorful koi fish swimming freely in a dreamlike nebula, surrounded by vibrant colorful nebulae and bubbles. 
 In the center of the image, a small figure stands with their back to the viewer, calmly gazing up at the enormous koi fish in the sky, while the koi fish looks down at the small figure with its head tilted. 
 The overall composition presents a strong contrast in scale, with an ethereal and fantastical atmosphere. Aspect ratio 9:16
-```
-
-## GPT Image 2 Prompt: A hand-drawn style city food map with Chengdu as the theme. The image features a
-
-- author: 终极小谢 @Panda20230902
-- source: https://x.com/Panda20230902/status/2045396918965285111
-- preview: https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt?format=jpg&name=medium
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-A hand-drawn style city food map with Chengdu as the theme. The image features a bird's-eye view hand-drawn simplified city map as the base, marking main roads and landmarks without pursuing precise proportions but instead aiming for a cute hand-drawn feel. Distributed across the map are 12 exquisite hand-drawn mini-illustrations of food spots: skewered spicy noodles from Chunxi Road (a bamboo skewer piercing various ingredients steaming with heat), the three rice ball cannons from Kuanzhai Alley (three glutinous rice balls flying toward a copper plate), egg pancake from Jianshe Road (golden and crispy, being flipped), hotpot from Yulin Road (a nine-grid pot bubbling and boiling), and so on. Each illustration occupies about 5% of the map's area, with handwritten labels next to them for the shop name and a recommendation phrase "The one still queuing at 2 a.m." The map's edges are framed with hand-drawn vines and chili peppers for decoration. In the bottom right corner, there's a hand-drawn compass and legend explanation. The top left title "Chengdu · Foodie Rampage Map" uses chubby round hand-drawn artistic font with chili pepper decorations. The overall style is a mixed hand-drawn texture of watercolor + colored pencils, with colors mainly in warm tones (chili red, ginger yellow, emerald green). Image ratio 1:1.
 ```
 
 ## GPT Image 2 Revolution 游戏宣传图
@@ -505,32 +416,6 @@ A realistic photo of an open dotted notebook lying flat, filled with dense handw
 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12
 ```
 
-## GPT-Image-2 Portrait.
-
-- author: BubbleBrain @BubbleBrain
-- source: https://x.com/BubbleBrain/status/2046115431144902732
-- preview: https://pbs.twimg.com/media/HGVC87TaIAAYLc8.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights,  minimal indoor setting near a window with white
-```
-
-## GPT-Image-2 vs Nano Banana 2, nb2 tried its best...
-
-- author: Fresh-Resolution182
-- source: https://www.reddit.com/r/OpenAI/comments/1st73fd/gptimage2_vs_nano_banana_2_nb2_tried_its_best/
-- preview: https://i.redd.it/28wbd71yyuwg1.jpeg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-A candid, medium close-up photograph of a young Asian woman sitting on a traditional woven rattan chair outside a restaurant at night. She has long, straight black hair, dewy makeup, and is looking slightly away to the left. She wears a white ribbed cotton tank top over a black lace bralette, and medium-wash blue denim jeans. Small accessories like a thin necklace and bracelets are visible. She is leaning back, with her left arm resting casually on the chair's back. The background features the restaurant's dark glass facade on the right. In the distance on the left, a bright yellow sign for "KOZY KORNER RESTAURANT LIQUORS" is illuminated above a street scene. The lighting is warm and ambient, originating from the streetlights and restaurant, with some visible film grain.
-```
-
 ## GPT-image-2 (assumed; hazel-gen-4 alias) doesn't have access to realtime information (not surprised)
 
 - author: Simon Smith @_simonsmith
@@ -555,32 +440,6 @@ Generate an image of the front page of a newspaper for today that includes today
 
 ```
 GTA 6 游戏中的镜头，非常细致，非常真实。从固定 4k 显示器拍摄的特写镜头。图像有点模糊，感觉像是手持拍摄的。环境宽敞明亮。
-```
-
-## Haute Couture Meets Entomology: A Fashion Revolution
-
-- author: @Gdgtify
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGa9jVdXsAAZRes.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-<instructions> Input = Luxury Fashion House. Identify 4 iconic fashion brands and their signature fabrics/patterns. Function Draw ($Fashion_Brand, $ Insect_Species) ... Anchor: [$Insect_Species] :: [$Fashion_Brand]::4 | Morphology: Biological anatomy of [$Insect_Species] reconstructed via the assemblage of [$Fashion_Brand] textiles, exoskeleton formed from constituent haute couture garments... </instructions>
-```
-
-## Image 2.0 is now online on ChatGPT and it's incredible! Just a few days ago even 3x3 grids would oft
-
-- author: Alex__007
-- source: https://www.reddit.com/r/ChatGPT/comments/1sraucf/image_20_is_now_online_on_chatgpt_and_its/
-- preview: https://i.redd.it/pt18dyoxfgwg1.png
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-A group of famous Hollywood stars taking a fun selfie together at the Oscars, red carpet event, elegant dresses and tuxedos, bright camera flashes, glamorous night atmosphere, photorealistic, cinematic lighting, highly detailed
 ```
 
 ## Image2 来了提示词还重要吗？
@@ -634,19 +493,6 @@ Sam Altman on a skateboard at a skatepark with no people.
 Lately, ChatGPT Image 2 has been super popular—don't hit me —everyone go give it a try! Prompt: Generate a screenshot of a TikTok live stream featuring a man dressed in traditional Chinese clothing live-selling goods
 ```
 
-## Minimalist Recipe Breakdown: Creamy Garlic Mushroom Pasta
-
-- author: @egeberkina
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGdbaEeWgAAVPW6.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
-```
-
 ## Moonlit Song Dynasty River Through Wooden Window
 
 - author: @dotey
@@ -677,19 +523,6 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 Show me the attached image as a snapshot from an actual anime
 ```
 
-## Night Elegance: A Stylish Encounter in Paris
-
-- author: @Sheldon056
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGj2x9ybMAAXxdS.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Dramatic, low-angle ground perspective full-body shot captured with a 50mm lens at f/1.4, featuring the specific uploaded face reference (neat beard, slicked-back hair, wearing stylish aviator glasses, tailored high-fashion modern clothing) standing on the platform of Trocadéro at night. He is dressed in a structured black velvet blazer over a black cashmere roll-neck sweater, tailored black trousers, and polished black boots, looking up intently at the fully illuminated Eiffel Tower, which dominates the background. Directly behind him is a deep sapphire blue Bugatti Chiron, reflecting the surrounding city lights. His foot is planted on the rear tire, with his body leaning casually back. The composition uses a shallow depth of field, rendering the distant Parisian street lights and crowd into a creamy bokeh. Spotlighting from city lamps creates dramatic, high-contrast shadows. 8k resolution, photorealistic, cinematic high-fashion editorial aesthetic.
-```
-
 ## OpenAI Image V2 - Maskingtape Alpha
 
 - author: Chetaslua @chetaslua
@@ -716,62 +549,6 @@ A validly scrambled Rubik's cube placed by a mirror, clearly showing its mirror 
 William and Piggy shaped ice cream, pink square ice cream with pixel eyes and pig noses, strawberry flavor, served on a cone, cute food design. 
 Egg Cone: A standard waffle cone, golden and crispy in color, with a “Minecraft” co-branded paper sleeve. The background is an outdoor theme park scene with a blue sky, white clouds, and brightly colored rides and buildings blurring into the background. 
 The hand of the person holding the ice cream is clear, enhancing the realism of the “hands-on experience”. The overall style is bright, fun and playful, making it an eye-catching IP co-branded summer ice cream.
-```
-
-## Portrait By GPT-Image-2
-
-- author: BubbleBrain @BubbleBrain
-- source: https://x.com/BubbleBrain/status/2045092449803284923
-- preview: https://pbs.twimg.com/media/HGGYeo1bYAAXzcy.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot,
-```
-
-## Portrait by GPT-Image-2
-
-- author: BubbleBrain @BubbleBrain
-- source: https://x.com/BubbleBrain/status/2045167461147042202
-- preview: https://pbs.twimg.com/media/HGHk3edbsAAJhNJ.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s
-```
-
-## Regal Hair Drying: A Tang Dynasty Twist
-
-- author: @dotey
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGdrOeEWIAAMrlS.jpg
-- lang: zh
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. 
-
-Three 小黄人 dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. 
-
-Traditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9
-```
-
-## Snack Time Saga: A Comic Adventure
-
-- author: @0xbisc
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGf3EceaAAAIzXZ.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-[your simple story idea], american comic multi-panel illustration, diagonal layout, six panels, cinematic storytelling, clear reading flow, with speech bubbles.
 ```
 
 ## The Art of Cosplay: Mai Shiranui in Action
@@ -849,46 +626,6 @@ Create a cinematic timeline showing the evolution of Ferrari from its origins to
 食物名称：大蒜
 ```
 
-## Today's Portrait by GPT-Image-2
-
-- author: BubbleBrain @BubbleBrain
-- source: https://x.com/BubbleBrain/status/2045052982728016131
-- preview: https://pbs.twimg.com/media/HGF8vR4bwAADpRi.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent
-```
-
-## Tropical Sparkling Water in Sunlit Sand
-
-- author: @meng_dagg695
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGk2QBPasAAgyQj.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-A professional product photography shot of a cold sparkling water 
-can placed upright in golden beach sand. The can is silver and teal, 
-covered in realistic water droplets condensation, with a pineapple 
-illustration and tropical branding. The can is slightly tilted, 
-planted in a small mound of fine golden sand with tiny white pebbles 
-and small green tropical leaves/grass scattered around the base. 
-Background features a bold split composition - bright sky-blue on 
-the left and vivid yellow on the right, with a large blurred real 
-pineapple placed behind the can on the right side. A blurred tropical 
-palm leaf drapes in from the upper left corner, adding depth and 
-framing. Macro-level water condensation droplets visible on the 
-can surface. Lighting is bright, vibrant, commercial studio lighting 
-with clean shadows. Shallow depth of field - can in sharp focus, 
-background softly blurred. Mood: summer, tropical, fresh, refreshing. 
-Commercial product photography, ultra-detailed, 8K.
-```
-
 ## Urban Reflections: A Candid Moment
 
 - author: @underwoodxie96
@@ -900,19 +637,6 @@ Commercial product photography, ultra-detailed, 8K.
 
 ```
 A beautiful woman looking at her phone on the subway; a candid photo.
-```
-
-## Using this prompt, you can generate high-quality images. Prompt Example: "Portrait by GPT
-
-- author: プロンプトキュレーションMagazine @payto_mypain
-- source: https://x.com/payto_mypain/status/2047465907333799989
-- preview: https://pbs.twimg.com/media/HGoPZKPagAAFbMP?format=jpg&name=medium
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Using this prompt, you can generate high-quality images. Prompt Example: "Portrait by GPT Image 2 ---prompt--- 9:16 vertical — Japanese Fuji film style" 184 likes via @BubbleBrain
 ```
 
 ## WOW!!! New GPT-Image insane!!
@@ -957,19 +681,6 @@ PAC 94 SHO 91 PAS 93 DRI 96 DEF 44 PHY 74
 
 ```
 Screenshot of the Yahoo homepage.
-```
-
-## Young Guitarist Under Spotlight in High-Contrast Studio
-
-- author: @harboriis
-- source: https://promptgather.io/prompts/gpt-image-2
-- preview: https://pbs.twimg.com/media/HGg1l6QaIAAjNGA.jpg
-- lang: en
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Preserve the face, proportions, and external features of the model as in the reference. 8-year-old boy in a dark, moody studio rehearsal hall. Dramatic rim lighting and a single overhead spotlight creating a silhouette effect. He holds a silver electric guitar with visible metallic string textures. Motion blur from a strobe light effect, high-contrast, commercial magazine shoot, fashion editorial realism, intense focused expression.
 ```
 
 ## a16z 播客 YouTube 截图
@@ -1063,231 +774,6 @@ YouTube 上 a16z 播客的屏幕截图
 冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
 2:Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
 3:以中国连环画（小人书）的风格帮我绘制大闹天空
-```
-
-## image2这几个提示词太酷了 必须分享一下 #6
-
-- author: unknown
-- source: https://www.xiaohongshu.com/search_result/69e83daf00000000230121ee?xsec_token=ABt_nTGcC_PMN4kGUCl7Gsa9YXyyd6GfuCYZEV9OXqjw8=&xsec_source=#ocr-img-06
-- preview: https://sns-webpic-qc.xhscdn.com/202604241006/cc4fac5bdb7db032c01aad6661be8975/notes_pre_post/1040g3k031v8kf00fk00044dj3qsfrsi78evfq1o!nd_dft_wlteh_webp_3
-- lang: zh
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Design
-Tao
-品牌视觉手册
-BRAND VISUAL GUIDEUNES
-没计连級坎值.
-每單疑約东来。
-Design connects vakue.
-croethiry drives tho future.
-MRSON 1O
-04 艺术龍特
-ART DIRICTON
-MRY 2024
-阿翼乐果國架，胜会我取人叉。
-魂动与炖籍
-又濃腰心烘儡。
-黑化張思，問通客阴很可感然。
-07 周边产品概念
-MIAO UANDSE CONCEPTS
-Design
-Connects
-Value.
-10 品牌宣言
-BRAND MANFESTO
-设计连接价值，
-创意驱动未来。
-Design connects value.
-creativity drives the future.
-我们粗位设计的力聚。它性邏堡者、
-邊接人琴人。并刨進可玲惯的承東。
-01 标惠设计
-LOGO DESIGN
-• Design Tao
-畅＆翌郫
-• DesignTao
-• Design Tao
-Derign Too 效力于以设计邊損人马東桌，
-因篇创取5孩术的平黏，创進有溫度的
-体验与的領。
-05 用站视党方向
-WEBSHTE ORCTOR
-Design
-Connects Value
-Creativity Drives
-the Future.
-设计遙强的值，
-创應留与承来。
-Strategy
-Experience
-润我验期，念松料會。
-清就際P，破计舜验。
-08 晶牌皮用系說
-TeeBag
-02 字体系统
-TYPOGRAPHY
-Aa
-沒计连隤的鴿，就聰驱跆表来。
-Detign connects wahe.
-creafhity dries the fuhure.
-0123456769
-1②¢$%6^&‘0-+
-03 色彰体系
-COLCR SYSTDU
-中性也
-主期芋
-Satoshi
-Ligh：
-Reguar
-Modium
-Bold
-Inter
-Regular
-Medium
-Brand
-聖總品理，情邊的盟，
-06 社文 体横板
-SOCUAL MUDUA TEMPLATES
-DESIGN
-CONNECTS
-VALUE
-• Doienieo
-BE
-BEHIND
-THE SCENE
-NEW
-PROJECT
-09 图标系
-ICON SYSTEu
-策路
-设计
-码穴
-原型
-Do
-周户
-鷄理
-HDOF2
-We create
-meaningful
-experiences.
-3 Deign Too
-Simplicity is
-the ultimate
-sophistication.
-ooign Too
-Jin us.
-Were hiring
-desimners.
-开发
-内容
-忍牌
-臥
-①
-支持
-THANK YOU.
-Desig！
-deagrtsa. com
-helagdetgrtsa.com
-0 2024 Dreg 180 AI Rgrhi Heserend
-```
-
-## image2这几个提示词太酷了 必须分享一下 #8
-
-- author: unknown
-- source: https://www.xiaohongshu.com/search_result/69e83daf00000000230121ee?xsec_token=ABt_nTGcC_PMN4kGUCl7Gsa9YXyyd6GfuCYZEV9OXqjw8=&xsec_source=#ocr-img-08
-- preview: https://sns-webpic-qc.xhscdn.com/202604241006/7c31195ea1c9ab315d763bf8099b1aa7/notes_pre_post/1040g3k031v8kf00fk01044dj3qsfrsi7hu2lgto!nd_dft_wlteh_webp_3
-- lang: ja
-- quality: A
-- upstream: peterRooo/awesome-gpt-image-2-prompts
-
-```
-Design ToO
-品牌视觉手册
-BRAND VISUAL BOOK
-03
-字停系统
-TYPOGRAPHY
-Aa
-源團体 CN
-创愈连接世界
-设计温暖生活
-孤文字你
-Manrope
-weires Uore / fegder / Medur / Semm.loes / 00d
-Creative Connects
-The World
-0123456789 ！④#$%&‘0_11=
-06
-陶站视党方向
-WEBSITE DIRECTION
-Cesign Too
-Creative Connects
-The World
-创想渥擾嘿界，波计澀騷生活
-◎
-LRRR
-08
-周边产品微念
-MEACHANDISE CONCEPTS
-10
-Design Too
-Design Tao 效力手通过设计的力雞。
-连眼品牌与人心，多波溫暖而有的領的佛验。
-让投们一起，用没计邊擾世罪。点秃生活。
-！！
-we
-01
-标恵设计
-LOGO DESIGN
-Oeiign Tao 的斯念公濃題，发郎、跑选的
-微咒，馮續与天黷那配的型怎。
-Design To？
-Design
-To
-心
-04
-色彩停系
-COLOR SYSTEM
-畫色配
-•EABAS
-07
-社奕螺纬覘板
-SOCIAL MEDIA TEMPLATES
-Design Wo
-创意品被世界
-议计溫瞅生活
-心
-心
-02
-标惠盅用烷范
-LOGO APPLICATION
-Design To？
-Design ToO
-05
-艺术指号
-Design ToO
-Design Too
-• Design ToO r
-心
-營福
-溫暖
-New Project
-Launch
-心
-友野
-蒟洁
-Design
-Tips
-设诗小鮎士
-遠接
-創逾
-Join Us
-泡入發の
-Desin Too
-100
 ```
 
 ## just one sentence: Help me generate an Apple liquid glass style PPT

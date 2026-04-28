@@ -1,4 +1,4 @@
-# Comic (11)
+# Comic (17)
 
 ## 办公室漫画冲突（已打码）
 
@@ -145,5 +145,106 @@
 
 ```
 一张细节极其丰富的黑白漫画页，展示了一只巨大的机械猫走在拥挤的日本夜间城市街道上。整页共 4 个分镜：顶部是一个横跨全宽的大分镜，左下角是 2 个较小的堆叠分镜，右下角是一个纵向的大分镜。在顶部大分镜中，一只巨大的机械猫占据了狭窄的霓虹灯巷道，周围是高耸的建筑、错综复杂的电线、垂直的店铺招牌，以及抬头惊愕注视的小行人。猫咪拥有写实的猫科动物比例，但身体由外露的装甲板、铆钉、活塞、线缆、齿轮、分段式金属肢体和复杂的内部机械结构组成，脖子上挂着一个写有“猫神”字样的吊牌。潮湿的街道反射着城市灯光。环境中添加多个日文招牌，包括“古書 2F”、“万事屋 B1”和“酒処”。在顶部大分镜的右上角添加一个巨大的日文漫画对话气泡，写着“うわっ？でっけえ!!”。在左上方的分镜中，展示一名长发女性的背影及侧面特写，她正看向这只生物，旁边有一个垂直的日文对话气泡，写着“…何でこんな街にこんなものが…”。在左下方的分镜中，从正面展示一群受惊的围观群众，前景是一名年轻男子，身后是其他震惊的行人，配有一个垂直的日文对话气泡，写着“神様の使いか!?”。在右下方的纵向大分镜中，展示机械猫在明月下耸立于建筑之间的戏剧性低角度特写，强调其胸部的机械结构、巨大的前肢、胡须和威严的面孔，脖子上的“猫神”吊牌清晰可见。在猫咪附近添加一个巨大的日文风格拟声词“カシ…”。采用经典的青年漫画美学，电影般的分镜构图，细腻的墨水排线，强烈的对比度，细致的城市纹理，写实的比例感，营造出一种敬畏、神秘和神圣的赛博朋克氛围。
+```
+
+## Snack Time Saga: A Comic Adventure
+
+- author: @0xbisc
+- source: https://promptgather.io/prompts/gpt-image-2
+- preview: https://pbs.twimg.com/media/HGf3EceaAAAIzXZ.jpg
+- lang: en
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+[your simple story idea], american comic multi-panel illustration, diagonal layout, six panels, cinematic storytelling, clear reading flow, with speech bubbles.
+```
+
+## {"type":"black-and-white cinematic manga page","style":{"med...
+
+- author: DGL.ru
+- source: https://x.com/DGLru/status/2047218442030166086#reversed-2
+- preview: assets/gpt-image-2-x-discussions/rainy-noir-manga-alley-page-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{"type":"black-and-white cinematic manga page","style":{"medium":"high-contrast inked graphic novel illustration","mood":"noir, tense, rainy, suspenseful","palette":"grayscale with deep blacks, silver highlights, wet reflections","rendering":"ultra-detailed rain, glossy pavement, realistic urban textures, dramatic rim lighting, soft film grain"},"setting":{"location":"narrow Japanese back alley at night","weather":"heavy rain","details":["wet asphalt reflecting streetlights","dense vertical buildings on both sides","telephone poles and pipes","graffiti-covered walls","parked scooter at right edge","distant city lights","Japanese street signs and lightbox shop signs"],"visible_signs_count":5,"visible_signs":["サンテル","サンライズ","花園通り 3丁目","夜霧 B1","small vertical wall text on the right-side pillar"]},"layout":{"page_format":"portrait comic page","panel_count":7,"reading_flow":"top wide establishing panel, two narrow middle rows, three panels in the bottom row","sections":[{"title":"top establishing panel","position":"top","count":1,"labels":["man seen from behind in foreground, woman waiting under a streetlight in the distance"]},{"title":"second row","position":"upper middle","count":2,"labels":["close-up of the man's wet face in profile with a speech bubble","full-body side view of the woman under rain"]},{"title":"third row","position":"middle","count":2,"labels":["tight crop of the man's ear and cheek","two centered speech bubbles between the characters with a close crop of the woman's face on the right"]},{"title":"bottom row","position":"bottom","count":3,"labels":["close-up of the woman's rain-soaked hair and shoulder with speech bubble","intense close-up of the man's eye and mouth with speech bubble","long shot of a lone figure in the alley with sound effect text"]}]},"characters":{"count":2,"subjects":[{"role":"male lead","appearance":"young adult man with messy dark hair, slim build, stubble-free face, wearing a dark trench coat over layered clothes","pose":"mostly shown from behind or in cropped close-up, shoulders hunched against the rain","expression":"serious, guarded, determined"},{"role":"female lead","appearance":"young adult woman with long dark wet hair, slim build, wearing a knee-length coat and dark heels","pose":"standing still beneath a cone of light, shown in side view and close-up fragments","expression":"calm, distant, urgent"}]},"text":{"speech_bubbles_count":5,"speech_bubbles":["WHO WAITS IN A PLACE LIKE THIS?","YOU CAME ALONE?","I HAD NO CHOICE.","WE DON'T HAVE MUCH TIME.","THEN GET TO THE POINT."],"sound_effects_count":1,"sound_effects":["DRIP"]},"composition":{"camera":"mix of wide establishing shot, profile close-ups, extreme close crops, and a final distant alley shot","lighting":"single overhead streetlamp on the woman, scattered neon and sign glow, strong reflections on the ground","tone":"cat-and-mouse meeting, secret exchange, urban loneliness"},"prompt":"Create a 7-panel black-and-white manga page in a gritty neo-noir style, set in a rain-soaked Japanese alley at night. Use dramatic cinematic framing, glossy reflections, heavy rainfall, dense urban detail, realistic wet textures, and high-contrast lighting. In the top wide panel, show a young man in a trench coat from behind approaching a lone woman standing under a streetlight in the distance. Include Japanese signs reading サンテル, サンライズ, 花園通り 3丁目, and 夜霧 B1, plus a parked scooter and graffiti. In the middle panels, alternate close-ups of the man's wet profile and the woman's side silhouette, then fragmented facial crops with dialogue bubbles. In the bottom row, show the woman's close-up saying 'WE DON'T HAVE MUCH TIME.', the man's close-up replying 'THEN GET TO THE POINT.', and a final long shot of a solitary figure in the alley with the large sound effect 'DRIP'. Keep the page entirely grayscale, moody, realistic, and suspenseful, like a mature seinen thriller manga."}
+```
+
+## Create an "Out the Window" meme-style four-panel comic title...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2046752332596093437
+- preview: assets/gpt-image-2-x-discussions/ai-development-efficiency-comic-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create an "Out the Window" meme-style four-panel comic titled "How to Improve Development Efficiency with AI? 如何借助 AI 提升开发效率？", featuring dialogues in speech bubbles. 
+
+--ar 9:16
+
+Characters:
+
+- Boss: Asian male wearing a suit, with neatly parted hair.
+- Employee Xiaoming: Male, wearing a blue checkered shirt.
+- Employee Xiaohong: Female.
+- Employee Xiaohu: Female, Asian, straight bangs hairstyle, wearing red-framed glasses.
+
+Panel Descriptions:
+
+- Top panel (single wide panel):
+  The boss asks during a meeting: "How can we use AI to improve development efficiency? 我们要如何借助 AI 提升开发效率？"
+
+  Three employees sit listening.
+
+- Second panel (single wide panel):
+  Each employee responds individually:
+
+  - Xiaoming: "We use AI to write unit tests. 我们用 AI 写单元测试"
+  - Xiaohong: "We use AI for code reviews. 我们用 AI 做代码审查"
+  - Xiaohu: “Vibe Coding。”
+
+- Third row (two panels):
+  - Left panel: The boss looks furious.
+  - Right panel: Employee Xiaohu is humorously kicked out of a high-rise window.
+```
+
+## A page of a comic book in the style of modern indie comic to...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2046787206585430189
+- preview: assets/gpt-image-2-x-discussions/modern-indie-comic-page-for-kids-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A page of a comic book in the style of modern indie comic topic: 
+a story for 6 years kids
+```
+
+## a comic about {argument name="subject" default="Pascal-B"}...
+
+- author: caio temer
+- source: https://x.com/canalCCore2/status/2046984686094725399
+- preview: assets/gpt-image-2-x-discussions/pascal-b-comic-strip-history-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+a comic about {argument name="subject" default="Pascal-B"}
+```
+
+## Using these images as reference can you make a MANGA of me, ...
+
+- author: ToNYD2WiLD
+- source: https://x.com/ToNYD2WiLD/status/2046684364852035816
+- preview: assets/gpt-image-2-x-discussions/family-disney-trip-manga-page-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Using these images as reference can you make a MANGA of me, my wife, and our son's trip to Disney
 ```
 

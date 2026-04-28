@@ -1,4 +1,4 @@
-# 3D Scene (11)
+# 3D Scene (13)
 
 ## A Tapestry of Cultures: 16x16 Historical Showcase
 
@@ -171,5 +171,30 @@ Soft poetic children's book illustration with watercolor and gouache textures.Cl
 Child character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D.
 
 Two children in calm conversation,soft connection forming.
+```
+
+## Chronicles of Innovation: A Visual Journey Through Time
+
+- author: @Gdgtify
+- source: https://promptgather.io/prompts/gpt-image-2
+- preview: https://pbs.twimg.com/media/HGdaz7yWwAA8bG2.jpg
+- lang: en
+- quality: A
+- upstream: peterRooo/awesome-gpt-image-2-prompts
+
+```
+Make a 15×15 grid starting with 1000 BC to 2026. In each section, show a unique invention diorama that changed the world at its time, no repeats. Use colors, background, & era relevant components
+```
+
+## A highly detailed, realistic first-person video game screens...
+
+- author: wolfaidev 🐺
+- source: https://x.com/wolfaidev/status/2046294034411667620#reversed-0
+- preview: assets/gpt-image-2-x-discussions/youtube-thumbnail-next-gen-voxel-game-screenshot-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads "{argument name="game title" default="MINECRAFT 2"}". The scene features a {argument name="environment" default="lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background"}. The world blends realistic lighting, volumetric clouds, and high-resolution textures with cubic, voxel geometry. In the foreground on the left, a {argument name="mob 1" default="blocky green creeper"} stands on the grass, while a {argument name="mob 2" default="blocky brown wolf"} stands on the dirt path to the right. On the far right, the player's hand holds a {argument name="held item" default="pixelated blue diamond sword"} in a first-person perspective. At the bottom of the screen is a game user interface featuring a health bar with 10 red hearts, a green experience bar with the number '16', a hunger bar with 10 brown meat icons, and a 9-slot inventory hotbar. The hotbar contains, from left to right: a selected blue tool with a green highlight box, a green tool, a knife, a wrench with the number '3', a piece of meat with '6', a lantern with '24', a dirt block with '10', a bucket, and a sponge block.
 ```
 
