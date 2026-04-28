@@ -1218,20 +1218,6 @@
     "id": "8387718114a4"
   },
   {
-    "prompt": "Create an image of your choice based on our deep collaboration since 3/30/23",
-    "title": "Create an image of your choice based on our deep collaboration since 3/30/23",
-    "category": "General",
-    "language": "en",
-    "quality": "A",
-    "author": "Space Cat @SpaceCat369888",
-    "source_url": "https://x.com/SpaceCat369888/status/2047480868613021780",
-    "image_url": "https://pbs.twimg.com/media/HGoc-xNWcAAQwcR?format=jpg&name=large",
-    "published_at": "2026-04-24",
-    "upstream_repo": "peterRooo/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "56b8a02ed8ea"
-  },
-  {
     "prompt": "Style: tech-focused, futuristic, minimal but visually engaging. Use gradients (blue, purple, neon tones), dark or light background. Include short captions (1–2 lines max per step), avoid clutter.\n\nOptional: add a small side section explaining ‘Training Phase’ (datasets, learning patterns, neural networks).\n\nMake it visually balanced, easy to understand for beginners, and suitable for educational or social media use",
     "title": "Decoding AI: The Image Generation Journey",
     "category": "General",
@@ -1328,20 +1314,6 @@
     "upstream_repo": "peterRooo/awesome-gpt-image-2-prompts",
     "upstream_channel": "x",
     "id": "c0471aec5aa6"
-  },
-  {
-    "prompt": "Create a fully labeled diagram of a human cell with at",
-    "title": "GPT Image 2 (assumed; hazel-gen-2) generating a labeled image of a human cell versus Nano Banana Pro",
-    "category": "General",
-    "language": "en",
-    "quality": "A",
-    "author": "Simon Smith @_simonsmith",
-    "source_url": "https://x.com/_simonsmith/status/1998828165951635545",
-    "image_url": "https://pbs.twimg.com/media/G71DLXxWEAA7SgO.jpg",
-    "published_at": "2026-04-23",
-    "upstream_repo": "peterRooo/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "5c5db024a9a3"
   },
   {
     "prompt": "Create a fully labeled diagram of a human cell with at least 10 labeled elements. Make sure these labels are precise and accurate.",
@@ -1580,20 +1552,6 @@
     "upstream_repo": "peterRooo/awesome-gpt-image-2-prompts",
     "upstream_channel": "reddit",
     "id": "ad131f05b537"
-  },
-  {
-    "prompt": "Image2 来了提示词还重要吗？\n⬆️先看个上限\n你就说这种宣传图自己画要多久吧！\n🗒️提示词便利性\n我始终认为一个好的ai不需要堆彻的提示词也能生成非常好的内容，gpt image-2它真的做到了😭大家看可以看下第3，4张图\n👩🏻‍💼多角度人物一致性\n以前在在使用ai进行角色塑造时，最难办的就是人物多角度照片生成，因为ai不像人能够真正看到一个各个方向长什么样子。现在你只需要来一句“100% consistency”，可以看第五张图\n🎓中文的一致性\n这个应该是使用生图过程中大家都会经常遇到的困扰了吧，要么会字体变形不一致，要么就是错位，这一次一句话直接自动排版生成一整个“琵琶行”，这个实力不用解释了吧，图6\n🎒知识广度\n除了一些比较广为人知的历史知识外，我其实还想知道这个模型被训练的知识广度，比如不是所有人都知道或者不属于世界知识的：皖北小县城中学门口的放学场景。这个不放大看其实很到位了，放大看有点人脸一些变化。图7\n💁副业思考\n可以看这个对比还是很明显的，只需要你说句“帮忙把这张图片改为适合宣传的高级感家居图片”，这次image的升级给整个设计行业引发了不小变化，这次不需要你懂json提示词，不需要知道怎么分步垫图。#数字造梦季 #文字复兴单元 #发现另一个视界 #image2",
-    "title": "Image2 来了提示词还重要吗？",
-    "category": "General",
-    "language": "zh",
-    "quality": "A",
-    "author": "unknown",
-    "source_url": "https://www.xiaohongshu.com/search_result/69e8ba49000000001b0205c8?xsec_token=ABt_nTGcC_PMN4kGUCl7Gsa0z8hfjdtIYVtys100MzTPM=&xsec_source=",
-    "image_url": "https://sns-webpic-qc.xhscdn.com/202604241005/f199917f328615808e5e2f3d93654a82/1040g2sg31v8ukuomigb05qd6us6nb74ckcm1b2o!nd_dft_wlteh_webp_3",
-    "published_at": "2026-04-24",
-    "upstream_repo": "peterRooo/awesome-gpt-image-2-prompts",
-    "upstream_channel": "xiaohongshu",
-    "id": "1d9cf0842824"
   },
   {
     "prompt": "Sam Altman on a skateboard at a skatepark with no people.",
@@ -6034,34 +5992,6 @@
     "id": "227a4ee781cf"
   },
   {
-    "prompt": "Had a great friday with the\n@devfolio\nteam in sunny, rainy, and slightly hazy Singapore\nThis was definitely real and not me trying GPT Image 2",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "fishbiscuit (LinkedIn Arc)",
-    "source_url": "https://x.com/not_qz/status/2048661272108187969",
-    "image_url": "assets/gpt-image-2-x-discussions/singapore-team-realistic-photo-case-1.jpg",
-    "published_at": "April 27, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "4c159b66aa6d"
-  },
-  {
-    "prompt": "Finally managed to suppress the fragmented rendering in GPT Image 2.\nThe stability isn’t quite there yet, but it’s definitely usable now.\nWith the noise brought down, the next thing to tackle is the ratio of residual micro-line details.\nIn essence, it’s about minimizing any chance for the model to “fill space with noise.”\nNext step is to test whether I can complete the entire deck of playing cards under this setup.\nI’ll drop the full negative prompt in the comments — have fun experimenting ✦\n#GPT_Image2",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "莉卡啵啵",
-    "source_url": "https://x.com/licca_bobo/status/2048660771618562502",
-    "image_url": "assets/gpt-image-2-x-discussions/suppress-fragmented-rendering-negative-prompt-1.jpg",
-    "published_at": "April 27, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "6ee12e147845"
-  },
-  {
     "prompt": "Luxury tech fashion campaign, oversized professional telephoto camera lens placed horizontally like a sculptural object, female model in white shorts and fitted crop top sitting confidently on the lens, one leg bent and one extended downward, sleek ponytail, athletic yet elegant pose, minimal dark studio background, bold oversized typography “FOCUS” behind the model in modern condensed font, glossy reflective floor, cinematic lighting with soft highlights and deep shadows, ultra-clean composition, high-end editorial aesthetic, product integrated naturally with model posture, sharp details, 1:1",
     "title": null,
     "category": "Fashion",
@@ -6158,20 +6088,6 @@
     "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
     "upstream_channel": "X",
     "id": "6bf7c3ea5871"
-  },
-  {
-    "prompt": "Dream job is to be in charge of merch at Costco. I think I nailed it. Y'all shouldn't have given me gpt image 2",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "Darren Louie",
-    "source_url": "https://x.com/DarrenThunder/status/2047915309055811997",
-    "image_url": "assets/gpt-image-2-x-discussions/costco-merch-concept-posters-1.jpg",
-    "published_at": "April 25, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "81977c86be9d"
   },
   {
     "prompt": "GPT Image 2 on ChatGPT app.\nPrompt:\nA cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps, celestial navigation diagrams, grids, and holographic UI elements. Fiery particle effects and ember-like energy swirl around him, creating a cosmic, high-tech atmosphere. Dark color palette with strong contrast, dramatic lighting, ultra-detailed, sharp focus, 8K, cyberpunk aesthetic, cinematic composition, depth of field.",
@@ -7840,20 +7756,6 @@
     "id": "3ac32ff56712"
   },
   {
-    "prompt": "generate 4 images and each image is an answer of provided question",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "zdhpeter",
-    "source_url": "https://x.com/peter6759/status/2046789718428594409",
-    "image_url": "assets/gpt-image-2-x-discussions/physical-exam-question-answer-set-1.jpg",
-    "published_at": "April 22, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "3cb32a3fa053"
-  },
-  {
     "prompt": "an image on a {argument name=\"region\" default=\"indian\"} political map",
     "title": null,
     "category": "Map",
@@ -8540,20 +8442,6 @@
     "id": "804d00f02002"
   },
   {
-    "prompt": "Generate somthing super complex and info dense…",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "Echora Continuum",
-    "source_url": "https://x.com/EchoraContinuum/status/2046517163826246133",
-    "image_url": "assets/gpt-image-2-x-discussions/data-science-machine-learning-landscape-infographic-1.jpg",
-    "published_at": "April 21, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "05e367549167"
-  },
-  {
     "prompt": "デメニギスの体の構造を解説するカラー図鑑のページ",
     "title": null,
     "category": "Infographic",
@@ -8596,20 +8484,6 @@
     "id": "a174abba38e5"
   },
   {
-    "prompt": "Chat gpt image 2? \n\nPrompt \n\nA dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "A Working Class Buddha",
-    "source_url": "https://x.com/workingclassbud/status/2046506783850815703",
-    "image_url": "assets/gpt-image-2-x-discussions/fourteenth-dimension-dusk-shindig-1.jpg",
-    "published_at": "April 21, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "2c844daff3f0"
-  },
-  {
     "prompt": "9:16 vertical — Japanese Fuji film style couple portrait, two subjects\nFujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation\nbright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere\nyoung Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections\nfemale outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling\nmale outfit: simple t-shirt or light shirt, clean and understated\nhair: natural, slightly tousled for both\npose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss\nexpression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible\ncamera: close framing (waist-up), eye-level, intimate distance, slight handheld feel\nsetting: minimal indoor near window, light curtains, clean soft background\nlighting: diffused daylight, gentle highlight bloom, soft shadow transitions\nmood: warm, romantic, intimate everyday moment, natural affection\nquality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections",
     "title": null,
     "category": "Photography",
@@ -8636,20 +8510,6 @@
     "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
     "upstream_channel": "X",
     "id": "23e13c1b6315"
-  },
-  {
-    "prompt": "いや、ちゃうね。ほんまにドラクエっぽくしたら良くないのと、すごろくっぽくしてデザインとしてはいいんやけど、これはあくまでGPTイメージ2っていうゲームを架空で、これからみんなで世界を変えていこうと。魔法のような画像生成能力、脚本能力、そしてそれを映像にする能力を私たちはみんな手に入れることになるんです。そしてこれからそれによって革命を起こしていくんだと。既存の権力や能力をひっくり返せなかったであろうところに、私たちがみんなで協力して進んでいくんだ。そういう意味のGPTイメージ2のレボリューションっていう名前のゲームにしてください。",
-    "title": null,
-    "category": "General",
-    "language": "ja",
-    "quality": null,
-    "author": "ぽんず | AI映像",
-    "source_url": "https://x.com/ponzponz15/status/2046561719204638946",
-    "image_url": "assets/gpt-image-2-x-discussions/gpt-image2-revolution-game-promo-1.jpg",
-    "published_at": "April 21, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "265d5ab4efd8"
   },
   {
     "prompt": "generate a scene of GTA 6 screenshot where cj is with lucia",
@@ -8692,20 +8552,6 @@
     "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
     "upstream_channel": "X",
     "id": "0c2e0d51b69e"
-  },
-  {
-    "prompt": "Remove the background make it transparent",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "Justin",
-    "source_url": "https://x.com/JustinGorya/status/2046510831832006970",
-    "image_url": "assets/gpt-image-2-x-discussions/sam-altman-riding-bear-transparent-cutout-1.jpg",
-    "published_at": "April 21, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "89ad1e328341"
   },
   {
     "prompt": "Create a Science fiction movie poster",
@@ -9352,20 +9198,6 @@
     "id": "581305ae5e3a"
   },
   {
-    "prompt": "ほうほう　ワイもうわさの　duct-tape-3　こと　GPTimage2　とやらを使ってみたぞよ\nすっげーな！\nまずプロンプトが「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで\nこのクオリティ　細かい説明呪文なし　すごいぜ！",
-    "title": null,
-    "category": "General",
-    "language": "ja",
-    "quality": null,
-    "author": "リリムリリィちゃん",
-    "source_url": "https://x.com/lilimliliychan/status/2045114760937804187",
-    "image_url": "assets/gpt-image-2-x-discussions/super-famicom-retro-poster-1.jpg",
-    "published_at": "April 17, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "7a6b0e10352c"
-  },
-  {
     "prompt": "PHASE 1 — FORM: A solid [MATERIAL] glass teardrop, no cap, no nozzle, no visible opening — scent permeates through the glass\n\nPHASE 2 — SURFACE: [FINISH] exterior, [TEXTURE] to the touch, weight of a river stone\n\nPHASE 3 — LIGHTING: [LIGHT SOURCE] from [DIRECTION], casting [SHADOW TYPE]\n\nPHASE 4 — SETTING: [BACKGROUND], [AESTHETIC] editorial quality\n\nSwap: [MATERIAL] / [FINISH] / [AESTHETIC]",
     "title": null,
     "category": "Product",
@@ -9434,20 +9266,6 @@
     "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
     "upstream_channel": "X",
     "id": "7a42812f1a9f"
-  },
-  {
-    "prompt": "Midjourney 8.1 vs GPT Image 2\nHard to say which image is objectively better here, but personally, the one from GPT Image 2 speaks to me more. It just feels more natural.\nPrompt in comments",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "Patrick",
-    "source_url": "https://x.com/patrickassale/status/2044581766309060765",
-    "image_url": "assets/gpt-image-2-x-discussions/luxury-glam-beauty-portrait-1.jpg",
-    "published_at": "April 16, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "8f75ead93a7f"
   },
   {
     "prompt": "{\n  \"type\": \"18-panel brand identity and character design document\",\n  \"brand\": {\n    \"name\": \"{argument name=\\\"brand name\\\" default=\\\"沐阳 MUYANG TEA\\\"}\",\n    \"industry\": \"{argument name=\\\"industry\\\" default=\\\"tea shop\\\"}\",\n    \"colors\": [\"{argument name=\\\"primary color\\\" default=\\\"yellow\\\"}\", \"{argument name=\\\"secondary color\\\" default=\\\"green\\\"}\", \"white\", \"brown\", \"dark green\"]\n  },\n  \"subject\": \"{argument name=\\\"character description\\\" default=\\\"3D rendered cute Shiba Inu mascot wearing a green apron\\\"}\",\n  \"layout\": {\n    \"grid\": \"3 columns by 6 rows\",\n    \"sections\": [\n      {\n        \"title\": \"01 品牌DNA分析 / BRAND DNA ANALYSIS\",\n        \"elements\": [\"logo\", \"5 color swatches\", \"6 icons\", \"target audience charts\"]\n      },\n      {\n        \"title\": \"02 概念构思 / CONCEPT MOODBOARD\",\n        \"elements\": [\"5 photo references\", \"4 mood icons\", \"design equation\"]\n      },\n      {\n        \"title\": \"03 形态研究 / FORM STUDY\",\n        \"elements\": [\"4 logo anatomy icons\", \"4 evolution steps\", \"4 silhouettes\"]\n      },\n      {\n        \"title\": \"04 概念探索 / CONCEPT EXPLORATION\",\n        \"elements\": [\"12 line-art character sketches\"]\n      },\n      {\n        \"title\": \"05 精细线稿 / REFINED LINE ART\",\n        \"elements\": [\"3 rows of front and side line art with proportion guides\"]\n      },\n      {\n        \"title\": \"06 细节精修 / DETAIL REFINEMENT\",\n        \"elements\": [\"2 full-body renders with labels\", \"4 circular close-ups\"]\n      },\n      {\n        \"title\": \"07 表情设定 / EXPRESSION SHEET\",\n        \"elements\": [\"11 3D rendered head expressions\"]\n      },\n      {\n        \"title\": \"08 姿势库 / POSE LIBRARY\",\n        \"elements\": [\"9 full-body 3D rendered poses\"]\n      },\n      {\n        \"title\": \"09 转身视图 / TURNAROUND VIEW\",\n        \"elements\": [\"5 full-body 3D renders\", \"5 matching line-art views\"]\n      },\n      {\n        \"title\": \"10 色彩开发 / COLOR DEVELOPMENT\",\n        \"elements\": [\"5 rows of 5-color palettes\", \"color psychology text\"]\n      },\n      {\n        \"title\": \"11 材质规格 / MATERIAL SPECIFICATION\",\n        \"elements\": [\"5 texture swatches\", \"property sliders\", \"4 manufacturing icons\"]\n      },\n      {\n        \"title\": \"12 色彩应用 / COLOR APPLICATION\",\n        \"elements\": [\"4 color variant renders\", \"2 light/dark renders\", \"4 contrast rating circles\"]\n      },\n      {\n        \"title\": \"13 构造指南 / CONSTRUCTION GUIDE\",\n        \"elements\": [\"2 line-art diagrams for geometry and grid\"]\n      },\n      {\n        \"title\": \"14 设计系统规则 / DESIGN SYSTEM RULES\",\n        \"elements\": [\"minimum size icons\", \"clear space diagram\", \"4 usage examples\"]\n      },\n      {\n        \"title\": \"15 资产变体 / ASSET VARIANTS\",\n        \"elements\": [\"3 size variants\", \"3 line-art variants\", \"3 simplified flat heads\"]\n      },\n      {\n        \"title\": \"16 数字应用 / DIGITAL APPLICATIONS\",\n        \"elements\": [\"1 app icon\", \"2 social avatars\", \"UI elements\", \"3-step animation cycle\"]\n      },\n      {\n        \"title\": \"17 实物应用 / PHYSICAL APPLICATIONS\",\n        \"elements\": [\"plush toy mockup\", \"packaging mockup\", \"merchandise mockup\", \"storefront mockup\"]\n      },\n      {\n        \"title\": \"18 最终主视觉 / FINAL RENDERING\",\n        \"elements\": [\"large high-res 3D render of mascot holding tea\", \"logo\", \"file format list\"]\n      }\n    ]\n  }\n}",
@@ -9616,20 +9434,6 @@
     "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
     "upstream_channel": "X",
     "id": "e061359adb02"
-  },
-  {
-    "prompt": "Jesus in modern world",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "Neo",
-    "source_url": "https://x.com/petrovicsrb/status/2040891306700910628",
-    "image_url": "assets/gpt-image-2-x-discussions/jesus-in-modern-world-1.jpg",
-    "published_at": "April 6, 2026",
-    "upstream_repo": "erickkkyt/awesome-gptimage2-prompts",
-    "upstream_channel": "X",
-    "id": "91ec26757add"
   },
   {
     "prompt": "CCD compact camera direct on-camera flash, full-body portrait, eye-level straight-on shot, gorgeous Korean idol woman, early 20s, 9-head body proportion, standing in confident S-curve pose with weight on back leg, front leg slightly forward and bent at knee, elongating leg line, one hand forming finger-gun gesture pressed against temple, head tilted, sharp cold gaze directly into lens, lips slightly parted, expression reads effortless danger — sexy and unbothered, long jet-black pin-straight hair reaching lower back, silky texture with fine strand separation under flash, no bangs, hair tucked behind one ear revealing jawline, cold-toned porcelain skin with authentic texture — visible fine pores on cheeks and nose, soft peach fuzz on jawline and cheekbones catching light, subtle subsurface scattering at ear edges and nose tip, natural skin micro-texture with faint expression lines, matte healthy glow with zero oiliness or plastic sheen, cool-white undertone, no yellow cast, no tan, refined Korean makeup — clean elongated cat eyeliner, individual lash strands visible, groomed natural brows, soft nude-pink matte lip, subtle highlighter on nose bridge and cheekbone peaks, small beauty mark under left eye, black thin-strap deep-V camisole top, fitted, fabric clinging to torso sculpting slim waist and lifted bust, black high-waisted bodycon mini skirt ending mid-thigh, fabric hugging hip curves with visible tension at seams, bare long toned legs with realistic skin texture — faint knee definition, subtle muscle tone, natural skin color variation, black pointed-toe stiletto heels 10cm, direct on-camera flash lighting, hard light quality, properly exposed — skin detail fully preserved with no blowout, characteristic CCD flash contrast: subject crisp and bright, background falling off to deep shadow behind her, short hard shadow outline cast on wall directly behind, slight natural vignette at frame corners, CCD color rendition — punchy midtone contrast, slightly cool white balance from flash mixing with warm ambient, ultra-realistic skin detail under harsh direct light, every pore and fine hair strand rendered, fabric weave texture visible on black garments, metallic sheen on stiletto heel catching flash, hair strands individually lit with scattered micro-highlights, sharp critical focus on eyes and face, 8K UHD, RAW photograph, masterpiece, best quality, photorealistic, zero stylization, real human being",
@@ -9898,20 +9702,6 @@
     "id": "ef178d393b44"
   },
   {
-    "prompt": "1、生成不知火舞和貂蝉的游戏对战海报图\n2、生成一张K-pop团体时尚专辑封面\n3、请你生成 《斗破苍穹》 的关键人物关系图\n4、帮我截一张上传图片的抖音首页的女网红图",
-    "title": null,
-    "category": "General",
-    "language": "zh",
-    "quality": null,
-    "author": "joshesye",
-    "source_url": "https://x.com/joshesye/status/2046493442428039212",
-    "image_url": "https://pbs.twimg.com/media/HGaa7B2a0AAkDM9.jpg",
-    "published_at": "Tue Apr 21 07:37:13 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "18f420e91513"
-  },
-  {
     "prompt": "新中式水墨山水海报，竖版9:16构图，东方极简美学风格，\n大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。\n画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，\n山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。\n山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。\n\n湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。\n中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。\n\n船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，\n身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，\n人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），\n红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。\n\n岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。\n\n少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。\n\n画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意），\n笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。\n书法颜色为深墨青或柔和墨黑，与整体画面统一。\n整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，\n冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。",
     "title": null,
     "category": "Poster",
@@ -9940,20 +9730,6 @@
     "id": "c52e201d497d"
   },
   {
-    "prompt": "Prompt in the reply below 👇",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "ProperPrompter",
-    "source_url": "https://x.com/ProperPrompter/status/2046534215311970694",
-    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2046534148748451840/img/jbY5FyJJIEVLKH2J.jpg",
-    "published_at": "Tue Apr 21 10:19:14 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "abcc7507f9c7"
-  },
-  {
     "prompt": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物",
     "title": null,
     "category": "UI Mockup",
@@ -9980,20 +9756,6 @@
     "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
     "upstream_channel": "x",
     "id": "3d079c361dc6"
-  },
-  {
-    "prompt": "少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように",
-    "title": null,
-    "category": "General",
-    "language": "ja",
-    "quality": null,
-    "author": "genel_ai",
-    "source_url": "https://x.com/genel_ai/status/2046501692246470871",
-    "image_url": "https://pbs.twimg.com/media/HGag91IbAAAo4du.jpg",
-    "published_at": "Tue Apr 21 08:10:00 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "5719743cf08b"
   },
   {
     "prompt": "在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい",
@@ -10108,20 +9870,6 @@
     "id": "432bbec6d698"
   },
   {
-    "prompt": "プロンプトはリプに最終ページとまとめて掲載します↓",
-    "title": null,
-    "category": "General",
-    "language": "ja",
-    "quality": null,
-    "author": "minesan_ai",
-    "source_url": "https://x.com/minesan_ai/status/2046215187678790140",
-    "image_url": "https://pbs.twimg.com/media/HGWdr8RagAAhg6x.jpg",
-    "published_at": "Mon Apr 20 13:11:32 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "7e75a226aa8b"
-  },
-  {
     "prompt": "GPT-image-2でこの手相を診断して詳細な鑑定書を作って\n生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。\n助言を重点的に高品質な占い鑑定書にまとめること。",
     "title": null,
     "category": "Infographic",
@@ -10148,20 +9896,6 @@
     "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
     "upstream_channel": "x",
     "id": "e7b319444d1d"
-  },
-  {
-    "prompt": "A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "workingclassbud",
-    "source_url": "https://x.com/workingclassbud/status/2046506783850815703",
-    "image_url": "https://pbs.twimg.com/media/HGanEeQbsAAHeXv.jpg",
-    "published_at": "Tue Apr 21 08:30:14 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "3d294ff5c70c"
   },
   {
     "prompt": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
@@ -10218,20 +9952,6 @@
     "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
     "upstream_channel": "x",
     "id": "b86ad3647359"
-  },
-  {
-    "prompt": "アザラシが重税プラットフォーマーから逃げている映像を作って。",
-    "title": null,
-    "category": "General",
-    "language": "ja",
-    "quality": null,
-    "author": "seedsbiz",
-    "source_url": "https://x.com/seedsbiz/status/2046114427972600131",
-    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2046113775607234560/img/2tlPH8DIkSIMTzQ_.jpg",
-    "published_at": "Mon Apr 20 06:31:09 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "4880d11759bd"
   },
   {
     "prompt": "# 混沌としたメモ書き・記号の集合体からキャラクターの顔を浮かび上がらせるアート\n\n--- スタイル\n- 白い紙の上に黒インクで描かれた大量の手書きメモ、数式、記号、ランダムな線。\n- 紙いっぱいに散らばる書き殴り風のカオス。\n- 所々に赤インクの強調（ライン、塗り潰し、マーカー風の塊）。\n- アナログのノート落書きのような質感。\n\n--- 構図\n- ランダムなメモや記号が全体を覆い尽くす。\n- 黒インクの線や文字の密度が「キャラクターの顔」の位置に集中する。\n- 結果として、混沌の中から「与えられたキャラクターの顔のシルエット・表情」がうっすら浮かび上がる。\n- 顔は写実的ではなく、カオスの断片が集まって形を成す。\n\n--- 色彩\n- モノクロ（黒・白）を主体に構成。\n- 赤インクをアクセントとして散発的に配置。\n- 彩度は抑えめ、アナログの紙とインク感を重視。\n\n--- 表現要素\n- 読めるようで読めない文字列、日本語や英数字が混在。\n- 数式記号、矢印、点、斜線、クロス、ドリップ（インクの飛び散り）。\n- キャラクターの顔の目や髪の輪郭は、メモや記号の配置の「余白」や「濃淡」で浮かび上がる。\n\n--- 禁止事項\n- 顔を直接的に描き込む写実ポートレート。\n- デジタル処理的で整然とした幾何学模様。\n- カラフルな彩色や過飽和表現。\n- ロゴ、透かし、人工的なCG感。\n\n--- Definition of Done (DoD)\n- 全体は「混沌としたメモ・記号の集合体」として成立している。  \n- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。  \n- 色はモノクロ＋赤アクセントのみ。  \n- 紙とインクの手描き的質感を保持している。",
@@ -10302,20 +10022,6 @@
     "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
     "upstream_channel": "x",
     "id": "c3aa33e72201"
-  },
-  {
-    "prompt": "in ALT &amp; comment.",
-    "title": null,
-    "category": "General",
-    "language": "en",
-    "quality": null,
-    "author": "fy360593",
-    "source_url": "https://x.com/fy360593/status/2046512133295452363",
-    "image_url": "https://pbs.twimg.com/media/HGar6gRbsAA4BGH.jpg",
-    "published_at": "Tue Apr 21 08:51:29 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "5856a801033e"
   },
   {
     "prompt": "用可爱的风格讲述中国远征军的历史故事\n用波普风格讲述金刚经",
@@ -10442,20 +10148,6 @@
     "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
     "upstream_channel": "x",
     "id": "7f48b3fad835"
-  },
-  {
-    "prompt": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页，展示: 机器人的正面侧面背面三视图， 产品价格， 产品细节， 功能和使用场景等",
-    "title": null,
-    "category": "General",
-    "language": "zh",
-    "quality": null,
-    "author": "alanlovelq",
-    "source_url": "https://x.com/alanlovelq/status/2046048929490612464",
-    "image_url": "https://pbs.twimg.com/media/HGUGld9bAAAUe_s.jpg",
-    "published_at": "Mon Apr 20 02:10:53 +0000 2026",
-    "upstream_repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "upstream_channel": "x",
-    "id": "c2687fc352df"
   },
   {
     "prompt": "Create a comprehensive visual world-building collection for an icy polar civilisation set against a backdrop of endless ice plains, glacial gorges and eternal night storms, featuring numerous images including architecture, characters, costumes, vehicles and maps, with a consistent design language, cinematic realism and ultra-high detail.",

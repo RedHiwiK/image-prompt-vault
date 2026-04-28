@@ -1,8 +1,8 @@
 {
   "model": "gpt-image-2",
-  "total": 766,
+  "total": 744,
   "by_category": {
-    "General": 167,
+    "General": 145,
     "Portrait": 109,
     "Poster": 101,
     "Infographic": 63,
