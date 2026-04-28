@@ -1,4 +1,4 @@
-# Comic (17)
+# Comic (20)
 
 ## 办公室漫画冲突（已打码）
 
@@ -160,6 +160,20 @@
 [your simple story idea], american comic multi-panel illustration, diagonal layout, six panels, cinematic storytelling, clear reading flow, with speech bubbles.
 ```
 
+## 还可以配合 GPT Image 2 生成漫画，Prompt： > 帮我把下面的故事画成 【4】 页【中式现代漫画】风格的...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2047065819796930579
+- preview: assets/gpt-image-2-x-discussions/modern-chinese-comic-story-1.png
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+还可以配合 GPT Image 2 生成漫画，Prompt：
+> 帮我把下面的故事画成 【4】 页【中式现代漫画】风格的漫画故事
+打开 一次性可以生成多张图片
+```
+
 ## {"type":"black-and-white cinematic manga page","style":{"med...
 
 - author: DGL.ru
@@ -246,5 +260,29 @@ a comic about {argument name="subject" default="Pascal-B"}
 
 ```
 Using these images as reference can you make a MANGA of me, my wife, and our son's trip to Disney
+```
+
+## ツインテールで黒いゴシックドレスを着たちびキャラのリサが、新画像生成モデル「GPT-image-2」について解説する漫画...
+
+- author: IT navi
+- source: https://x.com/itnavi2022/status/2040469890151415866
+- preview: assets/gpt-image-2-x-discussions/gothic-twin-tail-lisa-comic-page-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+ツインテールで黒いゴシックドレスを着たちびキャラのリサが、新画像生成モデル「GPT-image-2」について解説する漫画（1ページ8コマ）を描いて。セリフは、日本語の文字や漢字を使って正確に書いて
+```
+
+## 以中国连环画（小人书）的风格帮我绘制大闹天空...
+
+- author: overseas58
+- source: https://x.com/overseas58/status/2046271877577097376
+- preview: https://pbs.twimg.com/media/HGXRKyKacAAdYwl.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+以中国连环画（小人书）的风格帮我绘制大闹天空
 ```
 

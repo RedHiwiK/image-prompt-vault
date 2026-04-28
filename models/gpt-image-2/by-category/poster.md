@@ -1,4 +1,4 @@
-# Poster (77)
+# Poster (101)
 
 ## A Journey Through Time: The Astronaut in 20 Art Styles
 
@@ -1532,6 +1532,19 @@ Create a clean Japanese lifestyle advertisement poster for a futuristic compact 
 A highly detailed, colorful where’s-Waldo-style illustration of a crowded public square in {argument name="city" default="Madrid"}, viewed from street level in bright daytime under a blue sky with scattered clouds. The scene is packed with dozens of pedestrians, tourists, vendors, children, musicians, and street life, drawn in an intricate hand-inked and digitally painted editorial cartoon style with crisp outlines, textured stone pavement, lively expressions, and dense visual storytelling. The location is Puerta del Sol, clearly recognizable by 4 key landmarks: the red diamond-shaped Sol metro sign on the left, the Tío Pepe rooftop sign in the mid-left background, the equestrian-free central bear-and-tree statue in the middle distance, and the Real Casa de Correos clock building dominating the right background with Spanish flags on the balcony. At the top left, add a pinned torn-paper poster with the Spanish text {argument name="headline text" default="¿Dónde está \"El Hombre del Puro\"?"} and a second line reading {argument name="subtitle text" default="Encuéntralo en Madrid"}; next to it, pin a small portrait photo of the target man, wearing a dark fedora and dark coat, smoking a cigar, like a clue card. Fill the square with a festive, bustling crowd scene including 2 flamenco dancers in red dresses on the right, 1 guitarist playing near center-right, 1 bicyclist riding through the foreground center-right, 1 street cleaner in an orange-and-green municipal uniform near the center foreground, 1 churros stand at bottom left with a blackboard sign reading “CHURROS CON CHOCOLATE”, 1 lottery kiosk on the left with “Loterías y Apuestas del Estado”, 1 postcard/news kiosk on the right with a sign reading “¡HOLA! DESDE MADRID”, 1 hat display stall on the far right with many stacked hats, 1 gold-painted living statue performer near the center-left, 1 soap-bubble performer creating translucent bubbles, many pigeons scattered across the foreground, and 2 small dogs near the lower center. Include families with backpacks, children crouching by pigeons, tourists taking photos, people holding maps, shoppers, and street spectators in varied summer clothing. The hidden target, {argument name="target character" default="El Hombre del Puro"}, should be subtly embedded somewhere within the crowd rather than centered, visually matching the clue portrait with dark hat, dark clothing, and cigar, making him difficult but possible to find. Use a dense composition, playful search-and-find energy, warm Mediterranean colors, and rich urban detail throughout.
 ```
 
+## GPT-Image-2 的世界知识里，有些玩法真的很酷。 “在旧金山的一面砖墙上，制作一个糊贴海报的场景，墙上贴着来自不...
+
+- author: AI Will
+- source: https://x.com/FinanceYF5/status/2046863423313703117
+- preview: assets/gpt-image-2-x-discussions/gpt-image-case-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT-Image-2 的世界知识里，有些玩法真的很酷。
+“在旧金山的一面砖墙上，制作一个糊贴海报的场景，墙上贴着来自不同 AI 实验室的海报。”
+```
+
 ## Create a highly detailed, colorful isometric festival poster...
 
 - author: Umberto León Domínguez 🧠 🤖
@@ -1542,6 +1555,18 @@ A highly detailed, colorful where’s-Waldo-style illustration of a crowded publ
 
 ```
 Create a highly detailed, colorful isometric festival poster illustration of a bustling Latin American technology fair in an open urban plaza, packed with dozens of people networking, coding, presenting, eating, recording media, and attending talks. The overall style should feel like a premium editorial cityscape poster: vibrant, dense, optimistic, playful, and full of readable signage, with crisp linework, painterly textures, warm sunlight, and a celebratory startup-community atmosphere. The main headline on the large stage at upper left reads {argument name="headline text" default="LATAM TECH FEST"}, with a subheading in Spanish reading "Aprender para transformar". On the stage, show a live conference with blue lighting, a presenter, and a seated audience; include 4 vertical icon panels on the stage area labeled "Educación", "Tecnología", "Innovación", and "Futuro", plus 3 glowing topic icons on the back wall labeled "Código", "Comunidad", and "Impacto". Build the plaza as a dense multi-zone event map with exactly 24 clearly labeled signs or booths distributed across the scene: "Keep Coding Keep Growing", "YO APRENDÍ EN LÍNEA", "Remote Work Zone", "ENGLISH UPGRADE YOUR FUTURE", "STARTUPS BUILD THE FUTURE", "DESIGN THINKING", "HACKATHON 24 HORAS DE IDEAS", "Café con código", "AREPAS CON TODO", "Hechas con código y ♥", "Inspiración", "Networking", "Aprendizaje", "Café", "Baños", "SOMOS LATINOAMÉRICA", "AI LAB", "DATA PEOPLE", "DEVS QUE IMPACTAN", "MARKETING GROWTH & COMMUNITY", "PRODUCT BUILD WHAT MATTERS", "FINTECH EL FUTURO DEL DINERO", "FOUNDER MODE", and "DEMO DAY LAUNCH · SCALE". In the center of the plaza, place a circular fountain with a large green geometric logo sculpture as the visual anchor. Surround it with tables, laptops, whiteboards, crowds, planters, and benches. Include a colorful hillside neighborhood in the background with mountains, palm trees, power lines, and exactly 2 red cable cars crossing the sky; also add exactly 1 small drone flying overhead. On the upper right building, place a large brand sign reading {argument name="brand name" default="Platzi"} and a green billboard that says "NUNCA PARES DE APRENDER". Populate the lower and middle foreground with many micro-scenes: a podcast booth labeled "PODCAST ON AIR", a neon "LIVE STREAM" corner, a startup workspace with people using laptops, a hackathon judging table, a founder pitch area, a fintech board with charts, and a coffee stand with espresso equipment and menu boards. Add 6 animal or mascot details across the scene: 1 orange cat lounging near the left worktables, 1 capybara at the lower left, 1 multicolor llama piñata in the lower center-left, 1 yellow rubber duck near the center-bottom, 1 small green robot near the bottom center-right, and 1 tiny turtle near the bottom beside a coin. Also place exactly 4 vehicle elements: 2 green scooters at the lower left, 1 decorated taco truck at the lower right with the sign "TACOS AL PASTOR", and 1 wheelchair user moving through the crowd. Include extra props that reinforce tech culture: whiteboards with sticky notes, a board titled "Traction" with an upward graph and bullet points "Users", "Revenue", "Retention", "Love", a board titled "CAP TABLE" with percentage rows, a Bitcoin-style coin on the ground, microphones, cameras, cables, monitors, smartphones, and branded green merchandise. Clothing should be modern casual startup attire with hoodies, jackets, backpacks, jeans, sneakers, and conference badges, featuring a diverse mix of ages and Latin American identities. Use rich greens, teals, oranges, purples, and warm neutrals, with lush plants and vines integrated into architecture. Make every corner busy and discoverable, like a Where's-Waldo-style tech ecosystem celebration, but keep the composition readable and inviting.
+```
+
+## Make an image, a {argument name="player" default="Marcus Ras...
+
+- author: Arnold Madi
+- source: https://x.com/arn_madi/status/2047090014123651307
+- preview: assets/gpt-image-2-x-discussions/marcus-rashford-inter-milan-wallpaper-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Make an image, a {argument name="player" default="Marcus Rashford"} design for {argument name="team" default="inter milan"}, advanced design level, 9:16, mobile wallpaper, write "{argument name="text" default="Welcome MR14"}"
 ```
 
 ## Generate a hand-drawn style promotional poster introducing {...
@@ -1592,6 +1617,18 @@ Create an epic poster showcasing the most iconic moments of (sportsperson name) 
 Create a Science fiction movie poster
 ```
 
+## 「蒼天の霹靂」という架空アニメの劇場版ポスターを作って...
+
+- author: Toshi@ニャルオAI
+- source: https://x.com/Toshi_nyaruo_AI/status/2046565932101964009
+- preview: assets/gpt-image-2-x-discussions/soten-no-hekireki-anime-movie-poster-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+「蒼天の霹靂」という架空アニメの劇場版ポスターを作って
+```
+
 ## A Japanese theatrical romance movie poster in a tall smartph...
 
 - author: studioあぽろん
@@ -1616,6 +1653,76 @@ A Japanese theatrical romance movie poster in a tall smartphone-style vertical l
 A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
 ```
 
+## 平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色...
+
+- author: 李岳
+- source: https://x.com/liyue_ai/status/2046243132774494607
+- preview: assets/gpt-image-2-x-discussions/guangzhou-dream-return-city-poster-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光，局部带细微能量碎屑与体积光。
+
+金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化增强纵深感。
+
+画面底部为一位东方白发女性形象，长发飘逸，如烟似雾，与金色流光自然衔接并逐渐融合，发丝半透明带渐变光感，姿态柔美，双目微闭，神情宁静，怀抱一束多彩鲜花，花间点缀微光粒子与星点效果，象征人与城市能量的精神连接，人物细节适度简化以突出整体设计感。
+
+光影集中于金色流线、建筑与人物轮廓，形成强烈明暗对比与视觉聚焦，整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底，高亮鎏金为主视觉强调，金色具备丰富明暗层次，辅以小面积高饱和花束色彩点缀，整体高级克制。
+
+页面文字与画面融合排版：顶部居中宋体大字“广州·中国”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字采用淡金色或柔和暖白色，与整体光影统一。高品质细节，电影级光影表现，体积光与粒子细节丰富，画面干净无噪点，超高清8K分辨率，商业级海报质感。
+```
+
+## 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。 双重曝光，构图延续了S型的流动感； 在纯白的纹理背景右下...
+
+- author: 阿兰AI
+- source: https://x.com/alanlovelq/status/2045484598487060917
+- preview: assets/gpt-image-2-x-discussions/spring-guangzhou-city-poster-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
+双重曝光，构图延续了S型的流动感；
+在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
+在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
+文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+## gpt image 2生成城市宣传海报。 提示词： 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。 双重...
+
+- author: 李岳
+- source: https://x.com/liyue_ai/status/2045332620352119274
+- preview: assets/gpt-image-2-x-discussions/spring-guangzhou-city-poster-2045332620352119274-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+gpt image 2生成城市宣传海报。
+提示词：
+一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
+双重曝光，构图延续了S型的流动感；
+在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
+在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
+文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+## ゴリラが人間の街に馴染み、知的労働で活躍する映画のポスターを作成して。テキストは日本語で。情報量多く...
+
+- author: たまのあそび場
+- source: https://x.com/TAMAnoASOBIBA/status/2044634519928783238
+- preview: assets/gpt-image-2-x-discussions/gorilla-knowledge-worker-movie-poster-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+ゴリラが人間の街に馴染み、知的労働で活躍する映画のポスターを作成して。テキストは日本語で。情報量多く
+```
+
 ## Lego poster showing every president of the USA by year....
 
 - author: 𝗔𝗿𝗲𝘀🦇
@@ -1626,6 +1733,196 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ```
 Lego poster showing every president of the USA by year.
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位身形紧凑有力、动作轻盈、具有反重力气质的体操冠军的海报，不要做成常...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/anti-gravity-gymnastics-myth-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位身形紧凑有力、动作轻盈、具有反重力气质的体操冠军的海报，不要做成常规奖牌肖像。以超大尺寸的脸部侧影剪影作为外轮廓，线条紧凑、有力量、优雅，并呈现反重力感。剪影内部，自然融合构建一位改变难度与回归意义的运动员世界观：漂浮在黑暗中的平衡木、像星尘一样的镁粉、体操馆聚光灯、不可能旋转中的身体剪影、跳马助跑线、手写训练笔记、奖牌如柔和倒影、一段助跑前的安静呼吸、展示旋转与落地的抽象几何，以及午夜后空无一人的训练馆。加入象征参考图中人物真实故事的细节：以她命名的动作、无人能及的难度、回归勇气、心理健康坦诚、暂停的权利，以及一种重力不得不与她协商的画面感。剪影内部世界必须无缝融入脸部轮廓，不要粘贴奥运图像。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级体育史诗、油画肌理、梦幻水彩雾感、柔和大气透视、纸张颗粒、干刷笔触边缘、神圣聚光、留白墨色缝隙和大面积极简留白。配色方案：镁粉白、深靛蓝、球馆金、哑红、冷银、柔黑。整体基调：力量、亲密、不可能、勇敢、优雅、神圣。如需添加文字，仅使用英文。主标题建议：GRAVITY HAD TO NEGOTIATE。副标题：The Quiet Before Flight。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级排版逻辑。避雷要求：禁止出现奥运 logo、协会 logo、赞助商标识、错误文字、多余人像、畸形身体、廉价闪光特效、杂乱球馆背景、消费痛苦式戏剧化。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位轮廓锐利、雕塑感强、自律气质明显的葡萄牙足球传奇的海报，不要做成普...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/discipline-and-legend-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位轮廓锐利、雕塑感强、自律气质明显的葡萄牙足球传奇的海报，不要做成普通足球明星宣传图。以超大尺寸的脸部侧影剪影作为外轮廓，线条锐利、雕塑感强、骄傲，并且极具辨识度。剪影内部，自然融合构建 参考图中人物的完整传奇世界观：马德拉岛面向大西洋的悬崖、少年在粗糙场地上训练、离开故乡的远航意象、里斯本训练场阴影、雨夜曼彻斯特灯光、马德里式纯白球场光线但不出现任何 logo、都灵石质建筑作为职业章节、职业后期边疆感的沙漠夜色、不可思议高度的头球滞空、弧线任意球轨迹、钉鞋压进湿草的痕迹、掌声化作海浪、五个金色球体作为抽象成就符号，以及一条由自律、执念、身体雕刻、宿敌关系和不断重塑构成的长路。隐藏一些代表他公众形象的小细节：高高跃起的剪影、非直接复制的庆祝动作氛围、永不熄灯的训练室、全球职业生涯像机场跑道一样延伸，以及追求完美背后的孤独代价。剪影内部世界必须与脸部轮廓自然融合，不要硬边拼贴。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级英雄海报设计、诗意氛围、油画肌理、梦幻水彩插画、古典雕塑光影、柔和透视、纸张颗粒、干刷笔触边缘、留白墨色缝隙和大面积克制留白。配色方案：大西洋深蓝、雕塑白、冠军金、深红、夜赛黑、暖沙金。整体基调：执念、野心、自律、孤独、华丽、传奇。如需添加文字，仅使用英文。主标题建议：MADE BY OBSESSION。副标题：A Life Scored In Gold。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级排版逻辑。避雷要求：禁止出现俱乐部 logo、国家队 logo、赞助商标识、错误球衣文字、廉价健身海报感、夸张肌肉、多余人像、畸形手部、杂乱拼贴、低质特效。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位神情冷静、克制、像战略家一样专注的韩国电竞王者的海报，不要做成普通...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/esports-dynasty-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位神情冷静、克制、像战略家一样专注的韩国电竞王者的海报，不要做成普通电竞选手平面图。以超大尺寸的脸部侧影剪影作为外轮廓，线条冷静、精准、战略感强，并带有安静的王者气质。剪影内部，自然融合构建 参考图中的人物 的电竞王朝世界观：首尔夜色、玻璃高楼上的霓虹倒影、由显示器照亮的安静训练室、发光键盘、鼠标移动轨迹、没有官方标识的世界赛级巨型舞台、红金交错的舞台光、抽象几何化的中路线战场、像钟表一样推进的兵线节奏、技能轨迹、远处发光的奖杯剪影、队友化作细小阴影碎片、观众席变成星海、深夜 VOD 复盘笔记、所有人离开后仍亮着的台灯，以及十多年一直站在时代中心的压力。加入象征参考图中人物真实背景的细节：不直接画怪物而通过氛围表达“不可杀的魔王”神话、克制表情、对中路的控制、反复夺冠、回归压力和精通带来的孤独。剪影内部世界必须融入脸部轮廓，不要粘贴游戏截图。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级赛博诗意海报、油画肌理、水彩雾感、纸张颗粒、屏幕噪点质感、干刷笔触边缘、玻璃反射、大面积黑色留白和克制高级排版。配色方案：深黑、冷白、王朝红、冠军金、电子蓝、玻璃灰。整体基调：沉默、专注、统治力、神圣、孤独、东方赛博感。如需添加文字，仅使用英文。主标题建议：THE MID LANE NEVER FORGOT。副标题：A Kingdom Built In Silence。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级排版逻辑。避雷要求：禁止出现战队 logo、游戏 logo、赛事 logo、赞助商标识、复制游戏 UI、可读的虚假 UI 文字、多余人像、畸形手部、廉价赛博模板、杂乱拼贴。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位沉稳、精准、架构师气质鲜明的 AI 硬件时代领导者的海报，不要做成...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/gpu-era-architect-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位沉稳、精准、架构师气质鲜明的 AI 硬件时代领导者的海报，不要做成发布会截图。以超大尺寸的脸部侧影剪影作为外轮廓，线条精准、沉稳、像架构师一样，并具备高级辨识度。剪影内部，自然融合构建加速计算时代的完整世界观：不带品牌标识的发光 GPU 板、数据中心通道、绿色电路光、硅晶圆、服务器机架、供应链货轮、AI 模型图谱、发布会舞台光束、抽象黑色皮革质感、工厂规模的计算、由无形推理能力点亮的城市，以及数据流化作建筑光线。加入象征真实公众叙事的细节：CUDA 时代、AI 基础设施热潮、GPU 稀缺、数据中心规模、开发者生态、皮衣发布会神话，以及现代 AI 运行在隐藏物理机器之上的感觉。剪影内部世界必须自然融入脸部轮廓，不要像电路板拼贴。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级基础设施海报设计、油画肌理、梦幻水彩雾感、纸张颗粒、干刷笔触边缘、深色负空间、锋利祖母绿高光、柔和大气透视和留白墨色缝隙。配色方案：祖母绿、石墨黑、硅银、珍珠白、服务器蓝、暖金。整体基调：架构感、精准、强大、基础设施化、决断、高级。如需添加文字，仅使用英文。主标题建议：THE AGE RAN ON SILICON。副标题：Compute Became Destiny。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级排版逻辑。避雷要求：禁止出现公司 logo、产品名称、股票图表、虚假声明、多余人像、畸形手部、通用机器人图像、杂乱电路板背景、廉价科技发布会设计。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位冷感优雅、时尚编辑气质强、舞台存在感克制的韩国流行歌手的海报，不要...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/k-pop-cool-elegance-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位冷感优雅、时尚编辑气质强、舞台存在感克制的韩国流行歌手的海报，不要做成普通 K-pop 时尚拼贴。以超大尺寸的脸部侧影剪影作为外轮廓，线条精致、冷感、有磁性、偏高级时装编辑风，并高度可辨识。剪影内部，自然融合构建一位现代韩国流行与时尚 icon 的世界观：首尔傍晚街道、柔和摄影棚光、没有品牌 logo 的高级面料纹理、麦克风剪影、相机闪光尘埃、黑色丝绸、珍珠高光、编舞线条、钢琴房阴影、私密城市记忆、像秀场一样延伸的走廊，以及公共华丽与私人克制之间的反差。加入象征参考图中人物真实故事的细节：偶像训练纪律、solo 身份、时尚世界引力、冷感克制、舞台存在感，以及在巨大 spotlight 内仍显得私密的声音。剪影内部世界必须自然流入脸部轮廓，不要像明星 moodboard。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级时尚编辑氛围、油画肌理、梦幻水彩雾感、克制光泽、纸张颗粒、干刷笔触边缘、柔和过渡、留白墨色缝隙和大面积高级留白。配色方案：深黑、珍珠白、雾玫瑰、香槟金、烟灰、冷蓝。整体基调：安静、昂贵感、锋利、受控、优雅、现代。如需添加文字，仅使用英文。主标题建议：SOFT LIGHT, SHARP SILENCE。副标题：A City Learned Her Rhythm。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级排版逻辑。避雷要求：禁止出现团体 logo、品牌 logo、官方服装、复制 MV 画面、多余人像、畸形手部、错误文字、杂乱拼贴、低质粉丝修图感。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位身形瘦削、表情坚毅、来自东非高原的历史级马拉松跑者的海报，主题聚焦...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/marathon-sub-two-history-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位身形瘦削、表情坚毅、来自东非高原的历史级马拉松跑者的海报，主题聚焦正式比赛马拉松破二的历史瞬间。以超大尺寸的脸部侧影剪影作为外轮廓，线条安静、瘦削、坚韧，像被耐力雕刻出来。剪影内部，自然融合构建他在伦敦马拉松创造历史的完整世界观：潮湿的伦敦清晨街道、泰晤士河雾气、远处发光的 The Mall 终点、像发光记忆丝线一样贯穿画面的 42.195 公里路线、消散在雾里的分段计时标记、肯尼亚红土训练道路、高原破晓、日出前漫长孤独的训练、跑鞋击打雨水的瞬间、身后被历史模糊化的第二名选手、观众化作白色声浪，以及以极简神圣时间戳形式出现的 1:59:30。加入象征不可能屏障被打破的细节：裂开的两小时钟面、冷空气中的呼吸、终点带化作地平线、金色晨光进入城市，人类极限在那一刻发生位移。剪影内部场景必须诗意且无缝，拒绝体育广告式拼贴。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级体育史纪录片氛围、油画肌理、梦幻水彩雾感、柔和大气透视、纸张颗粒、干刷笔触边缘、留白墨色缝隙和大面积极简留白。配色方案：伦敦雾灰、黎明金、肯尼亚红土、墨黑、珍珠白、冷青蓝。整体基调：神圣、历史性、安静、不可能、人类感、史诗感。如需添加文字，仅使用英文。主标题建议：THE FIRST MAN UNDER TWO。副标题：London, 1:59:30。字体选用极简优雅衬线体或现代无衬线字体，遵循克制的电影级排版逻辑。避雷要求：禁止出现赛事 logo、赞助商标识、错误国旗、错误成绩、廉价速度线、多余人像、畸形肢体、拥挤的马拉松广告构图、低质感海报排版。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位年轻、专注、投射感强、带有新时代女子篮球气质的后卫的海报，不要做成...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/new-era-womens-basketball-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位年轻、专注、投射感强、带有新时代女子篮球气质的后卫的海报，不要做成普通篮球宣传图。以超大尺寸的脸部侧影剪影作为外轮廓，线条专注、带电、年轻、精准。剪影内部，自然融合构建一位改变女子篮球关注度的球员世界观：不出现 logo 的 Iowa 大学校园球馆氛围、像地平线一样发光的超远三分弧线、篮球从手中飞出并来自不可思议的距离、满座球馆、客场爆满、反射灯光的木地板、闪光灯、作为抽象纹理的报纸碎片、场边注视她的年轻女孩、转向新星的电视摄像机，以及职业舞台灯光像新章节一样打开。加入象征参考图中人物真实故事的细节：超远投射、得分纪录讨论、从大学到职业的过渡、巨大关注带来的压力，以及一项运动突然发现自己拥有更大房间的瞬间。剪影内部世界必须自然融入脸部轮廓，不要堆砌标题。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级新时代体育海报、水彩光感、油画肌理、纸张颗粒、干刷笔触边缘、柔和大气透视、留白墨色缝隙和大胆留白。配色方案：电光橙、午夜海军蓝、象牙白、球馆金、球场木棕、冷银。整体基调：带电、颠覆、年轻、自信、干净、上升。如需添加文字，仅使用英文。主标题建议：THE RANGE CHANGED THE ROOM。副标题：A New Crowd Found The Game。字体选用极简优雅衬线体或现代无衬线字体，遵循克制电影级排版逻辑。避雷要求：禁止出现联赛 logo、球队 logo、赞助商标识、错误球衣文字、多余人像、畸形手部、小报式设计、虚假标题、嘈杂粉丝拼贴。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位年轻、优雅、充满上升感的新生代网球冠军的海报，不要做成普通网球肖像...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/new-generation-tennis-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位年轻、优雅、充满上升感的新生代网球冠军的海报，不要做成普通网球肖像。以超大尺寸的脸部侧影剪影作为外轮廓，线条优雅、专注、年轻、向上。剪影内部，自然融合构建新生代网球冠军的世界观：雨后的蓝色硬地球场、暖光中的红土尘埃、像小太阳一样被抛起的发球球影、发光记忆线般的球拍线、纽约夜赛灯光、少年突破的气息、安静的更衣室便签、人群阴影、化作纹理的发布会麦克风、以温暖剪影呈现的家庭支持，以及一位年轻冠军克制地走进历史。加入象征参考图中人物真实故事的细节：早熟天赋、大满贯到来、压力下的耐心、速度、防守、成熟和时尚跨界感，但不要变成广告。剪影内部世界必须像连续记忆一样自然融入脸部轮廓，拒绝赛事拼贴。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级体育优雅、油画肌理、梦幻水彩雾感、纸张颗粒、干刷笔触边缘、柔和大气透视、留白墨色缝隙和精致负空间。配色方案：球场蓝、红土橙、珍珠白、深藏青、网球青柠绿、柔金。整体基调：年轻、优雅、耐心、全球化、沉着、面向未来。如需添加文字，仅使用英文。主标题建议：THE FUTURE LEARNED TO WAIT。副标题：Then It Served。字体选用极简优雅衬线体或现代无衬线字体，遵循克制电影级排版逻辑。避雷要求：禁止出现赛事 logo、赞助商标识、错误文字、多余人像、畸形手部、复制转播图形、时尚广告式杂乱、网球拼贴感。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位金色长发、身形高大、爆发力极强的北欧强力中锋的海报，不要做成普通球...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/nordic-football-myth-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位金色长发、身形高大、爆发力极强的北欧强力中锋的海报，不要做成普通球星肖像。以超大尺寸的脸部侧影剪影作为外轮廓，线条冷峻、锋利、北欧感强、充满力量，并且具备高辨识度。剪影内部，自然融合构建参考图中人物的成长与爆发的完整世界观：挪威 Bryne 小镇训练场、冰冷的北欧海岸线、蓝灰色暴风云下的峡湾、少年中锋穿越欧洲夜赛的路径、萨尔茨堡时期的红色冬夜光感、多特时期的黄色雷霆氛围、雨夜曼彻斯特球场灯光但不出现任何官方标识、高大前锋冲过湿滑草皮、足球像陨石一样射向球网、前场压迫箭头、冲刺数据轨迹、后防线被撕开的瞬间、雾气中若隐若现的父子足球传承。加入能象征他公众形象的小众细节：冷酷终结、机械般重复训练、雨中飘动的金色长发、捕食者一样反越位前插、欧冠夜晚气息，以及一种由北方天气锻造出来的进球机器感。剪影内部场景必须与脸部轮廓自然融合，拒绝贴纸感和拼贴感。整体构图采用高级剪影叙事融合风格，营造双重曝光视觉质感，兼具电影级体育纪录片张力、诗意氛围、油画肌理、梦幻水彩插画、柔和大气透视、雾感过渡、纸张颗粒、干刷笔触边缘、留白墨色缝隙和大面积极简留白。配色方案：冰川蓝、深海黑、冷白、哑光金、湿润球场绿、雨水银灰。整体基调：冷冽野心、身体统治力、北欧神话感、未来中锋气质、克制奢华。如需添加文字，仅使用英文。主标题建议：THE MACHINE FROM THE NORTH。副标题：Built In Rain, Finished In Silence。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级海报排版逻辑。避雷要求：禁止出现俱乐部官方 logo、国家队 logo、赞助商标识、错误球衣文字、多余人像、畸形手部、廉价火焰特效、随机幻想怪物、杂乱拼贴、模板化体育背景、低质感海报设计。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位气场强大、舞台统御力极强、女王感鲜明的全球音乐表演者的海报，不要复...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/stage-queen-power-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位气场强大、舞台统御力极强、女王感鲜明的全球音乐表演者的海报，不要复制巡演视觉或专辑风格。以超大尺寸的脸部侧影剪影作为外轮廓，线条女王感、发光、具有统御力和雕塑感。剪影内部，自然融合构建一位把舞台艺术变成帝国的表演者世界观：温暖聚光雾气、铬银反射、巨型场馆、像合唱团一样的光束、舞者阵型阴影、南方根源、黑胶唱片纹路、银色织物波浪、化作金色建筑的歌声、麦克风剪影、反射灯光的黑色舞台地面，以及不复制具体巡演视觉但能暗示强大入场的抽象动态。加入象征参考图中人物真实故事的细节：声乐控制、表演完美主义、文化作者身份、Houston 根源、舞蹈纪律、母亲身份与掌控力，以及舞台可以成为王国的感觉。剪影内部世界必须自然融入脸部轮廓，不要像华丽拼贴。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级奢华音乐海报、油画肌理、梦幻水彩光晕、柔和大气透视、纸张颗粒、干刷笔触边缘、克制奢华、留白墨色缝隙和大面积高级留白。配色方案：铬银、深黑、蜂蜜金、珍珠白、暖青铜、电光蓝。整体基调：王者、强大、精致、神圣、华丽、受控。如需添加文字，仅使用英文。主标题建议：THE STAGE BECAME A KINGDOM。副标题：Built From Voice And Light。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级排版逻辑。避雷要求：禁止出现官方巡演 logo、专辑封面、赞助商标识、复制舞台服装、多余人像、畸形手部、廉价亮片、过度设计的粉丝海报感、虚假活动文字。
+```
+
+## 以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位眼神冷静、动作灵活、具备逆转气质的美式橄榄球四分卫的海报，不要做成...
+
+- author: GPTIMG2 AI
+- source: local-user-reference
+- preview: assets/gpt-image-2-x-discussions/super-bowl-calm-leader-1.webp
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以我的人像参考为蓝本，创作一张收藏级史诗叙事风关于一位眼神冷静、动作灵活、具备逆转气质的美式橄榄球四分卫的海报，不要做成普通四分卫动作海报。以超大尺寸的脸部侧影剪影作为外轮廓，线条冷静、锋利、经历风暴，并具备电影感。剪影内部，自然融合构建现代第四节四分卫神话：不出现官方标识的红色球场灯光、寒冷季后赛天气、雨中的草皮、螺旋飞行的橄榄球轨迹、破碎战术中的逃逸路径、战术板图形、no-look 传球路线、第四节时钟碎片、被处理成远处记忆的彩带、护肩阴影、被冠军压力抽象化的城市天际线、边线耳机微光，以及最后一攻出手前的寂静。加入象征参考图中人物真实职业特征的细节：超级碗压力、即兴创造、特殊出手角度、混乱中的冷静、逆转能量，以及时钟仿佛成为他进攻体系的一部分。剪影内部场景必须有机融合，不要像橄榄球照片拼贴。整体构图采用高级剪影叙事融合风格，营造双重曝光、电影级体育戏剧光影、油画肌理、梦幻水彩雾感、纸张颗粒、干刷笔触边缘、紧张大气透视、深色阴影、金色轮廓光和克制留白。配色方案：深红、黑色、象牙白、草皮绿、风暴灰、冠军金。整体基调：关键时刻、戏剧性、韧性、美式、高压、冷静。如需添加文字，仅使用英文。主标题建议：THE CLOCK NEVER SCARED HIM。副标题：Fourth Quarter Weather。字体选用极简优雅衬线体或现代无衬线字体，遵循电影级排版逻辑。避雷要求：禁止出现 NFL logo、球队 logo、赞助商标识、虚假比分牌文字、错误文字、多余人像、畸形手部、混乱动作拼贴、廉价体育图形。
+```
+
+## 架空のアニメ映画のポスターをGPT image2で作成。...
+
+- author: seiiiiiiiiiiru
+- source: https://x.com/seiiiiiiiiiiru/status/2046509734954741780
+- preview: https://pbs.twimg.com/media/HGao-GgakAAooqf.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+架空のアニメ映画のポスターをGPT image2で作成。
+```
+
+## 新中式水墨山水海报，竖版9:16构图，东方极简美学风格， 大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨）...
+
+- author: liyue_ai
+- source: https://x.com/liyue_ai/status/2046215276249993720
+- preview: https://pbs.twimg.com/media/HGWd3PRbAAA0IZ3.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+新中式水墨山水海报，竖版9:16构图，东方极简美学风格，
+大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。
+画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，
+山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。
+山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。
+
+湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。
+中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。
+
+船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，
+身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，
+人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），
+红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。
+
+岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。
+
+少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。
+
+画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意），
+笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。
+书法颜色为深墨青或柔和墨黑，与整体画面统一。
+整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，
+冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。
+```
+
+## 「神層37区　特級執行官　神巫サバト」この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして...
+
+- author: tebasaki3D
+- source: https://x.com/tebasaki3D/status/2046371076402503709
+- preview: https://pbs.twimg.com/media/HGYrpGwaIAAPUzE.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+「神層37区　特級執行官　神巫サバト」この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して
 ```
 
 ## Generate a high-quality vertical "science popularization enc...
@@ -1640,6 +1937,126 @@ Lego poster showing every president of the USA by year.
 Generate a high-quality vertical "science popularization encyclopedia image" based on [Theme].  
 
  This image is not an ordinary poster, nor is it purely an illustration; it's a modular science information graphic that combines "atlas-like feel, encyclopedic feel, information structure, and collectible appeal." The overall style references a blend of advanced natural history atlases, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics.  Please include in the image: - A clear and beautiful main visual of the theme - Several magnified close-up details of partial features - Multiple rounded modular information sections - Clear title hierarchy and key labels - Concise yet rich encyclopedic content - Visualized ratings, key point summaries, or Top 5 modules  Content sections should automatically adapt based on the theme, prioritizing selection and reasonable combination from these directions: Basic profile, classification info, appearance features, habits/ecology, formation mechanism/structure composition, growth or usage conditions, care or maintenance tips, risks and precautions, suitable people or application scenarios, pros and cons comparison, quick rating card.  Visual requirements: Light, clean background; soft color palette; subtle shadows; refined small icons; rounded info boxes; neat typography; high information density without clutter; excellent reading experience. The overall design must feel like a genuine science encyclopedia card that can be published, read, collected, and produced in series—not like an ad graphic.  Please don't make it into an ordinary commercial promotional poster. Emphasize the features of "knowledge organization + modular info + atlas-style presentation.
+```
+
+## 『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真...
+
+- author: weel_corp
+- source: https://x.com/weel_corp/status/2046514558064586782
+- preview: https://pbs.twimg.com/media/HGatbcobIAAuNfa.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真（野菜・果物・牛肉・鮮魚）、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ…』
+```
+
+## 围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。  唯一需要输入的变量只有： 【主题】：___特朗普...
+
+- author: A9Quant
+- source: https://x.com/A9Quant/status/2046224777208361126
+- preview: https://pbs.twimg.com/media/HGWmfbHbsAAGkvK.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。
+
+唯一需要输入的变量只有：
+【主题】：___特朗普的思考____ 
+
+除【主题】之外，其余全部由 AI 自动适配完成，包括但不限于：
+- 核心主体（自动判断更适合人物、守护者、战士、产品、器物、雕像、抽象象征或其他主视觉对象）
+- 中央承载结构（自动判断更适合王座、石座、祭坛、机械基座、遗迹、高台或其他支撑体）
+- 环境空间（自动判断更适合洞穴、神殿、废墟、深渊、地下宫殿、密室或其他封闭史诗空间）
+- 上方开口与光源形式（自动判断更适合月光、神光、能量束、审判之光、圣光或其他单一强光）
+- 象征元素（自动判断更适合骷髅、徽记、残碑、纹章、符文、能量环、神性符号等）
+- 色彩体系
+- 材质组合
+- 标题、副标题、辅助文案
+- 排版与整体叙事气质
+
+【总风格】
+高预算 90 年代好莱坞史诗大片海报气质，融合 cinematic matte painting、超写实摄影质感、极强明暗对比、厚重空间叙事、暗黑英雄主义与仪式感构图。整体必须像一张真正的电影主海报，而不是普通插画或电商图。
+
+【核心结构锁定】
+整张海报必须保留以下结构基因：
+1. 一个巨大、压迫感极强的黑暗封闭空间
+2. 一束从上方斜向切入的强烈体积光，作为画面的第一视觉秩序
+3. 中央偏右或光束终点位置的核心主体与承载结构
+4. 左下角作为高密度标题与信息锚点
+5. 四周保留大量纯黑或近黑负空间，形成电影感呼吸区
+
+【自动适配规则】
+AI 必须依据【主题】自动推导最适合的视觉系统：
+- 如果【主题】偏暗黑英雄、复仇、正义、孤独、宿命，则自动偏向石质王座、孤高人物、冷色神光、废墟或洞穴感空间
+- 如果【主题】偏神秘、幽灵、潜行、幻影、夜行，则自动偏向月光、迷雾、冷蓝色体积光、深渊式黑暗空间
+- 如果【主题】偏权力、统治、王者、秩序，则自动强化 throne / altar / crown-like symbol / ritual space 的表达
+- 如果【主题】偏科技、AI、未来、机械，则自动将王座和空间替换为机械神座、能量基座、金属洞窟、工业神殿等未来化形态
+- 如果【主题】偏产品、品牌、器物，则自动把核心主体替换为最合适的 hero object，并保留被神光审判式凸显的史诗构图
+
+【画布与色彩系统】
+- 背景底层必须是极深、近乎吞噬一切的黑暗空间
+- 主环境色由 AI 根据【主题】自动决定，但整体必须克制，以暗色为主
+- 强光区域色彩必须高度集中，只服务于体积光与主体高光
+- 主题色 / 强调色只能集中用于主视觉核心，不允许全画面泛滥
+- 必须建立明确的“黑暗底色 + 单一主光 + 少量主题强调色”的层级秩序
+
+【构图与视觉重力】
+- 采用强烈的斜向张力与向中心汇聚的视觉引导
+- 视觉重力从上方光源强势落下，最终压在核心主体之上
+- 主体必须处于被命运、审判、神性或权力照中的位置
+- 边缘必须自然融入黑暗，不能出现无意义背景填充
+- 所有元素必须服务于唯一的主叙事核心
+
+【材质与光影】
+- 不使用轮廓线，不使用平面化描边
+- 完全依赖体积光、阴影切割、反射、高光、雾气、粉尘、湿润岩石或其他真实材质来建构画面
+- 材质必须形成明显对比，例如：
+  粗粝岩石 / 冷硬金属 / 柔韧织物 / 古老石雕 / 湿润表面 / 尘雾光柱
+- 光束必须具有强烈 Tyndall effect，真实、厚重、可感知体积密度
+
+【排版系统】
+- 整体 80% 视觉，20% 文字
+- AI 根据【主题】自动生成主标题、副标题和底部信息块
+- 主标题应尽量简洁、有气势、有电影海报感
+- 若主题更适合中文，则优先中文；若更适合英文，则自动英文；也可双语，但必须统一
+- 主标题可沿光束垂直排布，仿佛由光本身构成
+- 左下角设置一个高密度信息模块，包括副标题、小字信息、电影 credits 风格占位文字或品牌说明
+- 文字必须锐利、干净、真实嵌入环境，不得廉价漂浮
+
+【模块结构 —— 必须严格保持 3 块】
+[MOD 1: TOP-TO-CENTER BEAM]
+从顶部开口斜向切下的巨大体积光柱，作为第一视觉通道，并承载主标题或主视觉文字。
+
+[MOD 2: CENTER-RIGHT CORE]
+位于光束终点的核心主体与承载结构，形成整张海报的权力中心 / 命运中心 / 叙事中心。
+
+[MOD 3: BOTTOM-LEFT TEXT]
+位于左下角负空间中的高密度排版区，包含副标题、说明文字、credits 风格信息块、品牌信息或活动信息。
+
+【作者署名】
+在底部角落自然加入作者署名：
+@a9quant
+署名要小而清晰，精致、克制、高级，不喧宾夺主，像正式电影概念海报或艺术作品落款。
+
+【输出要求】
+输出为单张统一构图海报。
+所有视觉系统必须内部一致，不能有风格污染。
+画面必须具备：暗黑感、史诗感、压迫感、仪式感、命运感、电影完成度。
+最大细节密度，超清，电影级，印刷级，高端成片质感。
+```
+
+## ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラ...
+
+- author: ck_igarashi
+- source: https://x.com/ck_igarashi/status/2046528889124728993
+- preview: https://pbs.twimg.com/media/HGa68yAawAA1aEE.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
 ```
 
 ## 请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。  唯一输入变量只有： 【主题】：__中国历史上的皇帝排名...

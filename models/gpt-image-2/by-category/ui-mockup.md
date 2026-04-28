@@ -1,4 +1,4 @@
-# UI Mockup (22)
+# UI Mockup (35)
 
 ## 916 Coser头像截图
 
@@ -192,6 +192,20 @@ Screenshot of a YouTube video showing someone who time-traveled to the Middle Ag
 居中构图、优雅的间距、优质的 UI 设计、柔和的灯光、微妙的深度、产品登陆页面、8k、超干净
 ```
 
+## Create a screenshot of an X post by OpenAI announcing Elon m...
+
+- author: Mahesh
+- source: https://x.com/Mahesh171819/status/2047258046301388967
+- preview: assets/gpt-image-2-x-discussions/fake-openai-x-post-elon-ceo-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a screenshot of an X post by OpenAI announcing Elon musk As their new CEO
+
+Hope it's not nerfed after full launch
+```
+
 ## Create a landing page for a ramen shop named KURIGAWA using ...
 
 - author: DStudioproject
@@ -229,6 +243,18 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 {"type":"e-commerce skincare product page mockup","brand":{"name":"GLOW.","style":"minimal luxury skincare branding"},"product":{"name":"{argument name=\"product name\" default=\"Hyaluronic Acid Serum\"}","category":"serum","price":"{argument name=\"price\" default=\"$36.00\"}","rating":{"stars":5,"score":"4.8","reviews":"(1200 reviews)"},"badge":"BESTSELLER","description":"A lightweight, fast-absorbing serum that delivers intense hydration, visibly plumps, and helps smooth the look of fine lines.","size":"30ml / 1 fl oz","payment_note":"Pay in 4 interest-free payments of $9.00 with afterpay","benefits":["Deep Hydration","Plumps + Smooths","Fragrance Free"],"shipping_note":"Free shipping on orders over $50"},"visual":{"primary_packshot":"clear glass dropper bottle with white cap and white label, black minimalist text, placed on a warm beige surface with a small beige stone sphere on the left and a large round marble disc on the right, soft studio shadows, clean premium skincare ad lighting","gallery_thumbnails":{"count":4,"items":["front product bottle on beige set","serum texture droplets on beige background","open bottle with serum dropper above neck","soft lifestyle skin-toned close-up blur"]}},"layout":{"background":"light gray studio backdrop","canvas":"wide desktop website mockup with a mobile version shown to the right","sections":[{"title":"desktop product page","position":"left","count":12,"labels":["top shipping bar","brand header with navigation","breadcrumb","thumbnail gallery","main product image","bestseller badge","product title","rating and reviews","price and payment note","size selector","quantity stepper","add to cart and buy it now buttons"]},{"title":"feature icons row","position":"bottom-left under main image","count":3,"labels":["Deep Hydration","Plumps + Smooths","Fragrance Free"]},{"title":"mobile product page preview","position":"right","count":11,"labels":["top shipping bar","mobile header with menu and cart","breadcrumb","main product image","carousel dots","bestseller badge","product title","rating and reviews","price and payment note","quantity stepper","add to cart and buy it now buttons"]}],"desktop_header":{"announcement":"Free shipping on orders over $50","nav_items":["SHOP","BESTSELLERS","SKINCARE QUIZ","ABOUT","JOURNAL"],"icons":["search","account","cart with item count 2"]},"breadcrumb":["Home","Shop","Serums","Hyaluronic Acid Serum"],"mobile_header":{"announcement":"Free shipping on orders over $50","icons":["menu","cart with item count 2"]}},"style":{"aesthetic":"clean modern Shopify-style product page","color_palette":["white","soft beige","light gray","black","warm stone"],"typography":"elegant serif product title paired with minimalist sans-serif UI text","render_quality":"ultra-clean, crisp, realistic, premium e-commerce design, high resolution, ad-ready"}}
 ```
 
+## Youtube screenshot of an openai livestream where sam altman ...
+
+- author: neural nets.
+- source: https://x.com/cneuralnetwork/status/2047009730770661779
+- preview: assets/gpt-image-2-x-discussions/openai-livestream-rahul-cto-screenshot-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Youtube screenshot of an openai livestream where sam altman and rahul gandhi announce that rahul is the new CTO
+```
+
 ## Create a polished Japanese landing page hero image for a fic...
 
 - author: 岡野タケシ弁護士【アトム法律グループ】
@@ -253,6 +279,18 @@ Create a polished Japanese landing page hero image for a fictional divorce-law f
 Create a clean, premium Japanese landing page hero image for a fictional tax accountant office specializing in inheritance tax consultation. The design should look like a modern listing-ad LP first view, wide desktop format, with a soft ivory and warm white background, muted sage green and gold accent colors, elegant serif Japanese typography for the headline, and a calm trustworthy atmosphere. On the left upper area, place a refined circular logo with a thin gold ring, a large serif letter C, and a small botanical line illustration, followed by the office name 税理士事務所 {argument name="office name" default="C"} and the English subtitle TAX ACCOUNTANT OFFICE {argument name="office name" default="C"}. In the top right, add a rounded white contact bar split into 2 blocks: a phone block with a green circular phone icon, the small text 初回相談無料・土日祝も対応, and the large number {argument name="phone number" default="0120-987-654"}; and a mail block with a gold circular mail icon and the text メールでのお問い合わせ 24時間受付中. The main headline on the left should be large Japanese text reading 相続の不安に、安心という答えを。, with the key phrase 安心という答えを。 in sage green. Beneath it, add a supporting sentence in smaller Japanese text: 相続税の申告・節税対策を、経験豊富な税理士がご家族の想いに寄り添い、丁寧にサポートします。 Below that, place 3 rounded rectangular feature cards in a row with pale backgrounds and green line icons: card 1 shows a document icon and the text 相続税申告実績 1,000件以上 with a tiny note ※累計実績; card 2 shows a bar chart icon and the text 節税対策のご提案で 税負担を軽減 with a tiny note ※状況により効果は異なります; card 3 shows a group icon and the text 初回相談 無料 with a tiny note 安心の明朗会計. On the right half, show a bright consultation scene photo-style image: 3 Japanese adults around a desk in a sunlit office with greenery in the background, consisting of 1 male advisor in a navy suit seen from behind on the right, and 2 clients facing him, a middle-aged man in a light beige jacket and a woman in a white blouse. Place an open laptop on the table. Their expressions should feel calm and attentive. Overlay a pale circular badge near the lower right of the photo with delicate leaf decoration and the text 安心の 相続専門サポート わかりやすいご説明ではじめての方も安心. Across the lower middle, add a slim consultation invitation line reading 相続に関するお悩み、まずはお気軽にご相談ください, framed by diagonal slash marks. Under it, place 4 rounded category tabs in a row: 相続税の申告, 生前対策・節税, 遺産分割サポート, 二次相続対策. At the bottom right, add a large green rounded contact CTA area split into 2 main columns: the left column with a white phone icon, the small text お電話でのお問い合わせ（フリーダイヤル）, the large number {argument name="phone number" default="0120-987-654"}, and the small line 受付時間 9:00〜18:00（土日祝対応可）; the right column with a white mail icon, the text メールでのお問い合わせ 24時間受付中, and a rounded white button reading ご相談はこちらから. Along the very bottom, create a white reassurance strip with 3 horizontally arranged items separated by thin vertical dividers: 1) shield icon and 秘密厳守・プライバシー保護を徹底, 2) clipboard icon and 明朗会計・事前お見積りで安心, 3) handshake icon and 相続の専門家がワンストップで対応. Use subtle shadows, rounded corners, soft natural light, polished commercial web design, and a highly believable Japanese legal-tax service advertisement aesthetic.
 ```
 
+## Create a polished Japanese landing-page hero banner for a fi...
+
+- author: 岡野タケシ弁護士【アトム法律グループ】
+- source: https://x.com/takeshibengo/status/2047061602315460747#reversed-0
+- preview: assets/gpt-image-2-x-discussions/product-marketing-japanese-law-tax-services-lp-hero-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a polished Japanese landing-page hero banner for a fictional combined law firm and tax accountant office, with a clean corporate style, high trust, soft daylight, and a white background with faint modern city buildings on the far right. Use a wide horizontal web header layout. At the very top, place a large navy Japanese headline reading {argument name="headline text" default="あなたの『不安』に、確かな専門力で寄り添います。"}, and beneath it a smaller gold-accented Japanese subheadline reading {argument name="subheadline text" default="法律 × 税務のワンストップサポートで、最善の解決へ"}. Below the headline, arrange 4 equal vertical service cards side by side across the center. Card 1 is for criminal defense, with a circular icon showing handcuffs at the top, a cool blue color scheme, the large title "刑事事件", supporting copy "迅速な対応で、あなたの未来を守ります", a photo of a suited male professional seated with hands clasped across a desk, and a dark blue bottom band listing exactly 2 bullet lines with checkmarks: "逮捕・勾留対応" and "示談交渉・不起訴の獲得". Card 2 is for traffic accidents, with a circular icon showing a car crash at the top, a green color scheme, the title "交通事故", supporting copy "適正な補償を受けられるよう、全力でサポートします", a bright desk scene with 2 miniature cars colliding on documents, and a dark green bottom band listing exactly 2 bullet lines: "後遺障害・慰謝料の増額" and "保険会社との交渉代行". Card 3 is for inheritance tax, with a circular icon showing a house at the top, a warm gold color scheme, the title "相続税", supporting copy "円満な相続と、最適な税務対策をサポート", a tabletop scene with a model house, papers, and a calculator, and a mustard-gold bottom band listing exactly 2 bullet lines: "相続税の申告・節税対策" and "生前対策・事業承継支援". Card 4 is for divorce, with a circular icon showing a broken heart at the top, a rose-pink color scheme, the title "離婚", supporting copy "あなたの未来のために、納得できる解決を目指します", a soft professional consultation scene with a woman in a white blouse resting her hand near her chin while speaking across a desk, and a dusty-rose bottom band listing exactly 2 bullet lines: "親権・養育費・財産分与" and "離婚協議・調停・裁判対応". In the bottom area, add the firm identity on the left in Japanese: a small line "法律事務所・税理士事務所", a large firm name {argument name="firm name" default="架空総合法律税務事務所"}, and a smaller line "弁護士・税理士が連携するワンストップサービス". In the lower center, place 3 compact white feature boxes with navy line icons and short Japanese text: box 1 shows a group-of-people icon and says "各分野の専門家が対応", box 2 shows a handshake icon and says "相談者様に寄り添う親身なサポート", box 3 shows a document icon and says "初回相談60分無料". Add a small disclaimer beneath them: "※ご相談の内容によっては有料となる場合がございます。" On the lower right, create a prominent navy call-to-action panel with rounded corners. Include a small Japanese line "まずはお気軽にご相談ください", a large white phone number with phone icon {argument name="phone number" default="03-1234-5678"}, and a gold pill-shaped strip at the bottom reading {argument name="business hours" default="平日 9:00〜18:00（土日祝は事前予約で対応可）"}. Use refined Japanese Mincho-style typography for major headings, crisp spacing, balanced margins, subtle shadows, and premium legal-professional branding.
+```
+
 ## A Japanese listing-ad style landing page hero banner for a f...
 
 - author: 岡野タケシ弁護士【アトム法律グループ】
@@ -275,6 +313,18 @@ A Japanese listing-ad style landing page hero banner for a fictional law office 
 
 ```
 Create a clean, modern Japanese webinar thumbnail in a wide 16:9 layout with a corporate tech-design aesthetic. Use a very light gray background with subtle diagonal translucent panels and bold electric-blue geometric accents, including 3 angular blue-and-white ribbon shapes on the right side behind the speaker. The composition is split into 2 main horizontal sections: a large hero area on top and an information bar across the bottom. In the top-left hero area, place a large bold sans-serif Japanese headline in vivid blue on 2 lines reading {argument name="headline text" default="AI×デザインで\n新事業を創出"}. Beneath it, add a dark-blue rectangular banner with centered white bold text reading {argument name="subheadline text" default="〜社員AI活用率90%超・デザイン費削減達成する方法〜"}. On the right half, show a sharply lit half-body portrait of {argument name="speaker name" default="川合 卓也"}, an East Asian man in his 30s with short black hair, wearing a navy blazer over a white crew-neck shirt, arms folded, facing slightly left toward the headline. His face is intentionally obscured by a square skin-tone blur block centered over the face. Next to his torso, place a white rectangular name card with 2 lines of small black Japanese text above a larger bold black name: {argument name="speaker title" default="株式会社SHIFT AI\nデザイン部長/講師"} and {argument name="speaker name" default="川合 卓也"}. Across the bottom, create a white info bar with thin blue vertical dividers and 4 visual components from left to right: 1) a blue gradient angular K logo with the brand text KAWAI DESIGN in black uppercase sans-serif, 2) the date in large blue text reading 2026/2/9, 3) a blue filled circle containing the white Japanese weekday 月 followed by the time 21:30〜22:30 in large blue text, 4) a blue outlined laptop-and-chat icon followed by the blue text オンライン. Keep typography bold and highly legible, with strong hierarchy, generous spacing, precise alignment, minimal clutter, and a polished webinar promotional design suitable for a business landing page or social media thumbnail.
+```
+
+## twitch screenshot of {argument name="person" default="tung t...
+
+- author: neural nets.
+- source: https://x.com/cneuralnetwork/status/2047010339255157020
+- preview: assets/gpt-image-2-x-discussions/youtube-thumbnail-streaming-scene-screenshot-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+twitch screenshot of {argument name="person" default="tung tung sahur"} playing {argument name="activity" default="chess irl match"} on a stream with demis hannabis
 ```
 
 ## {   "type": "live stream UI mockup",   "subject": {     "des...
@@ -333,6 +383,18 @@ Create a clean, modern Japanese webinar thumbnail in a wide 16:9 layout with a c
     }
   }
 }
+```
+
+## "宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面...
+
+- author: 终极小谢
+- source: https://x.com/Panda20230902/status/2045385588065313057
+- preview: assets/gpt-image-2-x-discussions/song-dynasty-social-media-feed-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+"宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
 ```
 
 ## modern SaaS website homepage, figma style, clean navigation ...
@@ -428,6 +490,122 @@ centered composition, elegant spacing, premium UI design, soft lighting, subtle 
     ]
   }
 }
+```
+
+## 태조 이성계의 X 페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만...
+
+- author: Neotype
+- source: https://x.com/SKA_Neotype/status/2044637900978217334
+- preview: assets/gpt-image-2-x-discussions/king-taejo-yi-seong-gye-x-page-1.jpg
+- lang: ko
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+태조 이성계의 X 페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
+```
+
+## average engineer's screen...
+
+- author: Curious Refuge
+- source: https://x.com/CuriousRefuge/status/2043821402940420309
+- preview: assets/gpt-image-2-x-discussions/average-engineers-screen-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+average engineer's screen
+```
+
+## screen grab of a16z podcast on YouTube...
+
+- author: Curious Refuge
+- source: https://x.com/CuriousRefuge/status/2043821409227681998
+- preview: assets/gpt-image-2-x-discussions/a16z-podcast-youtube-screengrab-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+screen grab of a16z podcast on YouTube
+```
+
+## 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，...
+
+- author: xiaohu
+- source: https://x.com/xiaohu/status/2046536551681954207
+- preview: https://pbs.twimg.com/media/HGbB4--bAAAfGnL.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+```
+
+## 创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像...
+
+- author: GoSailGlobal
+- source: https://x.com/GoSailGlobal/status/2046491397424111659
+- preview: https://pbs.twimg.com/media/HGaYpIJbIAE8rsz.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。
+
+个人资料详情：
+
+一位时尚的年轻男子，有着蓬松的亮黑色短发和白皙的皮肤，从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征，只是将表情改为自然自信的微笑。他握着撕开的纸片边缘，纸屑四处飞溅，营造出强烈的 3D 突破效果。
+
+柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。
+
+重要提示：
+
+- 请勿更改头像
+
+- 保持 X UI 界面准确
+
+- 保留原有的面部特征
+
+- 角色为男性
+
+- 仅增强笑容
+
+- 确保所有中文文字清晰易读
+```
+
+## Generate for me a UI design system with a very cutting-edge,...
+
+- author: pfanis
+- source: https://x.com/pfanis/status/2046414546378584558
+- preview: https://pbs.twimg.com/media/HGZTLbuaUAAczIJ.jpg
+- lang: en
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+Generate for me a UI design system with a very cutting-edge, bold, and unique theme that includes glassy visuals and transparencies
+```
+
+## 9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来...
+
+- author: kylegeeks
+- source: https://x.com/kylegeeks/status/2046479783765397629
+- preview: https://pbs.twimg.com/media/HGaNNPeb0AEXZ5K.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
+```
+
+## 用未来都市风格生成UI设计系统，灵感来自赛博朋克城市夜景，包含霓虹灯、玻璃建筑反射、高对比光影，配色以紫色、蓝色、粉色霓...
+
+- author: AZLnfvp
+- source: https://x.com/AZLnfvp/status/2046468976092533180
+- preview: https://pbs.twimg.com/media/HGaD4PcbUAAOTRf.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+用未来都市风格生成UI设计系统，灵感来自赛博朋克城市夜景，包含霓虹灯、玻璃建筑反射、高对比光影，配色以紫色、蓝色、粉色霓虹为主，设计网页Dashboard、移动端界面、卡片、按钮、控件等，视觉炫酷、层次丰富、科技感极强
 ```
 
 ## Minimal SaaS Launch Hero

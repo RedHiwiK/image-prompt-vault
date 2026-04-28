@@ -1,4 +1,4 @@
-# Portrait (97)
+# Portrait (109)
 
 ## Using this prompt, you can generate high-quality images. Prompt Example: "Portrait by GPT
 
@@ -1124,6 +1124,28 @@ Sweet-cool atmospheric beauty, soft alluring look, tall and slender figure  Scen
 portrait of a young woman with short curly black hair and fair skin, wearing transparent safety goggles and a blue ribbed turtleneck sweater, seated in front of a solid azure blue background, double-exposure motion blur effect to the left side of the face, subtle soft reflections on the glasses, cold ambient lighting, high sharpness on facial features with dreamlike blur trail overlaying second face, fashion editorial studio setup, icy color palette, futuristic retro mood.
 ```
 
+## GPT Image 2.0 just dropped. And it absolutely smokes Nano Ba...
+
+- author: Charlie Hills
+- source: https://x.com/charliejhills/status/2047969988368314526
+- preview: assets/gpt-image-2-x-discussions/candid-bedroom-selfie-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT Image 2.0 just dropped.
+And it absolutely smokes Nano Banana 2.
+I ran the exact same prompt on both models.
+Look at the difference.
+Here's the exact prompt:
+"Candid selfie of a young woman with shoulder-length honey-blonde hair with lighter highlights, green-grey eyes, rosy cheeks, and a natural no-makeup makeup look. She is wearing a light grey hoodie and looking slightly off-camera with a relaxed expression. Background shows a cosy bedroom with warm fairy lights strung on a pink wall, a unmade bed with tan bedding, and a small white desk with stacked books. Soft, warm ambient lighting. Photo-realistic, casual, intimate feel."
+GPT Image 2.0 is on top.
+Nano Banana 2 is on the bottom.
+The gap is not small.
+Try it yourself. You'll see.
+Repost  to help your network.
+```
+
 ## GPT Image 2 on ChatGPT app. Prompt: A cinematic side-profile...
 
 - author: Aijaz
@@ -1160,6 +1182,35 @@ A high-fashion cinematic portrait of a young woman with a thoughtful expression,
 
 ```
 Create a hairstyle analysis chart using this portrait. Show side-by-side hairstyle comparisons to highlight which hairstyles suit the subject best. Make it visual first, with only short labels and no paragraphs.
+```
+
+## 日本人の20代女性 黒髪ポニーテール、女性らしい体型、引き締まったくびれ ナチュラルメイク、均一で滑らかな肌、きめ細かく...
+
+- author: ゆな@Aiラボ🐣
+- source: https://x.com/YUNA_AI_lab/status/2047586978523414729
+- preview: assets/gpt-image-2-x-discussions/japanese-cafe-apron-portrait-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+日本人の20代女性
+黒髪ポニーテール、女性らしい体型、引き締まったくびれ
+ナチュラルメイク、均一で滑らかな肌、きめ細かく透明感のある肌質
+
+エプロンとプリーツミニスカート（シワのない滑らかな生地、ハリのある均一な素材感）、白いチャンキースニーカー
+
+明るいカフェの店内、木目調の家具、観葉植物
+
+カウンターをダスターで拭いている
+立った姿勢、腰の高さからの撮影
+肩越しにこちらを振り返る自然な瞬間
+
+自然光だが色温度はニュートラル（オレンジに寄らない）、白に近い光
+均一なライティング、肌の色
+
+実写風のリアルな写真、50mmレンズ
+浅い被写界深度、シネマティック
+高解像度、シャープ、ノイズなし、ディテールが整っている
 ```
 
 ## An ultra-realistic cinematic portrait of a woman from a phot...
@@ -1248,6 +1299,35 @@ A centered studio portrait of a fluffy {argument name="cat breed" default="ragdo
 
 ```
 A hyper-detailed anime-style fisheye peephole portrait of a young woman leaning in extremely close to the lens in a narrow dim apartment hallway at night. The entire image is framed by the dark circular rim of a door peephole, creating heavy barrel distortion and an intimate, slightly unsettling perspective. She bends forward with both hands resting on her knees, face tilted up toward the viewer, filling most of the frame with one enormous visible eye and a sly, knowing half-smile. Her hair is {argument name="hair color" default="vivid cobalt blue"}, long and slightly tousled with layered bangs covering part of her face, and a black ribbon bow tied at the back. She wears 2 visible star accessories: a metallic star hair clip near her bangs and a small star pin on her blue jacket. Her visible eye is luminous blue with a star-shaped highlight in the iris, rendered with glossy, intricate detail; the other eye is mostly hidden in shadow and hair, half-lidded. She wears a shiny blue bomber-style jacket over a dark top, a delicate necklace with a small cross or star-like pendant, and a dangling chain accessory at her side. Her legs are bare, and she wears dark ankle boots. The setting is a cramped worn corridor with concrete flooring, aged walls, a fluorescent ceiling light, a doorframe, and a small wall-mounted utility box or intercom in the background. Use moody cinematic lighting with cool blue-purple tones, deep shadows, subtle specular highlights, and a slightly eerie but beautiful atmosphere. Highly polished digital illustration, ultra-detailed eyes, soft skin shading, crisp fabric folds, reflective surfaces, dramatic perspective, centered composition, vertical portrait format.
+```
+
+## a stunning asian woman, pale skin, minimalistic makeup, calm...
+
+- author: TopviewAI
+- source: https://x.com/TopviewAIhq/status/2046770234225508775
+- preview: assets/gpt-image-2-x-discussions/asian-fashion-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+a stunning asian woman, pale skin, minimalistic makeup, calm and distant expression, long straight black hair, soft diffused lighting, clean background, cinematic composition, high-end fashion magazine style, delicate details, ethereal mood, 8k realism
+```
+
+## 东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高...
+
+- author: 李岳
+- source: https://x.com/liyue_ai/status/2046962895775580442
+- preview: assets/gpt-image-2-x-discussions/eastern-fantasy-woman-portrait-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀
+长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感
+身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。
+整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围
+背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣
+风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
 ```
 
 ## A candid smartphone mirror selfie in a moody upscale restroo...
@@ -1359,6 +1439,18 @@ Using the provided reference image, turn the candid train snapshot into a clean 
 A surreal studio portrait of a floating human head seen straight-on, centered in the frame against a vivid saturated blue sky with soft fluffy white clouds. The face is entirely obscured by a large smooth rectangular censor block in the center, covering from forehead to chin and most of the cheeks, with a subtle gradient of warm tan to muted blue-gray. Only the outer features remain visible: a close-cropped buzz cut with tight dark speckled hair texture on top, 2 visible ears, and the lower rounded chin and jaw. The head wears colorful eyeglass temples wrapping around the sides only, with no visible front lenses because the center is blocked; the left temple is pale cream with a tiny red-and-gold decorative mark, and the right temple is bright red-orange. Add 2 small rounded nubs peeking above the censor block near the top edge, one yellow on the left and one off-white on the right, creating a quirky toy-like feel. Render it as a hyperreal yet slightly uncanny 3D illustration, smooth skin, soft daylight, minimal composition, shallow depth of field, clean whimsical pop-surreal aesthetic.
 ```
 
+## generate image: Selfie of Sam Altman riding a bear...
+
+- author: Justin
+- source: https://x.com/JustinGorya/status/2046510831832006970
+- preview: assets/gpt-image-2-x-discussions/sam-altman-riding-bear-selfie-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+generate image: Selfie of Sam Altman riding a bear
+```
+
 ## 9:16 vertical — editorial portrait, single subject soft blac...
 
 - author: BubbleBrain
@@ -1392,6 +1484,30 @@ quality: fine grain, slight softness, realistic look
 
 ```
 Create a bold Japanese YouTube thumbnail in a flashy anime-business style, 16:9 landscape, packed composition, high contrast, glossy text effects, neon green and gold color scheme, dramatic lighting, spark particles, lens flares, and intense depth of field. The scene shows a blurred workstation and social media analytics dashboard in the background, with rising line graphs and a visible revenue card reading "ポストアナリティクス" and "収益 ¥248,620". On the right side, place a half-body anime boy streamer with messy dark brown hair accented by vivid neon green streaks, wearing a black hoodie or black jacket, smiling confidently and pointing upward with one finger; leave his face area partially obscured by a large rectangular placeholder block in muted olive-brown so text or a custom portrait can be inserted later. Across the top, add a glossy green ribbon banner with gold trim and a beginner mark icon on the left, containing the text {argument name="headline text" default="初心者向け完全ガイド"}. In the center-left, create a giant metallic gold "10" with thick black outline and strong white highlights, followed by bold white-and-black Japanese text "日で". Below and overlapping the center, place an enormous glowing neon green letter "X" with electric edges and spark effects. To the right of the X and layered prominently in front, add huge 3D Japanese text in white and gold with heavy black outline and drop shadows reading {argument name="main claim text" default="収益化達成"}. On the left side near the main text, include 3 floating social platform-style icons: a black square icon with a white X logo, a blue speech bubble icon with a white heart, and a pink rounded square icon with a white user silhouette. In the bottom-left foreground, place a black coffee mug with a white X logo on a desk. Along the bottom edge, add 3 rounded white information boxes with green borders and subtle shadows, evenly spaced left to right, each topped with a green numbered circle: box 1 labeled "01" with a beginner mark icon and the text "X初心者でも 簡単収益化"; box 2 labeled "02" with a clock icon and the text "1日1時間の 作業でOK"; box 3 labeled "03" with a calendar icon showing "10" and the text "最短10日で 収益化条件達成". Make all typography extra large, embossed, and optimized for thumbnail readability, with thick outlines, strong perspective, and layered overlap. Overall mood: exciting, high-income promise, beginner-friendly, energetic Japanese social media monetization tutorial thumbnail.
+```
+
+## ChatGPT prompt：“根据你对我的认知 给我生成一个“你认识的我”的 图片  ” 看起来是gpt-image-...
+
+- author: heige
+- source: https://x.com/80vul/status/2046218165961753047
+- preview: assets/gpt-image-2-x-discussions/ai-self-perception-portrait-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+ChatGPT prompt：“根据你对我的认知 给我生成一个“你认识的我”的 图片  ” 看起来是gpt-image-2？
+```
+
+## "Sam Altman on a skateboard at a skatepark with no people."...
+
+- author: Ilbs (I love boring stuff)
+- source: https://x.com/Malek1173989/status/2045836887684694395
+- preview: assets/gpt-image-2-x-discussions/sam-altman-skatepark-snapshot-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+"Sam Altman on a skateboard at a skatepark with no people."
 ```
 
 ## {   "type": "2x2 grid of Japanese digital advertisement bann...
@@ -1501,6 +1617,21 @@ Create a bold Japanese YouTube thumbnail in a flashy anime-business style, 16:9 
 }
 ```
 
+## gpt-image-2 的复杂提示词准确性测试 大家可以对比看看图像是不是极为准确地复刻了文字的所有描述且所有物体的空间...
+
+- author: Tz
+- source: https://x.com/Tz_2022/status/2045892003775361198
+- preview: assets/gpt-image-2-x-discussions/urban-turn-back-street-portrait-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+gpt-image-2 的复杂提示词准确性测试
+大家可以对比看看图像是不是极为准确地复刻了文字的所有描述且所有物体的空间位置也是准确的。。。
+提示词如下：
+该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。
+```
+
 ## 1. Open Chat GPT 2. Upload your image 3. Paste Prompt Genera...
 
 - author: Balogun Ibrahim
@@ -1514,6 +1645,56 @@ Create a bold Japanese YouTube thumbnail in a flashy anime-business style, 16:9 
 2. Upload your image
 3. Paste Prompt
 Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+```
+
+## young woman taking selfie with Sam Altman...
+
+- author: Justine Moore
+- source: https://x.com/venturetwins/status/2040273845748449724
+- preview: assets/gpt-image-2-x-arena-likely/young-woman-taking-selfie-with-sam-altman-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+young woman taking selfie with Sam Altman
+```
+
+## generate image: Selfie of Sam Altman riding a bear  Edit pro...
+
+- author: JustinGorya
+- source: https://x.com/JustinGorya/status/2046510831832006970
+- preview: https://pbs.twimg.com/media/HGaqvhiXoAA3SBQ.jpg
+- lang: en
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+generate image: Selfie of Sam Altman riding a bear
+
+Edit prompt: Remove the background make it transparent
+```
+
+## 根据你对我的认知 给我生成一个“你认识的我”的 图片...
+
+- author: 80vul
+- source: https://x.com/80vul/status/2046218165961753047
+- preview: https://pbs.twimg.com/media/HGWgkSvasAAuW2B.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+根据你对我的认知 给我生成一个“你认识的我”的 图片
+```
+
+## サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図...
+
+- author: 16kthir0GRXgNqn
+- source: https://x.com/16kthir0GRXgNqn/status/2046507362266259832
+- preview: https://pbs.twimg.com/media/HGanmTua8AAnw3k.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図
 ```
 
 ## Golden Hour Beauty Portrait

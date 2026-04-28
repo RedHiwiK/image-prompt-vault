@@ -1,4 +1,4 @@
-# Character (33)
+# Character (35)
 
 ## Battle on a Twig: The Armored Warrior's Charge
 
@@ -463,6 +463,20 @@ Create a character design sheet for Hermes Agent, with key info
 A simple anime-style upper-body character illustration on a plain light gray background, centered and facing slightly left in a calm three-quarter pose. The character is a young futuristic female android or virtual idol with {argument name="hair color" default="platinum blonde"} hair, styled with one thick braided bun over the left side of the head, long loose side strands, and smooth straight hair flowing past the shoulders. She wears a geometric sci-fi headset over the left ear with a glowing cyan rectangular panel and angular metallic frame. Her outfit is a sleek white bodysuit with black structural straps and trim, a tall black high-neck collar, and thin glowing cyan accent lines running vertically and diagonally across the chest and torso. She has detached white arm sleeves with black bands, including one small dark diamond-shaped ornament on the upper arm. Render the image as a clean, minimal sketchy illustration with delicate pencil-like linework, light cel shading, soft pastel colors, subtle cyan highlights, and a polished concept-art feel. Keep the composition cropped from the top of the head to below the chest, with lots of negative space and no props, no text, and no detailed background.
 ```
 
+## Image 1: All {argument name="faction A" default="Autobots"} ...
+
+- author: 松果先森
+- source: https://x.com/songguoxiansen/status/2046952548469530716
+- preview: assets/gpt-image-2-x-discussions/transformers-space-scenes-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Image 1: All {argument name="faction A" default="Autobots"} assembled at the lunar base, with Earth hanging in the starry sky behind them and the Cybertron flag flying.
+
+Image 2: All {argument name="faction B" default="Decepticons"} arrayed on the deck of an alien warship, with Megatron sitting on a throne overlooking the entire army.
+```
+
 ## {"type":"anime VTuber livestream overlay illustration","them...
 
 - author: はげあたま
@@ -473,5 +487,17 @@ A simple anime-style upper-body character illustration on a plain light gray bac
 
 ```
 {"type":"anime VTuber livestream overlay illustration","theme":"celestial night sky, stars, constellations, deep sapphire and white, elegant magical idol aesthetic","subject":{"character":{"name":"{argument name=\"character name\" default=\"蒼空なつみ\"}","gender_presentation":"cute young anime woman","hair":{"color":"{argument name=\"hair color\" default=\"pale sky blue\"}","style":"very long wavy twin-tail-like loose hair with a small ahoge, soft bangs, star hair ornaments and ribbons"},"outfit":{"style":"ornate celestial idol dress","pieces":["white off-shoulder blouse with puffy sleeves","large navy blue chest bow with gold star ornament","navy corset-style bodice with gold trim and constellation motifs","star choker necklace","small tilted white mini hat with blue ribbon and gold star accessory"]},"pose":"seated at a streaming desk, centered, facing forward behind a microphone and keyboard","expression":"gentle, calm, welcoming"}},"environment":{"setting":"cozy fantasy streaming room at night with a large window showing a star-filled sky","background_elements":["hanging star garlands and crystal ornaments","shelves with bottles, books, hourglass, telescope-like objects, and celestial decor","moon and constellation imagery outside the window","two fluffy mascot-like cloud plushies with blue eyes"]},"props":{"desk_items":["1 large vintage-style microphone on a stand at left of center","1 decorative keyboard with star-themed keys","1 nameplate reading \"蒼空なつみ - SORA NATSUMI -\"","1 parfait glass dessert topped with a small white bunny figure","1 small cup or candle holder with a cloud mascot"]},"layout":{"format":"full livestream waiting/talking screen overlay","sections":[{"title":"LIVE","position":"top-left vertical banner","count":3,"labels":["LIVE","20:30","05/20 Tue"]},{"title":"COMMENTS","position":"left panel","count":14,"labels":["星見たこ：こんなっつー！ ✨","夜空ヨル：待機完了〜！今日はどんなお話かな？","しろくまアイス：こんなっつー！","天の川りゅうせい：今日も可愛い！大好き！","ふるーすたー：も ふ ぷ","月見うさぎ：楽しみ〜！！","ななせそら：こんなっつー！ ☁️✨","Stella：きちゃー！( *´ω｀)","彗星カケル：配信ありがとう〜！","みずいろねこ：こんなっつー！ 💙","星屑ひかり：今日のサムネもかわいい…！","夜更かしの民：こんなっつー！","ゆめみがち：待ってました！","ハル：今日の衣装も最高に似合ってるぞ〜！"]},{"title":"social tags","position":"below comments panel","count":2,"labels":["@sora_natsumi","#なつみんらいぶ"]},{"title":"goal panel","position":"bottom-left","count":4,"labels":["目標：チャンネル登録者数 100,000人！","現在","58,320 人","いつもありがとう！チャンネル登録高評価よろしくね☆"]},{"title":"supporters panel","position":"bottom-left small card beside goal panel","count":6,"labels":["☆今日の星屑さん（スパチャありがとう！）☆","星の旅人 さん ¥2,000","ふるーすたー さん ¥1,000","天の川りゅうせい さん ¥500","みずいろねこ さん ¥320","流れ星 さん ¥200"]},{"title":"Now Talking","position":"upper-right panel","count":3,"labels":["Now Talking","{argument name=\"talk topic text\" default=\"初見さん歓迎！雑談配信✨\"}","{argument name=\"subtitle text\" default=\"〜まったりお話ししよっ〜\"}"]},{"title":"SET LIST","position":"right-middle panel","count":5,"labels":["01. 星屑になれたら","02. プラネタリウム","03. 夜に駆ける","04. Stellar Stellar","05. 天体観測"]},{"title":"promo card","position":"bottom-right panel","count":3,"labels":["オリジナル曲","星空コンパス","MV公開中！"]}],"logo":{"position":"top-right corner","text":"蒼空なつみ SORA NATSUMI"}},"style":{"rendering":"high-detail polished anime illustration, luminous highlights, soft glow, crisp linework","composition":"symmetrical, dense decorative overlay, character centered with UI panels around her","lighting":"cool moonlit blue ambiance with sparkling gold accents","mood":"dreamy, magical, cozy, elegant"}}
+```
+
+## 날렵한 우주 전투비행체로 변신이 가능한, 여성 안드로이드 캐릭터에 대한 캐릭터 디자인 시트. 한국어로....
+
+- author: 썰렁황제
+- source: https://x.com/iceemperor/status/2044747172617630015
+- preview: assets/gpt-image-2-x-discussions/eclipse-android-spaceship-character-sheet-1.jpg
+- lang: ko
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+날렵한 우주 전투비행체로 변신이 가능한, 여성 안드로이드 캐릭터에 대한 캐릭터 디자인 시트. 한국어로.
 ```
 

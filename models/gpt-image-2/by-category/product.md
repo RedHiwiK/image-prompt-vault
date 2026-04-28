@@ -1,4 +1,4 @@
-# Product (8)
+# Product (21)
 
 ## ECHO SKIN: The Future of Neural Visors Unveiled
 
@@ -254,5 +254,187 @@ DESIGN 1ao
 第 4 阶段 — 设置：[背景]、[审美] 编辑质量
 
 交换：[材料] / [表面处理] / [美学]
+```
+
+## GPT Image 2 E-commerce Product Prompt: CALMING GREEN TEA Fil...
+
+- author: Zara
+- source: https://x.com/ZaraIrahh/status/2047180061657452601
+- preview: assets/gpt-image-2-x-discussions/green-tea-film-kit-product-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT Image 2 E-commerce Product Prompt:
+CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding "CALMING GREEN TEA -- 7 Days to Soothed Skin," pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
+```
+
+## Flatten 3D packaging into 2D net. Expand all panels and tabs...
+
+- author: Mia Taylor | Ad Creative & Meta Ads
+- source: https://x.com/ammiamia_/status/2047370522384846968
+- preview: assets/gpt-image-2-x-discussions/packaging-dieline-flat-net-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Flatten 3D packaging into 2D net. Expand all panels and tabs. Orthographic projection, no distortion. Map textures precisely. Add contrasting die-lines. Pure white background.
+```
+
+## Assemble the dieline into a flawless 3D box with accurate pa...
+
+- author: Salma
+- source: https://x.com/Salmaaboukarr/status/2047008188285792724
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-3d-product-box-dieline-visualization-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Assemble the dieline into a flawless 3D box with accurate panels, clean folds, undistorted type, and artwork preserved exactly. shoot it upright at a refined ¾ angle in a {argument name="setting" default="minimal premium studio setting"} with a soft neutral background, diffused light, subtle shadows, no props, true colours, {argument name="texture" default="matte paperboard texture"}, and realistic editorial detail
+```
+
+## {argument name="character" default="Wang Xifeng"} co-branded...
+
+- author: 冷静|Rational Thinking
+- source: https://x.com/0xcalmcalm/status/2046990892599538034
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-classical-literature-themed-phone-case-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{argument name="character" default="Wang Xifeng"} co-branded phone case, with phoenix crown and traditional bridal robe motif in gold wire relief, and a gold-stamped phoenix pattern on the back.
+```
+
+## {argument name="character" default="Pan Jinlian"}-inspired {...
+
+- author: 松果先森
+- source: https://x.com/songguoxiansen/status/2046783664466677965
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-dark-ancient-chinese-style-packaging-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{argument name="character" default="Pan Jinlian"}-inspired {argument name="product" default="arsenic"} packaging box design, ancient dark style, {argument name="theme" default="Water Margin"} peripheral cultural and creative product.
+```
+
+## A minimalist studio photograph of a round analog wall clock ...
+
+- author: く
+- source: https://x.com/ku_uy_2024/status/2046865623142351157#reversed-0
+- preview: assets/gpt-image-2-x-discussions/e-commerce-main-image-minimal-analog-wall-clock-at-05-29-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A minimalist studio photograph of a round analog wall clock mounted on a smooth light gray wall, centered in frame and viewed straight on. The clock has a matte black circular frame, a clean white face, black Arabic numerals 1 through 12, and thin black minute tick marks around the entire dial with thicker hour marks at each numeral. Show exactly 12 numerals and 60 minute divisions. The time displayed is {argument name="clock time" default="05:29"}: the short hour hand is slightly past 5, the longer minute hand points to the 29-minute mark just before the 6, and a very thin black second hand is near the lower part of the dial around the 31-second position. Soft even lighting, subtle realistic shadow on the wall, high-detail product-photography realism, neutral modern interior aesthetic, no branding, no extra objects, square composition.
+```
+
+## "PSA 10 Pokemon slab [insert image]"...
+
+- author: Emmet Halm
+- source: https://x.com/ehalm_/status/2047021907363369418
+- preview: assets/gpt-image-2-x-discussions/psa-10-pokemon-slab-method-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+"PSA 10 Pokemon slab [insert image]"
+```
+
+## PHASE 1 — FORM: A solid [MATERIAL] glass teardrop, no cap, n...
+
+- author: SRKDAN
+- source: https://x.com/SRKDAN/status/2044652764945338452
+- preview: assets/gpt-image-2-x-discussions/capless-perfume-bottle-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+PHASE 1 — FORM: A solid [MATERIAL] glass teardrop, no cap, no nozzle, no visible opening — scent permeates through the glass
+
+PHASE 2 — SURFACE: [FINISH] exterior, [TEXTURE] to the touch, weight of a river stone
+
+PHASE 3 — LIGHTING: [LIGHT SOURCE] from [DIRECTION], casting [SHADOW TYPE]
+
+PHASE 4 — SETTING: [BACKGROUND], [AESTHETIC] editorial quality
+
+Swap: [MATERIAL] / [FINISH] / [AESTHETIC]
+```
+
+## PHASE 1 — FORM: A [WATCH STYLE] with a perfectly smooth seal...
+
+- author: SRKDAN
+- source: https://x.com/SRKDAN/status/2044660755031544028
+- preview: assets/gpt-image-2-x-discussions/crownless-watch-sealed-case-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+PHASE 1 — FORM: A [WATCH STYLE] with a perfectly smooth sealed case — no crown, no buttons, no openings
+
+PHASE 2 — DIAL: [COLOR] dial, [MATERIAL] finish, hour markers only — no text
+
+PHASE 3 — STRAP: [STRAP MATERIAL] in [COLOR], [TEXTURE] surface
+
+PHASE 4 — SETTING: [SURFACE/CONTEXT], [LIGHT DIRECTION], [MOOD] editorial
+
+Swap: [WATCH STYLE] / [DIAL COLOR] / [STRAP MATERIAL] / [SETTING]
+```
+
+## PHASE 1 — FORM: A [MATERIAL] wallet — no visible stitching, ...
+
+- author: SRKDAN
+- source: https://x.com/SRKDAN/status/2044664616257487266
+- preview: assets/gpt-image-2-x-discussions/seamless-wallet-single-piece-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+PHASE 1 — FORM: A [MATERIAL] wallet — no visible stitching, clasp, or opening, folds perfectly from a single piece
+
+PHASE 2 — SURFACE: [FINISH] exterior, [TEXTURE] grain, [COLOR] tone
+
+PHASE 3 — SCENE: Place it in [ENVIRONMENT] surrounded by [PROPS]
+
+PHASE 4 — LIGHT: [LIGHT TYPE] from [DIRECTION], [COLOR WORLD] palette throughout
+
+Swap: [MATERIAL] / [ENVIRONMENT] / [PROPS] / [COLOR WORLD]
+```
+
+## この商品広告をプロのデザイナー目線でリデザインして。 今のトレンド、ターゲットに合わせた洗練されたデザインで。...
+
+- author: genel_ai
+- source: https://x.com/genel_ai/status/2046498264774791514
+- preview: https://pbs.twimg.com/media/HGafRaKbAAADlrb.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+この商品広告をプロのデザイナー目線でリデザインして。
+今のトレンド、ターゲットに合わせた洗練されたデザインで。
+```
+
+## 在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい...
+
+- author: Yuupapa_free
+- source: https://x.com/Yuupapa_free/status/2046388238982771123
+- preview: https://pbs.twimg.com/amplify_video_thumb/2046386914522255361/img/wG4VXG8ZhIRqaY84.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい
+```
+
+## GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで...
+
+- author: loglogrog
+- source: https://x.com/loglogrog/status/2046437230127034774
+- preview: https://pbs.twimg.com/media/HGZnLqbboAAGFRB.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
 ```
 

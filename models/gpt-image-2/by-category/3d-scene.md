@@ -1,4 +1,4 @@
-# 3D Scene (13)
+# 3D Scene (14)
 
 ## A Tapestry of Cultures: 16x16 Historical Showcase
 
@@ -184,6 +184,18 @@ Two children in calm conversation,soft connection forming.
 
 ```
 Make a 15×15 grid starting with 1000 BC to 2026. In each section, show a unique invention diorama that changed the world at its time, no repeats. Use colors, background, & era relevant components
+```
+
+## A minimalist 3D render of a [SUBJECT], featuring a soft, smo...
+
+- author: Ciri
+- source: https://x.com/Ciri_ai/status/2048388516665852371
+- preview: assets/gpt-image-2-x-discussions/minimal-clay-3d-render-template-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A minimalist 3D render of a [SUBJECT], featuring a soft, smooth clay-like texture, centered and subtly floating. Set against a solid pastel [COLOR] background. Illuminated with soft, diffused studio lighting to enhance clean lines and simple forms. The composition emphasizes a modern, uncluttered aesthetic with a cheerful, approachable tone. High resolution, square format (1:1 aspect ratio)
 ```
 
 ## A highly detailed, realistic first-person video game screens...

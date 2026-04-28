@@ -1,4 +1,4 @@
-# Storyboard (2)
+# Storyboard (3)
 
 ## Eight-Panel GPT Image 2 Launch Manga
 
@@ -24,5 +24,29 @@ Create an eight-panel manga about GPT-Image-2 launching today
 
 ```
 entire superman movie image collage one shot in one output
+```
+
+## Create a cinematic commercial storyboard sheet.  LAYOUT: - F...
+
+- author: Kōda
+- source: https://x.com/aimikoda/status/2047198651605250088
+- preview: assets/gpt-image-2-x-discussions/commercial-storyboard-sheet-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a cinematic commercial storyboard sheet.
+
+LAYOUT:
+- Fixed 6-panel grid (2x3), evenly spaced
+- Clean white or neutral background
+- Each panel clearly separated, no UI, no clutter
+
+GLOBAL STYLE:
+- Cinematic realism, high-end commercial look
+- Soft controlled lighting, consistent across all panels
+- No character or environment drift
+
+STORY ARC (strict order):
 ```
 

@@ -1,4 +1,4 @@
-# Photography (49)
+# Photography (57)
 
 ## A Moment Frozen in Time: 2008 House Party Snapshot
 
@@ -144,6 +144,28 @@ Prompt
 Make an Ultra-wide fisheye lens perspective shot from ground level looking straight up at a young women crouching mid-air between brick buildings forming a circular frame around the sky. She reaches one hand dramatically toward the camera, fingers spread wide, creating strong foreground distortion and depth. Dynamic action pose, confident expression, casual streetwear outfit: fitted white t-shirt, blue straight-leg jeans, red and white sneakers. Urban European neighborhood setting with brick houses, tiled roofs, windows visible around the edges. Bright daylight, clear blue sky, natural lighting, sharp focus, high detail, cinematic composition, exaggerated perspective, 8k resolution, photorealistic, adventure photography style.
 ```
 
+## GPT Image 2 and Seedance 2.0 on Higgsfield Prompt: A realist...
+
+- author: K
+- source: https://x.com/ChillaiKalan__/status/2047862141894681076
+- preview: assets/gpt-image-2-x-discussions/candid-recording-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT Image 2 and Seedance 2.0 on Higgsfield
+Prompt:
+A realistic young woman sitting casually in a softly lit bedroom during late afternoon.
+She is holding her phone very close to her face as if recording a private video or voice note.
+Framing is tight and slightly imperfect.
+Expression: thoughtful, slightly shy, natural.
+Minimal makeup, natural skin texture, relaxed clothing.
+Lighting: warm natural light fading from a window, soft shadows.
+Environment: simple bedroom, calm and lived-in.
+Style: ultra-realistic, looks like a real phone recording, slightly grainy, not cinematic.
+0:08
+```
+
 ## The Battle Of the Giants. Nano Banana Pro vs GPT Image 2. Wh...
 
 - author: Ashish Sheth
@@ -199,6 +221,18 @@ shows scattered crumbs and confetti with a subtle red reflective ground.
 Hyper-realistic commercial food photography, explosive celebratory energy, 
 high contrast dramatic lighting, shallow depth of field with motion blur 
 on flying pieces, 8K ultra-detailed textures, vertical portrait format.
+```
+
+## Japanese negative film aesthetic, bus window seat, soft dayl...
+
+- author: BubbleBrain
+- source: https://x.com/BubbleBrain/status/2047615365870391555
+- preview: assets/gpt-image-2-x-discussions/japanese-negative-film-bus-window-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Japanese negative film aesthetic, bus window seat, soft daylight streaming in, slight overexposure highlights on face and window edges, low contrast, muted faded colors, subtle grain  subject leaning lightly against window, head tilted
 ```
 
 ## Japanese negative film aesthetic, quiet summer afternoon, na...
@@ -363,6 +397,19 @@ A hyper-realistic nighttime street photo seen entirely through a large circular 
 A realistic nighttime street photo shot as a mirror selfie through a large roadside convex traffic mirror, vertical 3:4 composition, with the entire circular mirror filling the frame and no black empty border outside the reflected scene. Use a strong fisheye lens and a slightly exaggerated dome-mirror effect so the road, scaffolding, poles, buildings, and lane markings bend heavily toward the edges. At the bottom center of the reflection, show a young person from about waist up taking the photo, wearing a {argument name="jacket style" default="black leather jacket"}, with short dark hair, small silver hoop earrings, and 2 visible silver rings, holding a {argument name="phone model" default="white iPhone 15 Pro Max"} up to cover most of the face. The subject stands casually with one hand in a pocket, centered in the mirror. The street is wet and glossy, reflecting intense red light. Include 1 moving dark car crossing the curved road from left to right with subtle motion blur and bright red taillight streaks. Surround the road with dense construction scaffolding and striped barriers; show exactly 2 red-and-yellow diagonal road barriers along the right and upper-right curve and additional striped safety panels around the left side. Include 3 clearly visible red traffic lights glowing in the background. Across the top arc, place a scaffold-wrapped building with large bright red Chinese neon signage. Lighting is dominated by red neon signs and street lamps, casting saturated red highlights across the asphalt and metal structures. The mood is cinematic, urban, candid, and realistic, with a gritty night-street atmosphere in an East Asian city.
 ```
 
+## 以手机随手拍摄的日常风格，桌面上摆放着一款 【成龙】【功夫】 动漫手办，动作夸张帅气，装备齐全。 同时，真实世界的对应人...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2046793436972392726
+- preview: assets/gpt-image-2-x-discussions/daily-snapshot-anime-figure-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+以手机随手拍摄的日常风格，桌面上摆放着一款 【成龙】【功夫】 动漫手办，动作夸张帅气，装备齐全。
+同时，真实世界的对应人物也出现在镜头中，与手办摆出相似的姿势，形成手办与真实人物同框的有趣对比效果。画面背景模糊、浅淡柔和，强调主角清晰突出，整体构图和谐自然，传递温暖且富有生活气息的视觉体验。
+```
+
 ## {"type":"apparel turnarounds reference sheet","subject":{"mo...
 
 - author: さとりお
@@ -445,6 +492,18 @@ photorealistic portrait of a real person with facial features identical to the m
 
 ```
 A photorealistic close-up tabletop scene showing a large mound of uncooked long-grain white rice poured onto a warm brown wooden surface, filling almost the entire frame. The camera is slightly elevated and angled toward the pile so the rice forms a broad dome centered in the image, with thousands of individual grains sharply visible and softly lit by warm indoor lighting. Hide a tiny easter egg in the rice: exactly 1 unusual rice grain near the lower-left area is rotated horizontally and has the text "{argument name="engraved text" default="GPT Image 2"}" neatly engraved on its surface in small legible letters. Add a circular magnified callout in the bottom-left corner with a bright red outline, zooming in on that single engraved grain among surrounding rice grains so the text becomes readable. Also add exactly 1 small picture-in-picture inset in the bottom-right corner showing a casual indoor livestream or interview setting with 4 seated people around a round wooden table and an open laptop, warm ambient lighting, and faces slightly indistinct; the inset should feel like a secondary contextual thumbnail, much smaller than the main rice image. Prioritize realistic texture, convincing macro detail, natural shadows, subtle ivory color variation in the rice, and clear but believable engraved text on the highlighted grain.
+```
+
+## picture perfect image of the {argument name="celestial objec...
+
+- author: am.will
+- source: https://x.com/LLMJunky/status/2047044085962473560
+- preview: assets/gpt-image-2-x-discussions/social-media-post-astronomical-orion-nebula-generation-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+picture perfect image of the {argument name="celestial object" default="Great Orion Nebula"}
 ```
 
 ## A cute anime chibi girl walking toward the camera on the tre...
@@ -557,6 +616,18 @@ Mood: fierce, powerful, and alluring . Tifa Lockhart at her most badass and capt
 Using the provided reference image, upscale and restore the old soccer photograph into a sharper, higher-resolution, photorealistic version. Keep the same player, waving pose, blue Universidad de Chile jersey, stadium setting, and similar framing, but improve facial-area reconstruction only as much as needed under the existing censorship block, clean up the jersey details and folds, enhance color and contrast, and make the crowd/background more naturally blurred with a polished shallow-depth-of-field look. Preserve the vintage daylight sports-photo feeling while making it look clearer, crisper, and professionally remastered.
 ```
 
+## 平成初期の渋谷センター街を当時の撮影機材で撮影。...
+
+- author: のるま
+- source: https://x.com/noruma_noel/status/2046564620895494283
+- preview: assets/gpt-image-2-x-discussions/early-heisei-shibuya-center-gai-street-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+平成初期の渋谷センター街を当時の撮影機材で撮影。
+```
+
 ## 9:16 vertical — Japanese Fuji film style couple portrait, tw...
 
 - author: BubbleBrain
@@ -582,6 +653,18 @@ mood: warm, romantic, intimate everyday moment, natural affection
 quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
 ```
 
+## 平成バブル期のジュリアナ東京で踊る女性達をお立ち台下から当時の機材で素人が撮影。...
+
+- author: のるま
+- source: https://x.com/noruma_noel/status/2046564620895494283
+- preview: assets/gpt-image-2-x-discussions/juliana-tokyo-bubble-era-dance-floor-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+平成バブル期のジュリアナ東京で踊る女性達をお立ち台下から当時の機材で素人が撮影。
+```
+
 ## A clean modern YouTube thumbnail on a bright white backgroun...
 
 - author: corbin
@@ -592,6 +675,28 @@ quality: ultra-realistic, analog film look, fine grain, slight softness, natural
 
 ```
 A clean modern YouTube thumbnail on a bright white background, split visually between bold text on the left and a cropped presenter on the right. On the left, place a massive stacked headline in heavy black sans-serif uppercase reading {argument name="headline text" default="CLAUDE DESIGN"}, aligned top-left across two lines. Below it, add a large rounded rectangular orange banner with a subtle drop shadow containing bold white uppercase text with an orange outline that reads {argument name="subheadline text" default="IN 6 MINS"}. Near the headline, include 2 orange starburst spark shapes, one small beside the text and one much larger in the far right background. In the lower-left quadrant, show a floating app interface mockup for a design tool dashboard with a soft off-white panel, thin borders, rounded corners, and a faint shadow. The interface should have a left sidebar with 4 menu items labeled exactly: "Recent", "Your designs", "Examples", and "Design systems". The main panel header should say "Recent" and contain 3 project cards arranged in a grid, labeled exactly: "Thumio Design System", "Thumio Startup", and "Design System". On the right half, show a cropped photorealistic young adult man from chest up wearing a white turtleneck sweater, with messy light brown hair and light facial hair, positioned close to camera. His face is intentionally obscured by a solid tan rectangle placeholder covering most of the face area. He points with one hand toward the interface panel on the left, finger extended. Use a warm orange and white brand palette, high contrast, minimal clutter, polished creator-economy thumbnail styling, subtle shadows, and a composition designed for tech tutorial content.
+```
+
+## {   "prompt": {     "style_and_tech": "mobile phone photo, o...
+
+- author: BubbleBrain
+- source: https://x.com/BubbleBrain/status/2046190539213885806
+- preview: assets/gpt-image-2-x-discussions/ccd-caught-off-guard-homewear-portrait-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+{
+  "prompt": {
+    "style_and_tech": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur",
+    "subject": "young Korean female idol, soft innocent look",
+    "pose": "mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised",
+    "expression": "eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression",
+    "clothing": "loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing",
+    "vibe": "unprepared, intimate, accidental moment, evokes curiosity and protectiveness"，
+    "aspect ratio": "9:16"
+  }
+}
 ```
 
 ## 9:16 vertical — a 3x3 grid collage (nine images) forming a K...
@@ -657,6 +762,18 @@ PHASE 3 — SURFACE: Place on [SURFACE], shallow depth of field
 PHASE 4 — MOOD: [MOOD] editorial atmosphere, photorealistic crystal, no overlays
 
 Swap: [LETTER] A-Z / [SURFACE] black velvet, white marble, dark slate / [LIGHT_COLOR] warm amber, cold blue, soft gold
+```
+
+## POV from a biker riding around the Stanford campus...
+
+- author: Curious Refuge
+- source: https://x.com/CuriousRefuge/status/2043821405633188197
+- preview: assets/gpt-image-2-x-discussions/pov-biker-stanford-campus-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+POV from a biker riding around the Stanford campus
 ```
 
 ## A top-down, photorealistic close-up shot of a single page in...

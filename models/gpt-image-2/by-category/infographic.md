@@ -1,4 +1,4 @@
-# Infographic (53)
+# Infographic (63)
 
 ## Decoding Ancient Chinese Naval Warfare: A Tactical Infographic
 
@@ -597,6 +597,18 @@ Content:
 Create a clean, symmetrical Chinese feng shui infographic poster in a traditional almanac style on a warm light beige background. The main title at the top is large dark red Chinese calligraphy text reading {argument name="headline text" default="2026年九宫飞星图"}, with a smaller subtitle beneath in black reading {argument name="subtitle text" default="（丙午年）"}. Add a decorative compass rose in the upper left corner labeled with the four cardinal directions in Chinese: 南 at top, 北 at bottom, 东 at left, 西 at right. Center the composition around a 3x3 grid of 9 bordered square panels with thin ornamental Chinese-style corners, evenly spaced and perfectly aligned. Each square contains a large colored number, a Chinese star name, one line beginning with 吉星 or 凶星, and an illustrative symbolic object. Top row has 3 panels: top-left labeled 东南 with a purple-framed panel for number 9 and text 九紫右弼星, plus 吉星: 喜庆、姻缘、贵人, illustrated with purple balloons, a gift box, and a small firework burst; top-center labeled 正南 with an orange-framed panel for number 5 and text 五黄廉贞星, plus 凶星: 灾祸、意外、疾病, illustrated with a gold gourd and ancient Chinese coins tied with a red tassel; top-right labeled 西南 with a gold-framed panel for number 7 and text 七赤破军星, plus 凶星: 破财、口舌、盗贼, illustrated with a brass bell and a silver sword. Middle row has 3 panels: middle-left aligned with 正东 in large vertical side text, a green-framed panel for number 8 and text 八白左辅星, plus 吉星: 财运、置业、积蓄, illustrated with a bonsai-like money tree and gold ingots; middle-center labeled 中宫 in a blue capsule tag overlapping the top edge of the center square, a blue-framed panel for number 1 and text 一白贪狼星, plus 吉星: 人缘、感情、智慧, illustrated with a crystal ball on a wooden stand; middle-right aligned with 正西 in large vertical side text, a green-framed panel for number 3 and text 三碧禄存星, plus 凶星: 是非、口舌、争执, illustrated with bamboo and a small stacked rock fountain. Bottom row has 3 panels: bottom-left labeled 东北 with a green-framed panel for number 4 and text 四绿文曲星, plus 吉星: 学业、文昌、考试, illustrated with an open book, brush pen, and ink stone with bamboo leaves behind; bottom-center labeled 正北 with a gold-framed panel for number 6 and text 六白武曲星, plus 吉星: 权力、贵人、偏财, illustrated with a golden guardian lion statue on a pedestal holding a ball; bottom-right labeled 西北 with a gray-framed panel for number 2 and text 二黑巨门星, plus 凶星: 病痛、伤害、阻滞, illustrated with a stone pagoda and a small incense burner. Use exactly 6 outer direction labels around the grid: 东南, 正南, 西南 above the top row, and 东北, 正北, 西北 below the bottom row, each inside rounded capsules matching the panel colors. Add exactly 2 large vertical side direction labels outside the grid: 正东 on the left side and 正西 on the right side. At the bottom center, add a pill-shaped legend with 2 segments: a red segment reading 吉星: 1、4、6、8、9 and a dark gray segment reading 凶星: 2、3、5、7. Include faint pale cloud motifs behind some objects for traditional atmosphere. Style is crisp vector-infographic with soft watercolor-like object rendering, high readability, balanced spacing, and an elegant Chinese metaphysical chart aesthetic.
 ```
 
+## the life cycle of {argument name="insect" default="house fly...
+
+- author: Donna Perry
+- source: https://x.com/Donnapez7571/status/2047048094701801824
+- preview: assets/gpt-image-2-x-discussions/biological-life-cycle-diagram-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+the life cycle of {argument name="insect" default="house fly"} showing amazing eyes
+```
+
 ## A premium fast-food commercial product photograph of a gourm...
 
 - author: 𝐌
@@ -853,6 +865,18 @@ Optional: add a small side section explaining Training Phase (datasets, learning
 Make it visually balanced, easy to understand for beginners, and suitable for educational or social media use
 ```
 
+## バックプロパゲーションについて詳しく図解して...
+
+- author: IT navi
+- source: https://x.com/itnavi2022/status/2046494262158930154
+- preview: assets/gpt-image-2-x-discussions/backpropagation-explainer-infographic-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+バックプロパゲーションについて詳しく図解して
+```
+
 ## Please create a cartoon-style infographic based on the provi...
 
 - author: 宝玉
@@ -903,6 +927,18 @@ Please create the illustration based on the input provided.
 ---  
 
 {Your conent}
+```
+
+## デメニギスの体の構造を解説するカラー図鑑のページ...
+
+- author: IT navi
+- source: https://x.com/itnavi2022/status/2046500429786402973
+- preview: assets/gpt-image-2-x-discussions/demenigis-anatomy-color-guide-1.jpg
+- lang: ja
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+デメニギスの体の構造を解説するカラー図鑑のページ
 ```
 
 ## {   "type": "evolutionary timeline infographic",   "instruct...
@@ -957,6 +993,18 @@ Please create the illustration based on the input provided.
 }
 ```
 
+## Create an explanatory slide ({argument name="format" default...
+
+- author: やまもん
+- source: https://x.com/yammamon/status/2045778624092254603
+- preview: assets/gpt-image-2-x-discussions/momotaro-explainer-slide-in-hybrid-style-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
+```
+
 ## {   "type": "exploded view product diagram poster",   "subje...
 
 - author: wory＠ホッピング中
@@ -1003,6 +1051,33 @@ Please create the illustration based on the input provided.
 }
 ```
 
+## 请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。  要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明...
+
+- author: Larus Canus
+- source: https://x.com/MrLarus/status/2045504669401653414
+- preview: assets/gpt-image-2-x-discussions/museum-style-hanfu-breakdown-infographic-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+
+要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+
+整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
+
+版式固定为：
+- 顶部：中文主标题 + 副标题 + 导语
+- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
+- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
+- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
+- 底部：穿着顺序 / 构成流程图 + 核心特征总结
+
+若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+
+避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
+```
+
 ## Infographic which shows the progression of F1 Ferrari cars f...
 
 - author: David Hendrickson
@@ -1013,6 +1088,104 @@ Please create the illustration based on the input provided.
 
 ```
 Infographic which shows the progression of F1 Ferrari cars from old to latest new 2026 Ferrari Formula 1 car, the SF-26 (codenamed Project 678), which was officially revealed on January 23, 2026.
+```
+
+## 请根据【主题】生成一张高质量竖版「科普百科图」。   这张图不是普通海报，也不是单纯插画，而是一张兼具“图鉴感、百科感、...
+
+- author: MrLarus
+- source: https://x.com/MrLarus/status/2046231542817497392
+- preview: https://pbs.twimg.com/media/HGWr_g5W8AAfcpm.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+请根据【主题】生成一张高质量竖版「科普百科图」。 
+
+这张图不是普通海报，也不是单纯插画，而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+
+请让画面包含：
+- 一个清晰漂亮的主题主视觉
+- 若干局部特征放大细节
+- 多个圆角模块化信息分区
+- 清楚的标题层级与重点标签
+- 简洁但丰富的百科内容
+- 可视化评分、要点总结或Top 5模块
+
+内容栏目请根据主题自动适配，优先从这些方向中选择并合理组合：
+基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+
+视觉要求：
+浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整洁排版，信息密度高但不拥挤，阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡，而不是广告图。
+
+请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
+```
+
+## 生成【城市】三天旅游攻略，就这么简单一句话...
+
+- author: MrLarus
+- source: https://x.com/MrLarus/status/2046523494003851300
+- preview: https://pbs.twimg.com/media/HGa2KbFXMAAv9Wh.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+生成【城市】三天旅游攻略，就这么简单一句话
+```
+
+## GPT-image-2でこの手相を診断して詳細な鑑定書を作って 生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を...
+
+- author: agi_aibusi
+- source: https://x.com/agi_aibusi/status/2046530764871696750
+- preview: https://pbs.twimg.com/media/HGa8bFSbsAA6rpa.jpg
+- lang: ja
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+GPT-image-2でこの手相を診断して詳細な鑑定書を作って
+生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。
+助言を重点的に高品質な占い鑑定書にまとめること。
+```
+
+## 请根据【主题】，生成一张高设计感的人物关系图海报。要求这张图不是普通插画，而是兼具信息可视化、叙事结构、海报设计感和作品...
+
+- author: MrLarus
+- source: https://x.com/MrLarus/status/2046263153546174935
+- preview: https://pbs.twimg.com/media/HGXHhQcbAAAFcYA.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+请根据【主题】，生成一张高设计感的人物关系图海报。要求这张图不是普通插画，而是兼具信息可视化、叙事结构、海报设计感和作品风格还原度的人物关系图。
+
+请自动完成以下内容：
+- 识别该主题对应的作品及其核心设定
+- 提取最具代表性的 6–12 位关键人物，必要时不超过 15 位
+- 识别并展示关键人物关系，包括血缘、爱情、友情、联盟、敌对、师徒、主从、操控、背叛、秘密关系等
+- 自动按作品特点选择合适的构图方式，如主角中心型、双核心对峙型、阵营分区型、家族谱系型或时间演变型
+- 自动提炼作品的风格DNA，包括色彩、世界观符号、材质纹理、情绪氛围、排版语言和代表性元素
+- 将这些风格元素转化为人物关系图的整体视觉设计，而不是简单复制某张官方海报
+- 用不同颜色、线型、箭头区分不同关系，保证线条清晰、层次分明、不杂乱
+- 核心人物最突出，重要人物次之，次级人物弱化，形成明确视觉层级
+- 每个人物名称清晰可读，必要时可加入身份或阵营标签
+
+最终成品应满足：
+- 一眼看懂人物主次和关键关系
+- 具有明显的原作品气质与设定感
+- 兼具信息图的清晰度与海报的高级设计感
+- 画面统一、精致、完整、适合社交媒体传播或海报展示
+- 避免廉价流程图感、避免杂乱堆砌、避免信息过载
+```
+
+## 帮我制作辣椒炒肉这道菜的详细制作流程图，真实风格，适用于小红书图文比例...
+
+- author: Kurt_Rousey466
+- source: https://x.com/Kurt_Rousey466/status/2046267707881029934
+- preview: https://pbs.twimg.com/media/HGXNeVCaAAQ7dMa.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+帮我制作辣椒炒肉这道菜的详细制作流程图，真实风格，适用于小红书图文比例
 ```
 
 ## Isometric Workflow Diagram

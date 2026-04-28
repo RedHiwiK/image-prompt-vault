@@ -1,4 +1,28 @@
-# Icon (2)
+# Icon (4)
+
+## Create a cohesive collection of playful icons for [BRAND NAM...
+
+- author: Aleena Amir
+- source: https://x.com/aleenaamiir/status/2047546614257221653
+- preview: assets/gpt-image-2-x-discussions/playful-brand-icon-collection-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Create a cohesive collection of playful icons for [BRAND NAME], a [BRAND TYPE/INDUSTRY] brand. Style should be [STYLE KEYWORDS: e.g., rounded, 3D, flat, hand-drawn, minimal] with a [COLOR STYLE: vibrant, pastel, gradient, monochrome] palette. Use [DESIGN TRAITS: soft shadows, bold outlines, subtle textures, glow, etc.] to give a friendly and modern feel. Maintain consistency across all icons with a unified grid, proportions, and visual language. Icons should represent [LIST OF FEATURES/FUNCTIONS]. Ensure high clarity, balanced spacing, and scalable design suitable for UI, apps, and branding.
+```
+
+## A clean minimalist corporate promo graphic on a very light g...
+
+- author: 暁
+- source: https://x.com/akatuki_me/status/2047123658024652905#reversed-0
+- preview: assets/gpt-image-2-x-discussions/product-marketing-microsoft-powerwordex-promo-graphic-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+A clean minimalist corporate promo graphic on a very light gray background, centered horizontally. On the left, create a glossy 3D stack of 4 overlapping Microsoft Office-style app icons with rounded corners and soft shadows: frontmost a large blue PowerPoint tile with a smaller raised blue square containing a bold white capital P; behind it a white and blue Word document icon with a folded top-right corner and 3 horizontal blue text lines; behind that a green Excel sheet icon with a white grid; and at the back an orange presentation slide icon with a pale pie chart. The icons should be layered tightly into one compact cluster with modern smooth gradients, subtle reflections, and soft depth. To the right of the icon cluster, place the black word “Microsoft” in a clean sans-serif font above a single large headline reading “PowerWordEx”, visually combining 3 product names into one word: “Power” in an orange-to-red gradient, “Word” in a deep blue gradient, and “Ex” in a cyan-to-teal gradient. Keep the typography crisp and balanced, with generous whitespace, a polished tech-brand aesthetic, and a wide banner-like composition.
+```
 
 ## A clean minimalist white-background promotional graphic styl...
 

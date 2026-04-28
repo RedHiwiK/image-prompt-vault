@@ -1,4 +1,4 @@
-# Anime (8)
+# Anime (11)
 
 ## Dark Fantasy Card Art
 
@@ -53,6 +53,18 @@ Create a bright anime concert poster image for an original adult virtual idol pe
 Two girls with a fated grudge, anime illustration
 ```
 
+## the Straw Hat crew gathered on the deck of the Thousand Sunn...
+
+- author: 宝玉
+- source: https://x.com/dotey/status/2047114473253838969
+- preview: assets/gpt-image-2-x-discussions/straw-hat-crew-golden-hour-deck-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+the Straw Hat crew gathered on the deck of the Thousand Sunny at golden hour, each character mid-laugh, in motion, or relaxing. Luffy leans over the rail with a grin, Nami charts something on the table, and Chopper clutches a cotton candy stick. The ship's polished wood glows under warm sunlight, and distant seabirds fly across a coral-tinted horizon.
+```
+
 ## A dark cyberpunk anime illustration of a lone young woman wi...
 
 - author: しゃるる@汝ゴスロリを愛せ
@@ -87,5 +99,29 @@ A dark cyberpunk anime illustration of a small eerie girl standing in a narrow r
 
 ```
 Create a hyper-saturated Japanese YouTube thumbnail in a flashy clickbait anime style, 16:9 landscape, with a split composition: huge stacked text blocks dominating the left two-thirds and an anime character on the right one-third. The background is a fiery explosion of red, orange, and gold energy with glowing sparks, lens flares, glittering star highlights, and a high-contrast metallic shine effect everywhere. On the left, place 4 bold text groups stacked vertically with thick black outlines, white inner strokes, intense outer glow, and glossy 3D treatment. Top line: giant Japanese headline text {argument name="headline text" default="紅エンジニア必見"} in vivid red with white edging and bright gold spark accents. Second line: a rounded square orange app-like icon with a white stylized "M" to the left of the word {argument name="product name" default="masatra"} in enormous lowercase white sans-serif letters with black outline and subtle gray shading. Third line: a black rectangular banner with compact bold white Japanese text reading "次世代AIエージェントフレームワーク". Bottom line: very large gold metallic Japanese text {argument name="bottom text" default="徹底解説"} with beveled 3D embossing, orange-to-gold gradient, bright specular highlights, and glowing edges. On the right, show 1 anime-style young adult woman from chest up, with {argument name="hair color" default="brown"} medium-length hair, wearing a white open lab coat over a white shirt, leaning toward the camera and pointing directly at the viewer with a foreshortened hand and extended index finger in the foreground. Her pose should feel confident, urgent, and attention-grabbing. Use dramatic rim lighting from the fiery background, strong orange highlights on skin and clothing, and a polished commercial thumbnail finish. Reserve a large rectangular area over the upper-right face region as a flat placeholder block in {argument name="placeholder color" default="light brown"}, obscuring most of the face. Make the overall design extremely dense, glossy, explosive, and optimized for maximum readability at small size.
+```
+
+## An anime-style illustration of a {argument name="action type...
+
+- author: たねもみ 2.0 / Tanemomi Ver2.0
+- source: https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0
+- preview: assets/gpt-image-2-x-discussions/anime-martial-arts-battle-illustration-1.jpg
+- lang: zh
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="character 1 color theme" default="red and white"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name="character 2 color theme" default="green and purple"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text "{argument name="sign text" default="武術会"}". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.
+```
+
+## 生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。...
+
+- author: songguoxiansen
+- source: https://x.com/songguoxiansen/status/2046476566537080849
+- preview: https://pbs.twimg.com/media/HGaLQTfbkAA3xpN.jpg
+- lang: zh
+- upstream: EvoLinkAI/awesome-gpt-image-2-prompts
+
+```
+生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
 ```
 

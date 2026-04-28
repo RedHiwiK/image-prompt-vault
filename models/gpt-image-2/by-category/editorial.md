@@ -1,4 +1,4 @@
-# Editorial (3)
+# Editorial (5)
 
 ## Summer Outfit Editorial Collage
 
@@ -38,6 +38,55 @@ These are just examples, I need you to actively think about other elements / sty
 Use an unstructured, creative and artistic layout, such as but not limited to fan out, avoid grid-like layouts. Portrait 4:5 aspect ratio. Don't add any content text beside the "Create Everything at Once" title. Text as part of the art is okay.
 
 Avoid a beige tint of the overall style, since we want vibrant elements to be vibrant.
+```
+
+## Nano Banana 2 vs. GPT Image 2. Ten sam prompt, dwa różne rez...
+
+- author: Andrzej Iskrzycki _ AI
+- source: https://x.com/andis13/status/2047204384811921764
+- preview: assets/gpt-image-2-x-discussions/magazine-travel-guide-feature-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+Nano Banana 2 vs. GPT Image 2. Ten sam prompt, dwa różne rezultaty.
+PROMPT: "Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts"
+@swiat_ai
+@ProfitAII
+```
+
+## GPT Image 2 on @itsPolloAI GPT Image 2 is now live on the Po...
+
+- author: simeon-sanai
+- source: https://x.com/Naiknelofar788/status/2047207812800147647
+- preview: assets/gpt-image-2-x-discussions/vintage-newspaper-front-page-1.jpg
+- lang: en
+- upstream: erickkkyt/awesome-gptimage2-prompts
+
+```
+GPT Image 2 on
+@itsPolloAI
+GPT Image 2 is now live on the Pollo AI mobile app - available on iOS & Android.
+Create faster. Push boundaries. No excuses left.
+Prompt:
+Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.
+The main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.
+Create a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.
+Add realistic newspaper elements:
+Columns of small text (in the style of lorem ipsum, but framed like real news)
+At the top is the fictitious name of the publication (for example, “The Daily Prompts”, “AI Times” or similar - think creatively, according to the picture)
+Date, issue number and location
+Decorative lines, dividers, and vintage typography
+Small additional articles or captions to the main image
+Optional stamps, doodles, or editorial notes to add personality.
+Style:
+Black and white or slightly faded monochrome paper
+Fine paper texture, grain, and ink defects
+Small shadows and creases that mimic real printed paper
+The aesthetics of a clean but slightly worn vintage newspaper
+Mood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.
+Aspect ratio: 4:5 or 1:1
+High-detail, ultra-realistic hybrid of editorial photography and print design.
 ```
 
 ## Editorial AI Essay Header
